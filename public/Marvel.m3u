@@ -1,8 +1,8 @@
 #EXTM3U size="Medium"
 #EXTINF:-1 type="video" tvg-id="Blade: O Caçador de Vampiros (1998)" tvg-logo="" description="",Blade: O Caçador de Vampiros (1998)
-https://proxy-heroku.onrender.com/proxy/movie/580493864/762284416/206108.mp4
+http://cdn-br.in/movie/978460358/473005646/1227625.mp4
 #EXTINF:-1 type="video" tvg-id="Blade II: O Caçador de Vampiros (2002)" tvg-logo="" description="",Blade II: O Caçador de Vampiros (2002)
-https://proxy-heroku.onrender.com/proxy/movie/580493864/762284416/206109.mp4
+https://proxy-heroku.onrender.com
 #EXTINF:-1 type="video" tvg-id="Blade: Trinity (2004)" tvg-logo="" description="",Blade: Trinity (2004)
 https://proxy-heroku.onrender.com/proxy/movie/580493864/762284416/206110.mp4
 #EXTINF:-1 type="video" tvg-id="Capitão América: O Primeiro Vingador (2011)" tvg-logo="" description="",Capitão América: O Primeiro Vingador (2011)
