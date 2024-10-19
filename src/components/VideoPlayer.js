@@ -34,7 +34,7 @@ const VideoPlayer = ({ url }) => {
   return (
     <div className="video-player">
       {url ? (
-        <video ref={videoRef} controls width="100%" height="100%" />
+        <video ref={videoRef} controls autoPlay />
       ) : (
         <p>Selecione um stream para reproduzir</p>
       )}

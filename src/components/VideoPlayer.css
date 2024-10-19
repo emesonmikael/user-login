@@ -20,3 +20,17 @@
     color: #fff;
     padding: 20px;
   }
+  video-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  video {
+    width: 100%; /* Ocupa toda a largura disponível */
+    max-height: 60vh; /* Limita a altura para 60% da tela */
+    object-fit: contain; /* Mantém proporções corretas */
+  }
