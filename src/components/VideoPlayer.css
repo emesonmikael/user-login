@@ -1,16 +1,6 @@
 
 /* src/components/VideoPlayer.css */
-.video-player {
-    flex: 1;
-    background-color: #000;
-    border-radius: 8px;
-    overflow: hidden;
-    max-width: 800px;
-    height: 450px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+
   
   .video-player video {
     border-radius: 8px;
@@ -33,4 +23,20 @@
     width: 100%; /* Ocupa toda a largura disponível */
     max-height: 60vh; /* Limita a altura para 60% da tela */
     object-fit: contain; /* Mantém proporções corretas */
+  }
+  .container {
+    display: flex;
+    gap: 10px; /* Espaçamento entre lista e player */
+    padding: 10px;
+  }
+  
+  .video-player {
+    width: 100%;
+  }
+  
+  .stream-list {
+    flex: 1;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
   }
