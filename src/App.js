@@ -31,7 +31,7 @@ import M3UPlayerOiPlay from './OiPlay';
 import M3UPlayerLooke from './Looke';
 import M3UPlayerFilmicca from './Filmicca';
 import M3UPlayerLancamentos2024 from './Lancamentos2024';
-
+import M3UPlayerLançamentos2022 from './Lançamentos2022'
 import M3UPlayerLançamentos2023 from './Lançamentos2023';
 import M3UPlayerGuerra from './Guerra';
 import M3UPlayerMarvel from './Marvel';
@@ -105,7 +105,7 @@ function App() {
         <Route path="/Suspense" element={<PrivateRoute ><M3UPlayerSuspense /></PrivateRoute>} />
         <Route path="/Documentarios" element={<PrivateRoute ><M3UPlayerDocumentarios/></PrivateRoute>} />
         <Route path="/Religiosos" element={<PrivateRoute ><M3UPlayerReligiosos /></PrivateRoute>} />
-
+        <Route path="/Lançamentos2022" element={<PrivateRoute ><M3UPlayerLançamentos2022 /></PrivateRoute>} />
          <Route path="/Marvel/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
         <Route path="/Lançamentos2023/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
         <Route path="/Faroeste/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
@@ -146,7 +146,7 @@ function App() {
         <Route path="/Looke/player/:channelName" element={<PlayerPage />} />
         <Route path="/Filmicca/player/:channelName" element={<PlayerPage />} />
         <Route path="/Lancamentos2024/player/:channelName" element={<PlayerPage />} />
-        
+        <Route path="/Lancamentos2022/player/:channelName" element={<PlayerPage />} />
         <Route path="/Netflix/player/:channelName" element={<PlayerPage />} />
         <Route path="/OiPlay/player/:channelName" element={<PlayerPage />} />
                 </Routes>
