@@ -121,6 +121,34 @@ function App() {
         <Route path="/Suspense/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
         <Route path="/Documentarios/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
         <Route path="/Religiosos/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
+        <Route path="/netfli/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Hbo/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Globo/player/:channelName" element={<PlayerPage />} />
+        <Route path="/DisneyPlus/player/:channelName" element={<PlayerPage />} />
+        <Route path="/AmazonPrime/player/:channelName" element={<PlayerPage />} />
+
+        <Route path="/ParamountPlus/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Max/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Clarovideo/player/:channelName" element={<PlayerPage />} />
+        <Route path="/GooglePlayMovies/player/:channelName" element={<PlayerPage/>} />
+
+        <Route path="/MGMChannel/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Oldflix/player/:channelName" element={<PlayerPage  />} />
+
+        <Route path="/NOW/player/:channelName" element={<PlayerPage  />} />
+        <Route path="/Vudu/player/:channelName" element={<PlayerPage />} />
+        <Route path="/AMConDemand/player/:channelName" element={<PlayerPage />} />
+        <Route path="/ParamountPlusAppleTVChannel/player/:channelName" element={<PlayerPage  />} />
+        <Route path="/UniverVideo/player/:channelName" element={<PlayerPage  />} />
+        
+        <Route path="/NetflixbasicwithAds/player/:channelName" element={<PlayerPage/>} />
+        <Route path="/OiPlay/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Looke/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Filmicca/player/:channelName" element={<PlayerPage />} />
+        <Route path="/Lancamentos2024/player/:channelName" element={<PlayerPage />} />
+        
+        <Route path="/Netflix/player/:channelName" element={<PlayerPage />} />
+        <Route path="/OiPlay/player/:channelName" element={<PlayerPage />} />
                 </Routes>
             </Router>
         </AuthProvider>
