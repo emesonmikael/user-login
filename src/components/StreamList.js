@@ -1,5 +1,3 @@
-
-// src/components/StreamList.js
 import React from 'react';
 import './StreamList.css';
 
@@ -10,7 +8,13 @@ const StreamList = ({ streams, onSelect }) => {
       <ul>
         {streams.map((stream, index) => (
           <li key={index} onClick={() => onSelect(stream.url)}>
-            {stream.logo && <img src={stream.logo} alt={`${stream.name} logo`} width="50" />}
+            {stream.logo && (
+              <img 
+                src={stream.logo} 
+                alt={`${stream.name} logo`} 
+                className="stream-logo" 
+              />
+            )}
             <span>{stream.name}</span>
           </li>
         ))}
