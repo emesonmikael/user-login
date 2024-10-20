@@ -1,6 +1,6 @@
 #EXTM3U size="Medium"
 #EXTINF:-1 type="playlist" tvg-id="Volta por Cima" tvg-logo="https://image.tmdb.org/t/p/w780/b8ikRCZ2yd5XKq2HRZxHHT5rDNL.jpg" description="",Volta por Cima
-/VoltaporCima.m3u
+https://login-strimer.vercel.app/Series/VoltaporCima.m3u
 #EXTINF:-1 type="playlist" tvg-id="Cara e Coroa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3ZWBPAlcmYwvA183aI5z1mosv7.jpg" description="",Cara e Coroa
 http://e.fastcdn.fun/ssiptv/580493864/762284416/series/27/episodes
 #EXTINF:-1 type="playlist" tvg-id="Reis" tvg-logo="https://image.tmdb.org/t/p/w780/89p0sg9m1SIdRHywkb3KcPKVAqf.jpg" description="",Reis
