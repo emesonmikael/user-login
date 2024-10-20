@@ -76,7 +76,7 @@ function Canais() {
     <div className="App">
       <h1>Reprodutor de Vídeo M3U</h1>
       <div className="container">
-        <StreamList streams={streams} onSelect={handleSelectStream} />
+      <StreamList streams={streams} onSelect={handleSelectStream} />
         <VideoPlayer url={currentStream} />
       </div>
     </div>

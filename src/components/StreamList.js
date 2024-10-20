@@ -1,8 +1,12 @@
-import React from 'react';
+
 import './StreamList.css';
+import React, { useRef, useEffect, useState } from 'react';
+
 
 const StreamList = ({ streams, onSelect }) => {
+ 
   return (
+    
     <div className="stream-list">
       <h2>Streams Disponíveis</h2>
       <ul>
@@ -20,6 +24,7 @@ const StreamList = ({ streams, onSelect }) => {
         ))}
       </ul>
     </div>
+    
   );
 };
 
