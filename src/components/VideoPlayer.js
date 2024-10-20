@@ -1,4 +1,3 @@
-
 // src/components/VideoPlayer.js
 import React, { useRef, useEffect } from 'react';
 import Hls from 'hls.js';
