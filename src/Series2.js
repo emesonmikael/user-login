@@ -33,20 +33,16 @@ const parseM3U = (content) => {
       const bgMatch = line.match(/#EXTBG: (.*)/);
       if (bgMatch) currentItem.background = bgMatch[1];
     } else if (line.startsWith('http') || line.startsWith('/')) {
-      currentItem.url = line.trim(); // Para evitar problemas de espaço extra
+      currentItem.url = line.trim();  // Para evitar problemas de espaço extra
       items.push(currentItem);
       currentItem = {};
     }
   });
-
-  // Ordenar os itens alfabeticamente pelo título
-  return items.sort((a, b) => a.title.localeCompare(b.title));
+  return items;
 };
 
 const App2 = () => {
   const [items, setItems] = useState([]);
-  const [filteredItems, setFilteredItems] = useState([]);
-  const [searchQuery, setSearchQuery] = useState('');
   const [currentUrl, setCurrentUrl] = useState(`${window.location.origin}/series.m3u`);
 
   // Função para carregar o arquivo M3U ao iniciar
@@ -54,29 +50,19 @@ const App2 = () => {
     const loadM3U = async () => {
       const parsedItems = await fetchM3U(currentUrl);
       setItems(parsedItems);
-      setFilteredItems(parsedItems); // Inicialmente, exibe todos os itens
     };
 
     loadM3U();
   }, [currentUrl]);
 
-  // Função para lidar com pesquisa
-  const handleSearch = (event) => {
-    const query = event.target.value.toLowerCase();
-    setSearchQuery(query);
-
-    const filtered = items.filter((item) =>
-      item.title.toLowerCase().includes(query)
-    );
-    setFilteredItems(filtered);
-  };
-
   // Quando o usuário clica em um item
   const handleItemClick = (url) => {
     if (url.endsWith('.mp4')) {
+      // Caso seja um vídeo, abrir direto o MP4
       window.open(url, '_blank');
     } else {
-      const nextUrl = url.startsWith('/') ? `${window.location.origin}${url}` : url;
+      // Caso seja outro M3U, atualiza o URL para carregar o novo arquivo
+      const nextUrl = url.startsWith('/') ? `${window.location.origin}${url} `: url;
       setCurrentUrl(nextUrl);
     }
   };
@@ -84,34 +70,22 @@ const App2 = () => {
   return (
     <div className="container">
       <h1>Playlist de Séries</h1>
-
-      {/* Campo de pesquisa */}
-      <input
-        type="text"
-        placeholder="Pesquisar..."
-        value={searchQuery}
-        onChange={handleSearch}
-        className="search-bar"
-      />
-
       <div className="grid-container">
-        {filteredItems.map((item, index) => (
+        {items.map((item, index) => (
           <div
             key={index}
             className="grid-item"
             style={{ background: item.background || '#11609e' }}
           >
             {item.tvgLogo && (
-              <img
+              <img 
                 src={item.tvgLogo}
                 alt={item.title}
                 className="thumbnail"
                 onClick={() => handleItemClick(item.url)}
               />
             )}
-            <h2 onClick={() => handleItemClick(item.url)} className="title">
-              {item.title}
-            </h2>
+            <h2 onClick={() => handleItemClick(item.url)} className="title">{item.title}</h2>
           </div>
         ))}
       </div>
