@@ -1,0 +1,220 @@
+#EXTM3U
+
+############################################################################ Informações
+
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="AVISO : A LISTA JÁ FOI ATUALIZADA 14/10/2024",FIQUE ATENTO
+https://dc725.4shared.com/img/x_xh3ZiZge/8b73cc8c/dlink__2Fdownload_2Fx_5Fxh3ZiZge_3Fsbsr_3Dffaeace983a563255cb41662fdf07180b01_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.b5c15479ca332d187f11c808a192b260_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" group-title="TELEGRAM | ENTRE EM CONTATO PELO TELEGRAM",@LIYANGBR
+https://dc725.4shared.com/img/x_xh3ZiZge/8b73cc8c/dlink__2Fdownload_2Fx_5Fxh3ZiZge_3Fsbsr_3Dffaeace983a563255cb41662fdf07180b01_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.b5c15479ca332d187f11c808a192b260_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 [HD]" tvg-logo="http://p6.vc/DPE5" group-title="Canais | Amazon Prime Video",Prime Video 1 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/208962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 [HD]" tvg-logo="http://p6.vc/DPE6" group-title="Canais | Amazon Prime Video",Prime Video 2 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/208963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 [SD]" tvg-logo="http://p6.vc/DPE7" group-title="Canais | Amazon Prime Video",Prime Video 1 [SD]
+http://cdn22.cc:80/Magalhaesps/101280/208964.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 [SD]" tvg-logo="http://p6.vc/DPE8" group-title="Canais | Amazon Prime Video",Prime Video 2 [SD]
+http://cdn22.cc:80/Magalhaesps/101280/208965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 [SD]" tvg-logo="http://p6.vc/DPE9" group-title="Canais | Amazon Prime Video",Prime Video 4 [SD]
+http://cdn22.cc:80/Magalhaesps/101280/208966.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 [HD]" tvg-logo="http://p6.vc/DPF0" group-title="Canais | Amazon Prime Video",Prime Video 4 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/208967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 [FHD]" tvg-logo="http://p6.vc/DPF1" group-title="Canais | Amazon Prime Video",Prime Video 4 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/208968.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 [SD]" tvg-logo="http://p6.vc/DPF2" group-title="Canais | Amazon Prime Video",Prime Video 3 [SD]
+http://cdn22.cc:80/Magalhaesps/101280/208969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 [HD]" tvg-logo="http://p6.vc/DPF3" group-title="Canais | Amazon Prime Video",Prime Video 3 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/208970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 [FHD]" tvg-logo="http://p6.vc/DPF4" group-title="Canais | Amazon Prime Video",Prime Video 3 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/208971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 [FHD]" tvg-logo="http://p6.vc/DPF5" group-title="Canais | Amazon Prime Video",Prime Video 1 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/208972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 [FHD]" tvg-logo="http://p6.vc/DPF6" group-title="Canais | Amazon Prime Video",Prime Video 2 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/208973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 5 [FHD]" tvg-logo="http://p6.vc/DPF7" group-title="Canais | Amazon Prime Video",Prime Video 5 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/210171.ts
+#EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus 1 [HD]" tvg-logo="http://p6.vc/DPP1" group-title="Canais | Disney Plus",Disney Plus 1 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/236857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 [HD]" tvg-logo="http://p6.vc/DPP2" group-title="Canais | Disney Plus",Disney Plus 2 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/236858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 [HD]" tvg-logo="http://p6.vc/DGS9" group-title="Canais | Disney Plus",Disney Plus 3 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/236859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 [HD]" tvg-logo="http://p6.vc/DPP3" group-title="Canais | Disney Plus",Disney Plus 4 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/236860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 5 [HD]" tvg-logo="http://p6.vc/DPP4" group-title="Canais | Disney Plus",Disney Plus 5 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/236861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 6 [HD]" tvg-logo="http://p6.vc/DPP5" group-title="Canais | Disney Plus",Disney Plus 6 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/236862.ts
+#EXTINF:-1 tvg-id="EPTVRIB" tvg-name="GLOBO EPTV RIBERAO PRETO [FHD][H265]" tvg-logo="http://p6.vc/AKE6" group-title="Canais | Globo",GLOBO EPTV RIBERAO PRETO [FHD][H265]
+http://cdn22.cc:80/Magalhaesps/101280/182689.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 2 [SD]" tvg-logo="http://p6.vc/AKD9" group-title="Canais | Campeonatos Estaduais",CANAL GOAT 2 [SD]
+http://cdn22.cc:80/Magalhaesps/101280/190491.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 2 [HD]" tvg-logo="http://p6.vc/AKE0" group-title="Canais | Campeonatos Estaduais",CANAL GOAT 2 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/190492.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 2 [FHD]" tvg-logo="http://p6.vc/AKE1" group-title="Canais | Campeonatos Estaduais",CANAL GOAT 2 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/190493.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT [SD]" tvg-logo="http://p6.vc/AKE2" group-title="Canais | Campeonatos Estaduais",CANAL GOAT [SD]
+http://cdn22.cc:80/Magalhaesps/101280/190494.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT [HD]" tvg-logo="http://p6.vc/AKE3" group-title="Canais | Campeonatos Estaduais",CANAL GOAT [HD]
+http://cdn22.cc:80/Magalhaesps/101280/190495.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT [FHD]" tvg-logo="http://p6.vc/AKE4" group-title="Canais | Campeonatos Estaduais",CANAL GOAT [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/190496.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV EPTV RIBEIRAO PRETO [FHD]" tvg-logo="http://p6.vc/VDQ" group-title="Canais | Globo",GLOBO TV EPTV RIBEIRAO PRETO [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/199662.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV EPTV SAO CARLOS [HD]" tvg-logo="http://p6.vc/AUZ" group-title="Canais | Globo",GLOBO TV EPTV SAO CARLOS [HD]
+http://cdn22.cc:80/Magalhaesps/101280/199663.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV EPTV SAO CARLOS [FHD]" tvg-logo="http://p6.vc/AUZ" group-title="Canais | Globo",GLOBO TV EPTV SAO CARLOS [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/199664.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO JUIZ DE FORA [SD]" tvg-logo="http://p6.vc/VFH" group-title="Canais | Globo",GLOBO TV INTEGRACAO JUIZ DE FORA [SD]
+http://cdn22.cc:80/Magalhaesps/101280/199787.ts
+#EXTINF:-1 tvg-id="ZYB402" tvg-name="GLOBO RPC CASCAVEL [SD]" tvg-logo="http://p6.vc/VFA" group-title="Canais | Globo",GLOBO RPC CASCAVEL [SD]
+http://cdn22.cc:80/Magalhaesps/101280/199788.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD][HDR]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD][HDR]
+http://cdn22.cc:80/Magalhaesps/101280/233619.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
+http://cdn22.cc:80/Magalhaesps/101280/233620.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/233621.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [HD]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/233622.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD]" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries",A&E [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/293.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD][H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries",A&E [FHD][H265]
+http://cdn22.cc:80/Magalhaesps/101280/30227.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Canais | Filmes e Séries",A&E [HD]
+http://cdn22.cc:80/Magalhaesps/101280/299.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [SD]" tvg-logo="http://p6.vc/APV" group-title="Canais | Filmes e Séries",A&E [SD]
+http://cdn22.cc:80/Magalhaesps/101280/324.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [HD]" tvg-logo="http://p6.vc/ARX3" group-title="Canais | Filmes e Séries",ADULT SWIM [HD]
+http://cdn22.cc:80/Magalhaesps/101280/199850.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [SD]" tvg-logo="http://p6.vc/ARX2" group-title="Canais | Filmes e Séries",ADULT SWIM [SD]
+http://cdn22.cc:80/Magalhaesps/101280/199849.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="AgroMais [FHD]" tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades",AgroMais [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/109512.ts
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC [FHD]" tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries",AMC [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/294.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [FHD][H265]" tvg-logo="http://p6.vc/WHJ" group-title="Canais | Filmes e Séries",AMC [FHD][H265]
+http://cdn22.cc:80/Magalhaesps/101280/30228.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [HD]" tvg-logo="http://p6.vc/APW" group-title="Canais | Filmes e Séries",AMC [HD]
+http://cdn22.cc:80/Magalhaesps/101280/300.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [SD]" tvg-logo="http://p6.vc/AQS" group-title="Canais | Filmes e Séries",AMC [SD]
+http://cdn22.cc:80/Magalhaesps/101280/325.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet [4K]" tvg-logo="http://p6.vc/bb" group-title="Canais | 4K",Animal Planet [4K]
+http://cdn22.cc:80/Magalhaesps/101280/588.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD]" tvg-logo="http://p6.vc/AKY" group-title="Canais | Documentários",ANIMAL PLANET [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/164.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD][H265]" tvg-logo="http://p6.vc/WHO" group-title="Canais | Documentários",ANIMAL PLANET [FHD][H265]
+http://cdn22.cc:80/Magalhaesps/101280/30248.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Canais | Documentários",ANIMAL PLANET [HD]
+http://cdn22.cc:80/Magalhaesps/101280/179.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [SD]" tvg-logo="http://p6.vc/AMA" group-title="Canais | Documentários",ANIMAL PLANET [SD]
+http://cdn22.cc:80/Magalhaesps/101280/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Basira TV [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Basira TV [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223636.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Haneen [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Haneen [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223637.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Hiwar TV [HD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Hiwar TV [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223638.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Horreya TV [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Horreya TV [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223639.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Doc [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Jazeera Doc [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223641.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera EN [HD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Jazeera EN [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223642.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Mubasher [CANAL OFF]" tvg-logo="" group-title="Canais | Arabes",AR: Al Jazeera Mubasher [CANAL OFF]
+http://cdn22.cc:80/Magalhaesps/101280/223643.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Jazeera [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223640.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Kalema TV [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Kalema TV [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223644.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Khalij TV [HD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Khalij TV [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223645.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Magharibia [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Magharibia [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223646.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL Malakoot [SD]" tvg-logo="" group-title="Canais | Arabes",AR: AL Malakoot [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223647.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Qamar TV [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Qamar TV [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223648.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Tarek TV [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Al Tarek TV [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223649.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alaraby TV 2 [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Alaraby TV 2 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223651.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alaraby TV [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Alaraby TV [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223650.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkarma TV Discipleship [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Alkarma TV Discipleship [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223653.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkarma TV Middle East [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Alkarma TV Middle East [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223654.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkarma TV North America and Canada [HD]" tvg-logo="" group-title="Canais | Arabes",AR: Alkarma TV North America and Canada [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223655.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkarma TV [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Alkarma TV [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223652.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkeraza TV [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Alkeraza TV [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223656.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Almagd TV [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Almagd TV [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223657.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Almustakillah TV [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Almustakillah TV [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223658.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Amazon Prime 2 [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Amazon Prime 2 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223660.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Amazon Prime 3 [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Amazon Prime 3 [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223661.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Amazon Prime [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Amazon Prime [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223659.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: AMC [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: AMC [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223662.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Assyrian Global Network (AGN TV) [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: Assyrian Global Network (AGN TV) [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223663.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: AssyriaSat [HD]" tvg-logo="" group-title="Canais | Arabes",AR: AssyriaSat [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223664.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Baby TV [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Baby TV [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223665.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BBC Arabic [SD]" tvg-logo="" group-title="Canais | Arabes",AR: BBC Arabic [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223666.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Box Office 1 [HD]" tvg-logo="" group-title="Canais | Arabes",AR: beIN Box Office 1 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223667.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Box Office 2 [HD]" tvg-logo="" group-title="Canais | Arabes",AR: beIN Box Office 2 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223668.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 [HD]" tvg-logo="" group-title="Canais | Arabes",AR: beIN Series 1 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223669.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 [HD]" tvg-logo="" group-title="Canais | Arabes",AR: beIN Series 2 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223670.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Boomerang [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Boomerang [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223671.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: C Sat [SD]" tvg-logo="" group-title="Canais | Arabes",AR: C Sat [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223672.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cartoon Network Arabic [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Cartoon Network Arabic [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223673.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: CGTN Arabic [CANAL OFF]" tvg-logo="" group-title="Canais | Arabes",AR: CGTN Arabic [CANAL OFF]
+http://cdn22.cc:80/Magalhaesps/101280/223674.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cima [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Cima [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223675.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: CNBC Arabiya [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: CNBC Arabiya [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223676.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Discovery Family [CANAL OFF]" tvg-logo="" group-title="Canais | Arabes",AR: Discovery Family [CANAL OFF]
+http://cdn22.cc:80/Magalhaesps/101280/223677.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Discovery Science [HD]" tvg-logo="" group-title="Canais | Arabes",AR: Discovery Science [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223678.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Disney Junior [HD]" tvg-logo="" group-title="Canais | Arabes",AR: Disney Junior [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223679.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: DW [FHD]" tvg-logo="" group-title="Canais | Arabes",AR: DW [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/223680.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Eman Channel [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Eman Channel [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223681.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Fix & Foxi [SD]" tvg-logo="" group-title="Canais | Arabes",AR: Fix & Foxi [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223682.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Fozi Mozi [HD]" tvg-logo="" group-title="Canais | Arabes",AR: Fozi Mozi [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223683.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: France 24 [SD]" tvg-logo="" group-title="Canais | Arabes",AR: France 24 [SD]
+http://cdn22.cc:80/Magalhaesps/101280/223684.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Hawas TV [CANAL OFF]" tvg-logo="" group-title="Canais | Arabes",AR: Hawas TV [CANAL OFF]
+http://cdn22.cc:80/Magalhaesps/101280/223685.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: History 2 [HD]" tvg-logo="" group-title="Canais | Arabes",AR: History 2 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223686.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: HOME CINEMA 01 [HD]" tvg-logo="" group-title="Canais | Arabes",AR: HOME CINEMA 01 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223687.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: HOME CINEMA 03 [HD]" tvg-logo="" group-title="Canais | Arabes",AR: HOME CINEMA 03 [HD]
+http://cdn22.cc:80/Magalhaesps/101280/223688.ts
+#EXTINF:-1 tvg-id="" tvg-
