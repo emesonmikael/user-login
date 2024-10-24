@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import ReactPlayer from 'react-player';
 import Hls from 'hls.js';
+import './VideoPlayer.css';
 
 const VideoPlayer = ({ url, title }) => {
   const playerRef = useRef(null);
