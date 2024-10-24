@@ -2,34 +2,24 @@
 
 #EXTINF: -1 tvg-logo=https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cd045cec45c8444cca1e3fad6cbf2091.webp" group-title="CANAIS DE VARIEDADES",TV RBC
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cazetv.png" group-title="CANAIS DE ESPORTES",Cazé TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-
 #EXTINF: -1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png group-title="CANAIS DE NOVELAS",Tela Brasil TV
 https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
- 
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e24eef3b7b7166503b15407060fe8ff1.webp" group-title="CANAIS INTERNACIONAIS",El Trece (AR)
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/91ce8a6df9674a7ff01fa203cdca71c9.webp" group-title="CANAIS INTERNACIONAIS",Vepaco TV (VE)
 https://cloud.fastchannel.es/manifiedst/hls/prog9/vepacotv.m3u8
-
 #EXTINF: -1 tvg-logo= group-title="CANAIS REGIONAIS",Masper tv (RS)
 https://stream.castr.com/62572b254fcac2c0e67c3ac5/live_3815ed7055fe11ef95f9a97142a4bd4f/index.fmp4.m3u8
-
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad61476e5c6bb78d3f6893528d82ee40.webp" group-title="CANAIS REGIONAIS",TV Litoral (RN)
 https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBM81NNjrK_GaUc9MFk4jj673Jc5AkvHWz39qjHiOcLn_kgTW4T2WDDso&s=10" group-title="CANAIS RUNTIME",Runtime Cine Espanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/42ad5ffc09cbd3ffd6139d6fcfa234f6.webp" group-title="CANAIS DE FILMES",Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-
 #EXTINF: tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp" group-title="CANAIS DE FILMES",FilmRise
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
-
 #EXTINF tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/858292ec442ed07c661c9d20ebdd04c8.webp" group-title="TEMPO DE EXECUÇÃO CANAIS",TV ZYN
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-runtimelatam/playlist.m3u8
 
