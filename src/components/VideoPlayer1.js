@@ -38,7 +38,7 @@ const VideoPlayer = ({ url, title }) => {
       <ReactPlayer
         ref={playerRef}
        width="100%"
-        height="100vh"
+        height="50vh"
         controls={true}
         playbackId="video-player"
         url={url}
