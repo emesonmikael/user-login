@@ -69,7 +69,7 @@ function Canais() {
     console.log('Stream Selecionado:', url); // Verificar se a seleção foi correta
     setCurrentStream(url);
   };
-  const title = 'Título do Vídeo';
+  const title = streams.group;
   const url = currentStream;
   //<VideoPlayer url={currentStream} />
   return (
@@ -77,7 +77,7 @@ function Canais() {
       <h1>Reprodutor de Vídeo M3U</h1>
       <div className="container">
         {/* Componente de vídeo */}
-        <VideoPlayer url={currentStream} />
+        <VideoPlayer url={currentStream} title={title}/>
 
         {/* Lista de streams */}
         <StreamList streams={streams} onSelect={handleSelectStream} />
