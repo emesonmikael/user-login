@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useEffect, useState } from 'react';
 import StreamList from './components/StreamList';
-import VideoPlayer from './components/VideoPlayer1';
+import VideoPlayer from './components/VideoPlayer';
 import './App.css';
 import axios from 'axios';
 

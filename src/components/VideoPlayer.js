@@ -2,6 +2,7 @@
 import React, { useRef, useEffect } from 'react';
 import Hls from 'hls.js';
 import './VideoPlayer.css';
+import ReactPlayer from 'react-player';
 
 const VideoPlayer = ({ url }) => {
   const videoRef = useRef(null);
@@ -33,7 +34,7 @@ const VideoPlayer = ({ url }) => {
   return (
     <div className="video-player">
       {url ? (
-        <video ref={videoRef} controls autoPlay />
+        <ReactPlayer ref={videoRef} controls autoPlay />
       ) : (
         <p>Selecione um stream para reproduzir</p>
       )}
