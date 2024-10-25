@@ -110,6 +110,7 @@ function App() {
         <Route path="/Documentarios" element={<PrivateRoute ><M3UPlayerDocumentarios/></PrivateRoute>} />
         <Route path="/Religiosos" element={<PrivateRoute ><M3UPlayerReligiosos /></PrivateRoute>} />
         <Route path="/Lançamentos2022" element={<PrivateRoute ><M3UPlayerLançamentos2022 /></PrivateRoute>} />
+
          <Route path="/Marvel/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
         <Route path="/Lançamentos2023/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
         <Route path="/Faroeste/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
@@ -125,7 +126,7 @@ function App() {
         <Route path="/Suspense/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
         <Route path="/Documentarios/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
         <Route path="/Religiosos/player/:channelName" element={<PrivateRoute ><PlayerPage /></PrivateRoute>} />
-        <Route path="/netfli/player/:channelName" element={<PlayerPage />} />
+        <Route path="/netflix/player/:channelName" element={<PlayerPage />} />
         <Route path="/Hbo/player/:channelName" element={<PlayerPage />} />
         <Route path="/Globo/player/:channelName" element={<PlayerPage />} />
         <Route path="/DisneyPlus/player/:channelName" element={<PlayerPage />} />
