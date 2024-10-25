@@ -10,7 +10,7 @@ function Canais() {
   const [currentStream, setCurrentStream] = useState(''); // Stream selecionado
 
   // URL do arquivo M3U
-  const m3uUrl = 'https://login-strimer.vercel.app/playlist.m3u'; // URL do arquivo M3U
+  const m3uUrl = 'https://login-strimer.vercel.app/playlist1.m3u'; // URL do arquivo M3U
 
   // Função para buscar e analisar o arquivo M3U
   useEffect(() => {
