@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useEffect, useState } from 'react';
 import StreamList from './components/StreamList';
-import VideoPlayer from './components/VideoPlayer1';
+import VideoPlayer from './components/VideoPlayer';
 import './App.css';
 import axios from 'axios';
 
@@ -71,13 +71,13 @@ function Canais() {
   };
   const title = 'Título do Vídeo';
   const url = currentStream;
-  //<VideoPlayer url={currentStream} title={title}/>
+  //<VideoPlayer url={currentStream} />
   return (
     <div className="App">
       <h1>Reprodutor de Vídeo M3U</h1>
       <div className="container">
         {/* Componente de vídeo */}
-        <VideoPlayer url={url} title={title}/>
+        <VideoPlayer url={currentStream} />
 
         {/* Lista de streams */}
         <StreamList streams={streams} onSelect={handleSelectStream} />
