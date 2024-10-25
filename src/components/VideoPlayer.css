@@ -1,6 +1,6 @@
 .video-player {
-  width: 600px;
-  max-width: 100%; /* Para garantir responsividade */
+  width: auto;
+  max-width: auto; /* Para garantir responsividade */
   background-color: #000;
   border-radius: 8px;
   overflow: hidden;
