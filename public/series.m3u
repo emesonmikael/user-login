@@ -34,7 +34,7 @@
 /Series/Crunchyroll.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Novelas
 #EXTBG: #11609e
-/Series/Novelas.m3u
+http://e.fastcdn.fun/ssiptv/580493864/762284416/series/567
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",DIVERSOS
 #EXTBG: #11609e
 /Series/DIVERSOS.m3u
