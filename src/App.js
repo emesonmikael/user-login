@@ -6,7 +6,7 @@ import Login from './pages/Login';
 import Home from './pages/Home';
 import { AuthProvider } from './context/AuthContext';
 import PrivateRoute from './components/PrivateRoute';
-import App2 from './Series3'
+import App2 from './teste'
 import Canais from './canaisf';
 import Filmes from './Filmes';
 import M3UPlayer from './M3UPlayer';
