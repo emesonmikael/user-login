@@ -47,7 +47,7 @@ const App2 = () => {
   const [items, setItems] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
-  const [currentUrl, setCurrentUrl] = useState('http://e.fastcdn.fun/ssiptv/580493864/762284416/series/567');
+  const [currentUrl, setCurrentUrl] = useState('http://e.fastcdn.fun/p/580493864/762284416/ssiptv');
 
   // Função para carregar o arquivo M3U ao iniciar
   useEffect(() => {
