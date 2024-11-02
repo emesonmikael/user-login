@@ -3,7 +3,7 @@ import './App.css'; // Arquivo CSS para os estilos
 
 // Função para buscar e processar o arquivo M3U
 const fetchM3U = async () => {
-  const url = 'https://proxy-server-3nlb.onrender.com/proxy?url=http://e.cmrt.in/p/978460358/473005646/ssiptv';
+  const url = 'http://e.cmrt.in/p/978460358/473005646/ssiptv';
   try {
     const response = await fetch(url);
     if (!response.ok) {
