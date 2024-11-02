@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
+import './App.css'; // Arquivo CSS para os estilos
 
+// Função para buscar e processar o arquivo M3U
 const fetchM3U = async () => {
-  const url = 'https://login-strimer.vercel.app/seriestaiger.m3u';
+  const url = 'https://proxy-server-3nlb.onrender.com/proxy?url=http://e.cmrt.in/p/978460358/473005646/ssiptv';
   try {
-    const response = await fetch(`https://proxy-server-3nlb.onrender.com/proxy?url=${encodeURIComponent(url)}`);
+    const response = await fetch(url);
     if (!response.ok) {
       throw new Error(`Erro ao carregar o arquivo M3U: ${response.statusText}`);
     }
@@ -16,6 +17,7 @@ const fetchM3U = async () => {
   }
 };
 
+// Função para fazer o parse do conteúdo M3U
 const parseM3U = (content) => {
   const lines = content.split('\n');
   let items = [];
@@ -32,12 +34,13 @@ const parseM3U = (content) => {
       const bgMatch = line.match(/#EXTBG: (.*)/);
       if (bgMatch) currentItem.background = bgMatch[1];
     } else if (line.startsWith('http') || line.startsWith('/')) {
-      currentItem.url = line.trim();
+      currentItem.url = line.trim(); // Para evitar problemas de espaço extra
       items.push(currentItem);
       currentItem = {};
     }
   });
 
+  // Ordenar os itens alfabeticamente pelo título
   return items.sort((a, b) => a.title.localeCompare(b.title));
 };
 
@@ -45,18 +48,20 @@ const App2 = () => {
   const [items, setItems] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
-  const [currentUrl, setCurrentUrl] = useState('https://login-strimer.vercel.app/seriestaiger.m3u');
+  const [currentUrl, setCurrentUrl] = useState('http://e.cmrt.in/p/978460358/473005646/ssiptv');
 
+  // Função para carregar o arquivo M3U ao iniciar
   useEffect(() => {
     const loadM3U = async () => {
       const parsedItems = await fetchM3U(currentUrl);
       setItems(parsedItems);
-      setFilteredItems(parsedItems);
+      setFilteredItems(parsedItems); // Inicialmente, exibe todos os itens
     };
 
     loadM3U();
   }, [currentUrl]);
 
+  // Função para lidar com pesquisa
   const handleSearch = (event) => {
     const query = event.target.value.toLowerCase();
     setSearchQuery(query);
@@ -67,11 +72,12 @@ const App2 = () => {
     setFilteredItems(filtered);
   };
 
+  // Quando o usuário clica em um item
   const handleItemClick = (url) => {
     if (url.endsWith('.mp4')) {
       window.open(url, '_blank');
     } else {
-      const nextUrl = url.startsWith('/') ? `${window.location.origin}${url}` : url;
+      const nextUrl = url.startsWith('h') ? `${window.location.origin}${url}` : url;
       setCurrentUrl(nextUrl);
     }
   };
@@ -80,6 +86,7 @@ const App2 = () => {
     <div className="container">
       <h1>Playlist de Séries</h1>
 
+      {/* Campo de pesquisa */}
       <input
         type="text"
         placeholder="Pesquisar..."
