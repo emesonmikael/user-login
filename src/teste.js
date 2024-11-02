@@ -1,19 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import './App.css'; // Arquivo CSS para os estilos
+import './App.css';
 
-// Função para buscar e processar o arquivo M3U com cabeçalho User-Agent
-const fetchM3U = async (url) => {
+const fetchM3U = async () => {
+  const url = 'http://e.cmrt.in/ssiptv/978460358/473005646/series';
   try {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
-      },
-    });
-
+    const response = await fetch(`https://proxy-server-3nlb.onrender.com/proxy?url=${url}`);
     if (!response.ok) {
       throw new Error(`Erro ao carregar o arquivo M3U: ${response.statusText}`);
     }
-
     const text = await response.text();
     return parseM3U(text);
   } catch (error) {
@@ -22,7 +16,6 @@ const fetchM3U = async (url) => {
   }
 };
 
-// Função para fazer o parse do conteúdo M3U
 const parseM3U = (content) => {
   const lines = content.split('\n');
   let items = [];
@@ -52,7 +45,7 @@ const App2 = () => {
   const [items, setItems] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
-  const [currentUrl, setCurrentUrl] = useState('https://e.fastcdn.fun/p/580493864/762284416/ssiptv');
+  const [currentUrl, setCurrentUrl] = useState('http://e.cmrt.in/ssiptv/978460358/473005646/series');
 
   useEffect(() => {
     const loadM3U = async () => {
