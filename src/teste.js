@@ -77,7 +77,7 @@ const App2 = () => {
     if (url.endsWith('.mp4')) {
       window.open(url, '_blank');
     } else {
-      const nextUrl = url.startsWith('h') ? `${window.location.origin}${url}` : url;
+      const nextUrl = url.startsWith('h') ? `https://proxy-server-3nlb.onrender.com/proxy?url=${url}` : url;
       setCurrentUrl(nextUrl);
     }
   };
