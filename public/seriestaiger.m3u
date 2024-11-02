@@ -1,7 +1,4 @@
 #EXTM3U size="Medium"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/-1
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Netflix
 #EXTBG: #11609e
 http://e.cmrt.in/ssiptv/978460358/473005646/series/564
