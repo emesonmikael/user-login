@@ -4,7 +4,7 @@ import './App.css';
 const fetchM3U = async () => {
   const url = 'https://login-strimer.vercel.app/seriestaiger.m3u';
   try {
-    const response = await fetch(`https://proxy-server-3nlb.onrender.com/proxy?url=${url}`);
+    const response = await fetch(`https://proxy-server-3nlb.onrender.com/proxy?url=${encodeURIComponent(url)}`);
     if (!response.ok) {
       throw new Error(`Erro ao carregar o arquivo M3U: ${response.statusText}`);
     }
