@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 
 const fetchM3U = async () => {
-  const url = 'http://e.cmrt.in/ssiptv/978460358/473005646/series';
+  const url = 'https://login-strimer.vercel.app/seriestaiger.m3u';
   try {
     const response = await fetch(`https://proxy-server-3nlb.onrender.com/proxy?url=${url}`);
     if (!response.ok) {
@@ -45,7 +45,7 @@ const App2 = () => {
   const [items, setItems] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
-  const [currentUrl, setCurrentUrl] = useState('http://e.cmrt.in/ssiptv/978460358/473005646/series');
+  const [currentUrl, setCurrentUrl] = useState('https://login-strimer.vercel.app/seriestaiger.m3u');
 
   useEffect(() => {
     const loadM3U = async () => {
