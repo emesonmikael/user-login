@@ -47,7 +47,7 @@ const App2 = () => {
   const [items, setItems] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
-  const [currentUrl, setCurrentUrl] = useState(`${window.location.origin}/seriestaiger.m3u`);
+  const [currentUrl, setCurrentUrl] = useState(`${window.location.origin}/series.m3u`);
 
   // Função para carregar o arquivo M3U ao iniciar
   useEffect(() => {
