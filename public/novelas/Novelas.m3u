@@ -1,6 +1,6 @@
 #EXTM3U size="Medium"
 #EXTINF:-1 type="playlist" tvg-id="Vitória" tvg-logo="http://fenix7.com:80/images/xVjPz02XdrJlb0TpP50RK3KeABu_big.jpg" description="",Vitória
-https://login-strimer.vercel.app/novelas/vit_ria.m3u
+https://login-strimer.vercel.app/novelas/Vit_ria.m3u
 #EXTINF:-1 type="playlist" tvg-id="Dos Hogares" tvg-logo="http://fenix7.com:80/images/1MowqqK4EClFn7siUKcw8uz0VEv_big.jpg" description="",Dos Hogares
 https://login-strimer.vercel.app/
 #EXTINF:-1 type="playlist" tvg-id="Uma Alma, Duas Caras" tvg-logo="http://fenix7.com:80/images/h0ruggnx51xQlmJPwkJWYWEdAEw_big.jpg" description="",Uma Alma, Duas Caras
