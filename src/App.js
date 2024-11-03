@@ -70,7 +70,7 @@ function App() {
               <PrivateRoute ><M3UPlayer /> </PrivateRoute>}/>
                     <Route path="/FILMES" element={ <PrivateRoute ><Filmes /></PrivateRoute>} />
                     <Route path="/CANAIS" element={ <PrivateRoute >< Canais/></PrivateRoute>} />
-                    <Route path="/Series" element={ <PrivateRoute ><M3UApp/></PrivateRoute>} />
+                    <Route path="/Series" element={ <PrivateRoute ><App2/></PrivateRoute>} />
                     <Route path="/OiPlay" element={<PrivateRoute ><M3UPlayerOiPlay /></PrivateRoute>} />
                     
         
