@@ -1,109 +1,73 @@
 #EXTM3U size="Medium"
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Netflix
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/564
+https://login-strimer.vercel.app/Series/Series_Netflix.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Globoplay
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/560
+https://login-strimer.vercel.app/Series/Series_Globoplay.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Amazon Prime Video
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/569
+https://login-strimer.vercel.app/Series/Series_Amazon_Prime_Video.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | HBO Max
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/561
+https://login-strimer.vercel.app/Series/Series_HBO_Max.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | AMC Plus
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/570
+https://login-strimer.vercel.app/Series/Series_AMC_Plus.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Star Plus
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/535
+https://login-strimer.vercel.app/Series/Series_Star_Plus.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Star+
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/541
+https://login-strimer.vercel.app/Series/SERIES_Star.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Disney Plus
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/558
+https://login-strimer.vercel.app/Series/Series_Disney_Plus.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Discovery Plus
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/557
+https://login-strimer.vercel.app/Series/Series_Discovery_Plus.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | DirecTV
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/565
+https://login-strimer.vercel.app/Series/Series_DirecTV.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Lionsgate
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/563
+https://login-strimer.vercel.app/Series/Series_Lionsgate.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Funimation Now
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/559
+https://login-strimer.vercel.app/Series/Series_Funimation_Now.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Crunchyroll
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/566
+https://login-strimer.vercel.app/Series/Series_Crunchyroll.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Apple TV Plus
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/571
+https://login-strimer.vercel.app/Series/Series_Apple_TV_Plus.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Claro video
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/573
+https://login-strimer.vercel.app/Series/Series_Claro_video.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Legendadas
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/562
+https://login-strimer.vercel.app/Series/Series_Legendadas.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Outras Produtoras
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/574
+https://login-strimer.vercel.app/Series/Series_Outras_Produtoras.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Brasil Paralelo
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/572
+https://login-strimer.vercel.app/Series/Series_Brasil_Paralelo.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Programas de TV
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/568
+https://login-strimer.vercel.app/Series/Programas_de_TV.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Novelas
-#EXTBG: #11609e
-https://login-strimer.vercel.app/novelas/Novelas.m3u
+https://login-strimer.vercel.app/Series/Novelas.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Paramount
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/556
+https://login-strimer.vercel.app/Series/Series_Paramount.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Ação
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/551
+https://login-strimer.vercel.app/Series/SERIES_Acao.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Animes
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/543
+https://login-strimer.vercel.app/Series/SERIES_Animes.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Animação
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/540
+https://login-strimer.vercel.app/Series/SERIES_Animacao.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Crime
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/554
+https://login-strimer.vercel.app/Series/SERIES_Crime.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Romance
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/555
+https://login-strimer.vercel.app/Series/SERIES_Romance.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Comédia
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/539
+https://login-strimer.vercel.app/Series/SERIES_Comedia.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Ficção
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/538
+https://login-strimer.vercel.app/Series/SERIES_Ficcao.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Aventura
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/550
+https://login-strimer.vercel.app/Series/SERIES_Aventura.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Drama
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/549
+https://login-strimer.vercel.app/Series/SERIES_Drama.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Mistério
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/547
+https://login-strimer.vercel.app/Series/SERIES_Misterio.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Terror
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/546
+https://login-strimer.vercel.app/Series/SERIES_Terror.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Documentário
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/553
+https://login-strimer.vercel.app/Series/SERIES_Documentario.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Reality
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/552
+https://login-strimer.vercel.app/Series/SERIES_Reality.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Outros Streams
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/536
+https://login-strimer.vercel.app/Series/Outros_Streams.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SERIES
-#EXTBG: #11609e
-http://e.cmrt.in/ssiptv/978460358/473005646/series/548
+https://login-strimer.vercel.app/Series/SERIES.m3u
