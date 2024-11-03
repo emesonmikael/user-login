@@ -20,6 +20,8 @@ function updateM3ULinks() {
             return;
         }
 
+        console.log('Conteúdo original:\n', data); // Exibe o conteúdo original
+
         // Expressão regular para capturar linhas com título e link
         const updatedData = data.replace(/#EXTINF:-1[^\n],(.)\n(https?:\/\/[^\s]+)/g, (match, title) => {
             const normalizedTitle = normalizeTitle(title);
@@ -27,6 +29,8 @@ function updateM3ULinks() {
             const newLink = `https://login-strimer.vercel.app/novelas/${normalizedTitle}.m3u`;
             return `#EXTINF:-1,${title}\n${newLink}`;
         });
+
+        console.log('Conteúdo atualizado:\n', updatedData); // Exibe o conteúdo atualizado
 
         // Grava as alterações no arquivo M3U
         fs.writeFile(m3uFilePath, updatedData, 'utf8', (err) => {
