@@ -34,14 +34,15 @@ const M3UApp = () => {
 
   const handleItemClick = (url) => {
     fetch(url)
-      .then((res) => res.text())
-      .then((content) => {
-        if (content.startsWith('#EXTM3U')) {
-          // Conteúdo é um arquivo M3U - faça o parse e atualize a lista
-          setItems(parseM3U(content));
-          setVideoUrl(null);
+      .then((res) => {
+        const contentType = res.headers.get("Content-Type");
+        if (contentType && contentType.includes("application/vnd.apple.mpegurl")) {
+          return res.text().then((content) => {
+            setItems(parseM3U(content));
+            setVideoUrl(null);
+          });
         } else {
-          // Caso contrário, assumimos que é um link de vídeo
+          // Não é um arquivo M3U; tratamos como vídeo
           setVideoUrl(url);
         }
       })
