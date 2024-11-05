@@ -1,21 +1,21 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E01 - O Bom Pai" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1498521.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E02 - De Mudança" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1498522.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E03 - Primeira Aula" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1498523.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E04 - Perseguições Triviais" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1498524.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E05 - A Sociedade dos Fundadores" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1498525.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E06 - Encontro às Cegas" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1498526.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E07 - O Aniversário do Freddy" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1498527.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E08 - A História do 'B'" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1498528.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E09 - A Solução Chegou" group-title="Temporada 1" description="T1E9" tvg-logo="",Episódio 9
-http://cmrt.in/series/978460358/473005646/1498529.mp4
-#EXTINF:-1 type="video" tvg-id="Frasier 2023 - S01E10 - Jogo das Renas" group-title="Temporada 1" description="T1E10" tvg-logo="",Episódio 10
-http://cmrt.in/series/978460358/473005646/1498530.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1308883.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1308884.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1308885.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1308886.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1308887.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1308888.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1308889.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1308890.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E09" group-title="" description="T1E9" tvg-logo="",Episódio 9
+http://cmrt.in/series/978460358/473005646/1308891.mp4
+#EXTINF:-1 type="video" tvg-id="Frasier (2023) S01 E10" group-title="" description="T1E10" tvg-logo="",Episódio 10
+http://cmrt.in/series/978460358/473005646/1308892.mp4
