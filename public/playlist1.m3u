@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="Rede Familia FHD" tvg-logo="https://techzzi.site/logos/religiosos/redefamilia.png" group-title="✨ CANAIS • RELIGIOSOS",Rede Familia FHD
+http://srvdns.vc:80/023192184/105223652/4779711.ts
 #EXTINF:-1 tvg-id="" tvg-name="PROGRAMAÇÃO ESPORTIVA" tvg-logo="https://i.imgur.com/J6ftFrr.png" group-title="⚽PROGRAMAÇÃO ESPORTIVA DO DIA",PROGRAMAÇÃO ESPORTIVA
 http://ativabox.top:80/575136/882374/877164.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS EXTRAS 02 HD" tvg-logo="https://play-lh.googleusercontent.com/sjQJBSJgm0S_0dc3QVQSN0Ac3fyviO4E_2jlN1Vstx-ikBVli1cSIb0Z6Uket2pZPA" group-title="CANAIS | NOVIDADES",EVENTOS EXTRAS 02 HD
