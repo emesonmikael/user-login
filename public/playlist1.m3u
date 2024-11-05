@@ -1,5 +1,13 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMAÇÃO ESPORTIVA" tvg-logo="https://i.imgur.com/J6ftFrr.png" group-title="⚽PROGRAMAÇÃO ESPORTIVA DO DIA",PROGRAMAÇÃO ESPORTIVA
+http://ativabox.top:80/575136/882374/877164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS EXTRAS 02 HD" tvg-logo="https://play-lh.googleusercontent.com/sjQJBSJgm0S_0dc3QVQSN0Ac3fyviO4E_2jlN1Vstx-ikBVli1cSIb0Z6Uket2pZPA" group-title="CANAIS | NOVIDADES",EVENTOS EXTRAS 02 HD
+http://ativabox.top:80/575136/882374/877165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS EXTRAS 01 HD" tvg-logo="https://play-lh.googleusercontent.com/sjQJBSJgm0S_0dc3QVQSN0Ac3fyviO4E_2jlN1Vstx-ikBVli1cSIb0Z6Uket2pZPA" group-title="CANAIS | NOVIDADES",EVENTOS EXTRAS 01 HD
+http://ativabox.top:80/575136/882374/877166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOAT 4" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="CANAIS | GOAT",GOAT 4
+http://ativabox.top:80/575136/882374/877584.m3u8
 #EXTINF:-1 tvg-id="Bandmais.br" tvg-name="Band Campinas SD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band Campinas SD
 http://xciptv.8888play.one:80/228463308/r576049x/255501
 #EXTINF:-1 tvg-id="Bandam.br" tvg-name="Band AMAZONAS FHD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band AMAZONAS FHD
