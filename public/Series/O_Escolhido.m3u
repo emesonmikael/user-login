@@ -1,0 +1,29 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="O Escolhido S01 E01" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1157786.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S01 E02" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1157787.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S01 E03" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1157788.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S01 E04" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1157789.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S01 E05" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1157790.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S01 E06" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1157792.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido - S01E07 - " group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1364047.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido - S01E08 - " group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1364048.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S02 E01" group-title="Temporada 2" description="T2E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1157793.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S02 E02" group-title="Temporada 2" description="T2E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1157794.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S02 E03" group-title="Temporada 2" description="T2E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1157795.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S02 E04" group-title="Temporada 2" description="T2E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1157796.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S02 E05" group-title="Temporada 2" description="T2E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1157797.mp4
+#EXTINF:-1 type="video" tvg-id="O Escolhido S02 E06" group-title="Temporada 2" description="T2E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1157798.mp4
