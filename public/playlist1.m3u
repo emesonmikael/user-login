@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="Bandmais.br" tvg-name="Band Campinas SD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band Campinas SD
+http://xciptv.8888play.one:80/228463308/r576049x/255501
+#EXTINF:-1 tvg-id="Bandam.br" tvg-name="Band AMAZONAS FHD" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band AMAZONAS FHD
+http://xciptv.8888play.one:80/228463308/r576049x/255504
 #EXTINF:-1 tvg-id="history.2.br" tvg-name="BR: H2 HD" tvg-logo="http://the-img.xyz/images/logos/c8073470c556b12fe1549983a3b14a5c.png" group-title="DOCUMENTÁRIOS",BR: H2 HD
 http://linesys.cc:8080/YSDNqyJBLIljLU3fIGizS3Ck/847MHebkJdUMDYUbT6QL1FPb/249
 #EXTINF:-1 tvg-id="history.2.br" tvg-name="BR: H2 SD" tvg-logo="http://the-img.xyz/images/logos/c8073470c556b12fe1549983a3b14a5c.png" group-title="DOCUMENTÁRIOS",BR: H2 SD
