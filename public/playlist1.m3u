@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 type="stream" tvg-id="A FAZENDA 1" tvg-logo="http://69.197.159.50:80/images/a51e55904bd57504f628c1b219a96e06.jpg" group-title="Canais || Reality",A FAZENDA 1
+http://cmrt.in/978460358/473005646/1512743
 #EXTINF:-1 tvg-id="" tvg-name="Rede Familia FHD" tvg-logo="https://techzzi.site/logos/religiosos/redefamilia.png" group-title="✨ CANAIS • RELIGIOSOS",Rede Familia FHD
 http://srvdns.vc:80/023192184/105223652/4779711.ts
 #EXTINF:-1 tvg-id="" tvg-name="PROGRAMAÇÃO ESPORTIVA" tvg-logo="https://i.imgur.com/J6ftFrr.png" group-title="⚽PROGRAMAÇÃO ESPORTIVA DO DIA",PROGRAMAÇÃO ESPORTIVA
