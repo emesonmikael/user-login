@@ -1,0 +1,63 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="playlist" tvg-id="Mortal Kombat: A Conquista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NvMgESPMT1Tl1qLP2TnNP4pcvX.jpg" description="",Mortal Kombat: A Conquista
+https://login-strimer.vercel.app/Series/Mortal_Kombat_A_Conquista.m3u
+#EXTINF:-1 type="playlist" tvg-id="El Tigre: As Aventuras de Manny Rivera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5zWLgzechHpXxAGpqKFJzjj85H.jpg" description="",El Tigre: As Aventuras de Manny Rivera
+https://login-strimer.vercel.app/Series/El_Tigre_As_Aventuras_de_Manny_Rivera.m3u
+#EXTINF:-1 type="playlist" tvg-id="Em Busca do Vale Encantado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4eUTWcyh5U62Y26HkALQQjdwMF.jpg" description="",Em Busca do Vale Encantado
+https://login-strimer.vercel.app/Series/Em_Busca_do_Vale_Encantado.m3u
+#EXTINF:-1 type="playlist" tvg-id="Icerde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQeXNTF5pefO9XWXaQEr2nRCdo4.jpg" description="",Icerde
+https://login-strimer.vercel.app/Series/Icerde.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sliders: Dimensões Paralelas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cBXIPl83fE2yQusoEt6vMpSjIJ.jpg" description="",Sliders: Dimensões Paralelas
+https://login-strimer.vercel.app/Series/Sliders_Dimensoes_Paralelas.m3u
+#EXTINF:-1 type="playlist" tvg-id="Super Patrulha Delta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcR1RtCqyxXKl77gyanwFJqIPZi.jpg" description="",Super Patrulha Delta
+https://login-strimer.vercel.app/Series/Super_Patrulha_Delta.m3u
+#EXTINF:-1 type="playlist" tvg-id="Socorro Imediato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArZ5OxfFVEry9B99zqVBAuM75t9.jpg" description="",Socorro Imediato
+https://login-strimer.vercel.app/Series/Socorro_Imediato.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sitiados: México" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLGd2ks9rIbMz8UrTygGAbbjCn6.jpg" description="",Sitiados: México
+https://login-strimer.vercel.app/Series/Sitiados_Mexico.m3u
+#EXTINF:-1 type="playlist" tvg-id="Power Rangers Zeo" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fcR1RtCqyxXKl77gyanwFJqIPZi.jpg" description="",Power Rangers Zeo
+https://login-strimer.vercel.app/Series/Power_Rangers_Zeo.m3u
+#EXTINF:-1 type="playlist" tvg-id="Power Rangers Megaforce" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fcR1RtCqyxXKl77gyanwFJqIPZi.jpg" description="",Power Rangers Megaforce
+https://login-strimer.vercel.app/Series/Power_Rangers_Megaforce.m3u
+#EXTINF:-1 type="playlist" tvg-id="Power Rangers Dino Force Brave" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fVOuYEdogkUJagxJJkOsupXE1G.jpg" description="",Power Rangers Dino Force Brave
+https://login-strimer.vercel.app/Series/Power_Rangers_Dino_Force_Brave.m3u
+#EXTINF:-1 type="playlist" tvg-id="Power Rangers: Morfagem Feroz" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fcR1RtCqyxXKl77gyanwFJqIPZi.jpg" description="",Power Rangers: Morfagem Feroz
+https://login-strimer.vercel.app/Series/Power_Rangers_Morfagem_Feroz.m3u
+#EXTINF:-1 type="playlist" tvg-id="Power Rangers: Fúria da Selva" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fcR1RtCqyxXKl77gyanwFJqIPZi.jpg" description="",Power Rangers: Fúria da Selva
+https://login-strimer.vercel.app/Series/Power_Rangers_Furia_da_Selva.m3u
+#EXTINF:-1 type="playlist" tvg-id="Power Rangers: Força Mística" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fcR1RtCqyxXKl77gyanwFJqIPZi.jpg" description="",Power Rangers: Força Mística
+https://login-strimer.vercel.app/Series/Power_Rangers_Forca_Mistica.m3u
+#EXTINF:-1 type="playlist" tvg-id="Power Rangers: Dino Trovão" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fcR1RtCqyxXKl77gyanwFJqIPZi.jpg" description="",Power Rangers: Dino Trovão
+https://login-strimer.vercel.app/Series/Power_Rangers_Dino_Trovao.m3u
+#EXTINF:-1 type="playlist" tvg-id="The K2" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//qz0hRqKlNNOS15tqdqB1qUyMQMl.jpg" description="",The K2
+https://login-strimer.vercel.app/Series/The_K2.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cavaleiro da Lua" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//tkc7AVyUoG9VEeDvukN0TVqa24C.jpg" description="",Cavaleiro da Lua
+https://login-strimer.vercel.app/Series/Cavaleiro_da_Lua.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Curioso Mundo de James" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6i1QJrkQhK955Kk1uk5KxwCCjJS.jpg" description="",O Curioso Mundo de James
+https://login-strimer.vercel.app/Series/O_Curioso_Mundo_de_James.m3u
+#EXTINF:-1 type="playlist" tvg-id="National Kid" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//cYI8rN8hfmWKWOFzAoSmtwCxfzI.jpg" description="",National Kid
+https://login-strimer.vercel.app/Series/National_Kid.m3u
+#EXTINF:-1 type="playlist" tvg-id="Extinto ou Não?" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//7etu4LuIZ9lXk8wqmYSPQblSKcl.jpg" description="",Extinto ou Não?
+https://login-strimer.vercel.app/Series/Extinto_ou_Nao.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Mosqueteiros" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//3UTWiRm4AvtjVB5Pq3koIILB5c2.jpg" description="",Os Mosqueteiros
+https://login-strimer.vercel.app/Series/Os_Mosqueteiros.m3u
+#EXTINF:-1 type="playlist" tvg-id="Viagem ao Fundo do Mar" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//4DIyJUvjJnoqzEU6KKa6fHDov9f.jpg" description="",Viagem ao Fundo do Mar
+https://login-strimer.vercel.app/Series/Viagem_ao_Fundo_do_Mar.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kuzgun" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//1qANUhdf39TaoO8P7kEDr1Rh7Bc.jpg" description="",Kuzgun
+https://login-strimer.vercel.app/Series/Kuzgun.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kamen Rider Geats" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//ctA1yMQe1yqWTPa1zQOwhePuCiQ.jpg" description="",Kamen Rider Geats
+https://login-strimer.vercel.app/Series/Kamen_Rider_Geats.m3u
+#EXTINF:-1 type="playlist" tvg-id="Flash Gordon" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//9kKqbxsXSzW1H6Se46mOcZm7Rhy.jpg" description="",Flash Gordon
+https://login-strimer.vercel.app/Series/Flash_Gordon.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kamen Rider" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fIJNVBa6MJStPiOvhLV69nAdu0e.jpg" description="",Kamen Rider
+https://login-strimer.vercel.app/Series/Kamen_Rider.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cara e Coroa" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//d3ZWBPAlcmYwvA183aI5z1mosv7.jpg" description="",Cara e Coroa
+https://login-strimer.vercel.app/Series/Cara_e_Coroa.m3u
+#EXTINF:-1 type="playlist" tvg-id="Primal" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//ebupzTwgP8nBy0T5J3abqTqUMjK.jpg" description="",Primal
+https://login-strimer.vercel.app/Series/Primal.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Jornada Heroica do Príncipe Ivandoé" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//zOhdHLaTpRWI4RCFaX52P3IueIK.jpg" description="",A Jornada Heroica do Príncipe Ivandoé
+https://login-strimer.vercel.app/Series/A_Jornada_Heroica_do_Principe_Ivandoe.m3u
+#EXTINF:-1 type="playlist" tvg-id="SS-GB: Remontando a Segunda Guerra" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//sqybrp68wbUD6tyUz5IJhii00DL.jpg" description="",SS-GB: Remontando a Segunda Guerra
+https://login-strimer.vercel.app/Series/SSGB_Remontando_a_Segunda_Guerra.m3u
+#EXTINF:-1 type="playlist" tvg-id="Halo" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg" description="",Halo
+https://login-strimer.vercel.app/Series/Halo.m3u
