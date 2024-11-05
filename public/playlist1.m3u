@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="globo teste" tvg-logo="http://the-img.xyz/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="Canais || Filmes & Séries",globoteste
 https://encurtador.com.br/NtXf3
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD " tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD
-https://proxy-heroku.onrender.com/proxy/live/819781819/737257284/219419.m3u8
+https://proxy-heroku.onrender.com/proxy/819781819/737257284/219419.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H.265" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD H.265
 http://cdn-br.in:80/978460358/473005646/628829.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E HD
