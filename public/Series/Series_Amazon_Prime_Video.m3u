@@ -1,0 +1,927 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="playlist" tvg-id="The Traitors" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hECtcvv1QXK4MTyE3TYmW9TELVt.jpg" description="",The Traitors
+https://login-strimer.vercel.app/Series/The_Traitors.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Mindy Project" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YFui8dtEGUglm6pHWbBzD01c0t.jpg" description="",The Mindy Project
+https://login-strimer.vercel.app/Series/The_Mindy_Project.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ghost Whisperer" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//nIboXXCporMO9Xskq7Rsf45Z6qW.jpg" description="",Ghost Whisperer
+https://login-strimer.vercel.app/Series/Ghost_Whisperer.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Walking Dead: Dead City" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//oC4SG9TXM0C6KUoAUv76WOvQ103.jpg" description="",The Walking Dead: Dead City
+https://login-strimer.vercel.app/Series/The_Walking_Dead_Dead_City.m3u
+#EXTINF:-1 type="playlist" tvg-id="Alphonse" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//68jWgFipSRPeJkJxzqO51gZ4KYc.jpg" description="",Alphonse
+https://login-strimer.vercel.app/Series/Alphonse.m3u
+#EXTINF:-1 type="playlist" tvg-id="Fallout" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//celTNAZL0bIw8pO6KZzWd7MAKMT.jpg" description="",Fallout
+https://login-strimer.vercel.app/Series/Fallout.m3u
+#EXTINF:-1 type="playlist" tvg-id="90 Dias Para Casar – Seguindo Jorge e Anfisa" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//olJe0xuXMLbabgmJhgHi2A5VFbv.jpg" description="",90 Dias Para Casar – Seguindo Jorge e Anfisa
+https://login-strimer.vercel.app/Series/90_Dias_Para_Casar_Seguindo_Jorge_e_Anfisa.m3u
+#EXTINF:-1 type="playlist" tvg-id="Loudermilk" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//n9OpiTPynQDamlNyBPZgubMunKL.jpg" description="",Loudermilk
+https://login-strimer.vercel.app/Series/Loudermilk.m3u
+#EXTINF:-1 type="playlist" tvg-id="Salvation" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hXCd9FUT7ZjoB390cGioVhEiXOB.jpg" description="",Salvation
+https://login-strimer.vercel.app/Series/Salvation.m3u
+#EXTINF:-1 type="playlist" tvg-id="Fire Country" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg" description="",Fire Country
+https://login-strimer.vercel.app/Series/Fire_Country.m3u
+#EXTINF:-1 type="playlist" tvg-id="Younger" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//feWw6i09zaX2apzRqd7QbKEAsx9.jpg" description="",Younger
+https://login-strimer.vercel.app/Series/Younger.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Quinteto" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//9ILyAj7k7nbT5QlZPvDLdUhrCBx.jpg" description="",O Quinteto
+https://login-strimer.vercel.app/Series/O_Quinteto.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Infância de Romeu e Julieta" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//kW7gbPpzJnhxKJWeYAENnwTdOaU.jpg" description="",A Infância de Romeu e Julieta
+https://login-strimer.vercel.app/Series/A_Infancia_de_Romeu_e_Julieta.m3u
+#EXTINF:-1 type="playlist" tvg-id="Lei & Ordem: Unidade de Vítimas Especiais" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gUMArcGnsNmsJgQky7vE0cdnf4Y.jpg" description="",Lei & Ordem: Unidade de Vítimas Especiais
+https://login-strimer.vercel.app/Series/Lei_Ordem_Unidade_de_Vitimas_Especiais.m3u
+#EXTINF:-1 type="playlist" tvg-id="Stargate Atlantis" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg" description="",Stargate Atlantis
+https://login-strimer.vercel.app/Series/Stargate_Atlantis.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Internato: Las Cumbres" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//4XTMBc5nxNG67JFe2yT1ViHES3u.jpg" description="",O Internato: Las Cumbres
+https://login-strimer.vercel.app/Series/O_Internato_Las_Cumbres.m3u
+#EXTINF:-1 type="playlist" tvg-id="Brilhante Victória" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hdRxNaiZrEq4LUgX5AEv2cFOxJD.jpg" description="",Brilhante Victória
+https://login-strimer.vercel.app/Series/Brilhante_Victoria.m3u
+#EXTINF:-1 type="playlist" tvg-id="Chuck" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//vEZvGVVMjk1TRs59nfypTI5lAXj.jpg" description="",Chuck
+https://login-strimer.vercel.app/Series/Chuck.m3u
+#EXTINF:-1 type="playlist" tvg-id="Undone" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//wwCclQaT9tIAHVbAkGwQvnNUSm6.jpg" description="",Undone
+https://login-strimer.vercel.app/Series/Undone.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ransom" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//msn327MnlMG2iMess6CSTcn3HT2.jpg" description="",Ransom
+https://login-strimer.vercel.app/Series/Ransom.m3u
+#EXTINF:-1 type="playlist" tvg-id="Zoo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yg9x4J3ZTslvVSz5Mtu9pH0FWcr.jpg" description="",Zoo
+https://login-strimer.vercel.app/Series/Zoo.m3u
+#EXTINF:-1 type="playlist" tvg-id="Dois Homens e Meio" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" description="",Dois Homens e Meio
+https://login-strimer.vercel.app/Series/Dois_Homens_e_Meio.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Son" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/null" description="",The Son
+https://login-strimer.vercel.app/Series/The_Son.m3u
+#EXTINF:-1 type="playlist" tvg-id="Wolf" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/wQB5bOHhzoWhTIR0KlndLUdxHkp.jpg" description="",Wolf
+https://login-strimer.vercel.app/Series/Wolf.m3u
+#EXTINF:-1 type="playlist" tvg-id="Uma Equipe Muito Especial" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//3sqXMRpidT15QylW6GlQFuGpGCc.jpg" description="",Uma Equipe Muito Especial
+https://login-strimer.vercel.app/Series/Uma_Equipe_Muito_Especial.m3u
+#EXTINF:-1 type="playlist" tvg-id="Por Tras das Cameras" tvg-logo="https://i.ibb.co/8DD3kSb/Design-sem-nome-1.png" description="",Por Tras das Cameras
+https://login-strimer.vercel.app/Series/Por_Tras_das_Cameras.m3u
+#EXTINF:-1 type="playlist" tvg-id="Dr. Death The Undoctored Story" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/38OL5fgHrxJnAG1UbKrWXsjXeGh.jpg" description="",Dr. Death The Undoctored Story
+https://login-strimer.vercel.app/Series/Dr_Death_The_Undoctored_Story.m3u
+#EXTINF:-1 type="playlist" tvg-id="Minha Amiga Nokotan e um Cervo" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/cR3KTBZPRhTfzbrRRmnmZR8wx81.jpg" description="",Minha Amiga Nokotan e um Cervo
+https://login-strimer.vercel.app/Series/Minha_Amiga_Nokotan_e_um_Cervo.m3u
+#EXTINF:-1 type="playlist" tvg-id="Batman Cruzado Encapuzado" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/vyB0p30uzaYDpCrpoMUAApxdiow.jpg" description="",Batman Cruzado Encapuzado
+https://login-strimer.vercel.app/Series/Batman_Cruzado_Encapuzado.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Mulher Bionica" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/vFN9pThwJL9HHL2txSpaw2sOEI3.jpg" description="",A Mulher Bionica
+https://login-strimer.vercel.app/Series/A_Mulher_Bionica.m3u
+#EXTINF:-1 type="playlist" tvg-id="Rizzoli e Isles" tvg-logo="" description="",Rizzoli e Isles
+https://login-strimer.vercel.app/Series/Rizzoli_e_Isles.m3u
+#EXTINF:-1 type="playlist" tvg-id="No Olho da Tempestade" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/1rfA0TuQztxbFkt5RfS67ilQ4TS.jpg" description="",No Olho da Tempestade
+https://login-strimer.vercel.app/Series/No_Olho_da_Tempestade.m3u
+#EXTINF:-1 type="playlist" tvg-id="Betty A Feia A Historia Continua" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/2jGQO9GzHU8qFjWSgENsdQ49Xzi.jpg" description="",Betty A Feia A Historia Continua
+https://login-strimer.vercel.app/Series/Betty_A_Feia_A_Historia_Continua.m3u
+#EXTINF:-1 type="playlist" tvg-id="24 em 24 O Ultimo Chef de Pe" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/fDzXYck2NmFFnV9TpRrMfCbt6KL.jpg" description="",24 em 24 O Ultimo Chef de Pe
+https://login-strimer.vercel.app/Series/24_em_24_O_Ultimo_Chef_de_Pe.m3u
+#EXTINF:-1 type="playlist" tvg-id="Toda Familia Tem" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/noT0S2Iml4xScz2am3V7HY7vhda.jpg" description="",Toda Familia Tem
+https://login-strimer.vercel.app/Series/Toda_Familia_Tem.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Festa da Salsicha Comilandia" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/6kSblgQfbqDSo5gRIQ4vp706KTe.jpg" description="",A Festa da Salsicha Comilandia
+https://login-strimer.vercel.app/Series/A_Festa_da_Salsicha_Comilandia.m3u
+#EXTINF:-1 type="playlist" tvg-id="Yellowstone One Fifty" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/vxocUiVBl3pphmzlmWk9ju8yK2.jpg" description="",Yellowstone One Fifty
+https://login-strimer.vercel.app/Series/Yellowstone_One_Fifty.m3u
+#EXTINF:-1 type="playlist" tvg-id="Minha Lady Jane" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFqPyzz20JIu9xboJbUKxcNalFw.jpg" description="",Minha Lady Jane
+https://login-strimer.vercel.app/Series/Minha_Lady_Jane.m3u
+#EXTINF:-1 type="playlist" tvg-id="Yo Kai Watch" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/tEVN1zjnAoi4N9Q57dfTn41JO7W.jpg" description="",Yo Kai Watch
+https://login-strimer.vercel.app/Series/Yo_Kai_Watch.m3u
+#EXTINF:-1 type="playlist" tvg-id="H2O Meninas Sereias" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/52KX7Y9yxYf2XojmbEMpMbbTA4L.jpg" description="",H2O Meninas Sereias
+https://login-strimer.vercel.app/Series/H2O_Meninas_Sereias.m3u
+#EXTINF:-1 type="playlist" tvg-id="Fantasmas (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/gYxLi966L1V1iHgexBA8Iu0IyB4.jpg" description="",Fantasmas (2024)
+https://login-strimer.vercel.app/Series/Fantasmas_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Quem e o assassino" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/xaMseiltHdm6kd09nfqRhASC3jG.jpg" description="",Quem e o assassino
+https://login-strimer.vercel.app/Series/Quem_e_o_assassino.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cronicas de Metal Hurlant" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/m5GXXqXemWtinkIllv23Uia1VTM.jpg" description="",Cronicas de Metal Hurlant
+https://login-strimer.vercel.app/Series/Cronicas_de_Metal_Hurlant.m3u
+#EXTINF:-1 type="playlist" tvg-id="Quilos Mortais Mexico" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/yZRcAk2RvR3f6rCq1N9rbWxjxYq.jpg" description="",Quilos Mortais Mexico
+https://login-strimer.vercel.app/Series/Quilos_Mortais_Mexico.m3u
+#EXTINF:-1 type="playlist" tvg-id="Suzhal Vortice" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mp7tkPiD16NP1EzqxlWLkcolMEW.jpg" description="",Suzhal Vortice
+https://login-strimer.vercel.app/Series/Suzhal_Vortice.m3u
+#EXTINF:-1 type="playlist" tvg-id="Romario O Cara" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5FcI5WoL1GgRj6op7sa811kOIla.jpg" description="",Romario O Cara
+https://login-strimer.vercel.app/Series/Romario_O_Cara.m3u
+#EXTINF:-1 type="playlist" tvg-id="Gray" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//iHZmd11ubXFeQtLHKGi44cQtWuU.jpg" description="",Gray
+https://login-strimer.vercel.app/Series/Gray.m3u
+#EXTINF:-1 type="playlist" tvg-id="Perdidos em Oz" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bYPm31BjQed8fqbly7BFPjsOjLH.jpg" description="",Perdidos em Oz
+https://login-strimer.vercel.app/Series/Perdidos_em_Oz.m3u
+#EXTINF:-1 type="playlist" tvg-id="Quilos Mortais Brasil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZqvGzNaC14upG6OFQkA5CXk5DH.jpg" description="",Quilos Mortais Brasil
+https://login-strimer.vercel.app/Series/Quilos_Mortais_Brasil.m3u
+#EXTINF:-1 type="playlist" tvg-id="Maxton Hall O Mundo Entre Nos" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/1zZYpO2CH0WmoIfldwPuAWKbB4F.jpg" description="",Maxton Hall O Mundo Entre Nos
+https://login-strimer.vercel.app/Series/Maxton_Hall_O_Mundo_Entre_Nos.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Indice do Medo (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/3tHlSs9Zjux9xxQNHoExy5vjOL0.jpg" description="",O Indice do Medo (2022)
+https://login-strimer.vercel.app/Series/O_Indice_do_Medo_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Walking Dead The Ones Who Live (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ywbacot78IuNhGW4uVZPxxxVTkm.jpg" description="",The Walking Dead The Ones Who Live (2024)
+https://login-strimer.vercel.app/Series/The_Walking_Dead_The_Ones_Who_Live_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Fallout (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg" description="",Fallout (2024)
+https://login-strimer.vercel.app/Series/Fallout_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ourika Cidade em Chamas (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/48XmWHwgVAUYzr1NHjtju8NC7m.jpg" description="",Ourika Cidade em Chamas (2024)
+https://login-strimer.vercel.app/Series/Ourika_Cidade_em_Chamas_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Esposa do Meu Marido (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/21UVSO3lmwyiw1iXdMkFmfQ7Qob.jpg" description="",A Esposa do Meu Marido (2024)
+https://login-strimer.vercel.app/Series/A_Esposa_do_Meu_Marido_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Reis da Selva (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kPyPsHRv6kHcXGrwfWGtkRaPG1u.jpg" description="",Os Reis da Selva (2018)
+https://login-strimer.vercel.app/Series/Os_Reis_da_Selva_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Nos Campos Do Holocausto (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/70RPv3HkitN0nQheFXP7sQoazrm.jpg" description="",Nos Campos Do Holocausto (2015)
+https://login-strimer.vercel.app/Series/Nos_Campos_Do_Holocausto_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Crise em Seis Cenas (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/fNb2QVOiqxmfDhn4r5F1zZRQog1.jpg" description="",Crise em Seis Cenas (2016)
+https://login-strimer.vercel.app/Series/Crise_em_Seis_Cenas_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Aventuras de Bernie (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/xmgnNKnXhndUgP6kiGrm1DLYHMq.jpg" description="",As Aventuras de Bernie (2021)
+https://login-strimer.vercel.app/Series/As_Aventuras_de_Bernie_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Projeto Lazaro" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/xw7GkWtmPQDU8qzfKshFEN038sj.jpg" description="",Projeto Lazaro
+https://login-strimer.vercel.app/Series/Projeto_Lazaro.m3u
+#EXTINF:-1 type="playlist" tvg-id="Odd Mom Out (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/k2mh5mjEhr5LpWHA39WB1jpignp.jpg" description="",Odd Mom Out (2015)
+https://login-strimer.vercel.app/Series/Odd_Mom_Out_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Operacao Fronteira Italia" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/oysYZcJdMC5l8OEWiSW5wJf0gyC.jpg" description="",Operacao Fronteira Italia
+https://login-strimer.vercel.app/Series/Operacao_Fronteira_Italia.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Troca (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/vsj2CvQT9mNm3JYXY7RisXix0Ho.jpg" description="",A Troca (2021)
+https://login-strimer.vercel.app/Series/A_Troca_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Walking Dead Dead City (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/oC4SG9TXM0C6KUoAUv76WOvQ103.jpg" description="",The Walking Dead Dead City (2023)
+https://login-strimer.vercel.app/Series/The_Walking_Dead_Dead_City_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Tales of the Walking Dead (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg" description="",Tales of the Walking Dead (2022)
+https://login-strimer.vercel.app/Series/Tales_of_the_Walking_Dead_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Entrevista com o Vampiro" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//IXwje9xtS8fvXhS4DkKN6RuxTa.jpg" description="",Entrevista com o Vampiro
+https://login-strimer.vercel.app/Series/Entrevista_com_o_Vampiro.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Walking Dead Daryl Dixon (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/iuorrLyDwiOOwsCeEwtCyMOZFh8.jpg" description="",The Walking Dead Daryl Dixon (2023)
+https://login-strimer.vercel.app/Series/The_Walking_Dead_Daryl_Dixon_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Jogo da Morte (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/3JkL7dMFw3gXtPRrmMOKXJD1Ude.jpg" description="",O Jogo da Morte (2023)
+https://login-strimer.vercel.app/Series/O_Jogo_da_Morte_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Feed the Beast (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/4Mhojt4czfAlUkrkcdtIrS3Nmzc.jpg" description="",Feed the Beast (2016)
+https://login-strimer.vercel.app/Series/Feed_the_Beast_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Rainha Vermelha (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/gyhrej8aCwB6bGYodzrvAoxMYIZ.jpg" description="",Rainha Vermelha (2024)
+https://login-strimer.vercel.app/Series/Rainha_Vermelha_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Segundo Melhor Hospital da Galaxia (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/f8vaJ4qebq7icuQij2CRCXCkabG.jpg" description="",O Segundo Melhor Hospital da Galaxia (2024)
+https://login-strimer.vercel.app/Series/O_Segundo_Melhor_Hospital_da_Galaxia_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ernesto O Exterminador de Seres Monstruosos e Outras Porcarias (2017)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/imVhoxngjaWm4ip5T3zhk3dIdqZ.jpg" description="",Ernesto O Exterminador de Seres Monstruosos e Outras Porcarias (2017)
+https://login-strimer.vercel.app/Series/Ernesto_O_Exterminador_de_Seres_Monstruosos_e_Outras_Porcarias_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="Maldito Dia De Sorte (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/65sLjYay7PuUmTUjhP3C0WTOZfL.jpg" description="",Maldito Dia De Sorte (2023)
+https://login-strimer.vercel.app/Series/Maldito_Dia_De_Sorte_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sr. e Sra. Smith (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg" description="",Sr. e Sra. Smith (2024)
+https://login-strimer.vercel.app/Series/Sr_e_Sra_Smith_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Battlestar Galactica (2004)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/99PJSbcO2LeM10uOGWeFihNp77j.jpg" description="",Battlestar Galactica (2004)
+https://login-strimer.vercel.app/Series/Battlestar_Galactica_2004.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Shield Acima da Lei (2002)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/AfdZXqqlFsPUEfi6kWWWthxw7Nz.jpg" description="",The Shield Acima da Lei (2002)
+https://login-strimer.vercel.app/Series/The_Shield_Acima_da_Lei_2002.m3u
+#EXTINF:-1 type="playlist" tvg-id="Consciencia (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/1C4NSnaPD7exAvYgwe5ADpVOmGY.jpg" description="",Consciencia (2019)
+https://login-strimer.vercel.app/Series/Consciencia_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="People Magazine Alem da Noticia (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/umzp1wlXZKWqtsmDeo4VUX5Rf6V.jpg" description="",People Magazine Alem da Noticia (2016)
+https://login-strimer.vercel.app/Series/People_Magazine_Alem_da_Noticia_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Expatriadas (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/xwKvXltGX5j1g1Hg3ARPfGcfvpF.jpg" description="",Expatriadas (2024)
+https://login-strimer.vercel.app/Series/Expatriadas_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Street Fighter II Victory (1995)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mhK51roYnFMxpYmFpmEBHYwCHNt.jpg" description="",Street Fighter II Victory (1995)
+https://login-strimer.vercel.app/Series/Street_Fighter_II_Victory_1995.m3u
+#EXTINF:-1 type="playlist" tvg-id="Socorro Imediato (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ArZ5OxfFVEry9B99zqVBAuM75t9.jpg" description="",Socorro Imediato (2018)
+https://login-strimer.vercel.app/Series/Socorro_Imediato_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sexy Beast (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/2JmAIoadGdOYtYmxaIR0repbbgm.jpg" description="",Sexy Beast (2024)
+https://login-strimer.vercel.app/Series/Sexy_Beast_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Resgate 193 (2014)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/s1xAF8PJuggaauL6uhz5r1nEv1m.jpg" description="",Resgate 193 (2014)
+https://login-strimer.vercel.app/Series/Resgate_193_2014.m3u
+#EXTINF:-1 type="playlist" tvg-id="P.O.L.I.C.I.A (2017)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/pZdtvjj4EmllVMCzq4aAQf4fLMN.jpg" description="",P.O.L.I.C.I.A (2017)
+https://login-strimer.vercel.app/Series/POLICIA_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Nova pantera Cor de Rosa (1993)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/38h0wNR0KSbmSeTclpPG5UJ5XRg.jpg" description="",A Nova pantera Cor de Rosa (1993)
+https://login-strimer.vercel.app/Series/A_Nova_pantera_Cor_de_Rosa_1993.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Assalto (2013)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/20ZR2VLxTnInhXoaorSfwfbJ0mU.jpg" description="",O Assalto (2013)
+https://login-strimer.vercel.app/Series/O_Assalto_2013.m3u
+#EXTINF:-1 type="playlist" tvg-id="Briarpatch" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//3DwOQCVO6p87SlHKFwjwMmVvkcU.jpg" description="",Briarpatch
+https://login-strimer.vercel.app/Series/Briarpatch.m3u
+#EXTINF:-1 type="playlist" tvg-id="Anjos da Guarda (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/9u6n0t4xb6ubsdVtAfDCg78ZU8U.jpg" description="",Anjos da Guarda (2015)
+https://login-strimer.vercel.app/Series/Anjos_da_Guarda_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Tormenta (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/e5wPZE8JklDw88I30L9alIOw2LC.jpg" description="",A Tormenta (2016)
+https://login-strimer.vercel.app/Series/A_Tormenta_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sobre Viver (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/6TOcbePt7D4QQsDU2eW3saCgpfn.jpg" description="",Sobre Viver (2020)
+https://login-strimer.vercel.app/Series/Sobre_Viver_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Quilos Mortais Italia (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/11oNGnLEy5blDNXJjFmKsmNI8o9.jpg" description="",Quilos Mortais Italia (2018)
+https://login-strimer.vercel.app/Series/Quilos_Mortais_Italia_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Pesadelos de Ramsey (2007)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/10XpD4aEOExWcOg9bxCA28NNsMQ.jpg" description="",Os Pesadelos de Ramsey (2007)
+https://login-strimer.vercel.app/Series/Os_Pesadelos_de_Ramsey_2007.m3u
+#EXTINF:-1 type="playlist" tvg-id="Forca Policial Indiana (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/hEiUy3Du35ZmVeKgVQnDK6wgMAt.jpg" description="",Forca Policial Indiana (2024)
+https://login-strimer.vercel.app/Series/Forca_Policial_Indiana_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hotel Hazbin (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/bddmwtwuluURlhDaSLqHU849F8I.jpg" description="",Hotel Hazbin (2024)
+https://login-strimer.vercel.app/Series/Hotel_Hazbin_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Zorro (2024)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg" description="",Zorro (2024)
+https://login-strimer.vercel.app/Series/Zorro_2024.m3u
+#EXTINF:-1 type="playlist" tvg-id="Investigacao Criminal (2012)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/2R8yNYO05GvvjJrYQ4SsWvp1x4u.jpg" description="",Investigacao Criminal (2012)
+https://login-strimer.vercel.app/Series/Investigacao_Criminal_2012.m3u
+#EXTINF:-1 type="playlist" tvg-id="DH Divisao de Homicidios (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wSR8oP1Gi0tEeuDA6QOkcS3cNZH.jpg" description="",DH Divisao de Homicidios (2015)
+https://login-strimer.vercel.app/Series/DH_Divisao_de_Homicidios_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Churrasqueiros do Texas (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/aR34P8M3VRwDE9Hfv4reqAUUrau.jpg" description="",Churrasqueiros do Texas (2021)
+https://login-strimer.vercel.app/Series/Churrasqueiros_do_Texas_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Jornada Heroica do Principe Ivandoe (2017)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/zOhdHLaTpRWI4RCFaX52P3IueIK.jpg" description="",A Jornada Heroica do Principe Ivandoe (2017)
+https://login-strimer.vercel.app/Series/A_Jornada_Heroica_do_Principe_Ivandoe_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="Super Onze Ares No Tenbin (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/xd2OyjcVDbNJAFBbBh63LniGDQB.jpg" description="",Super Onze Ares No Tenbin (2018)
+https://login-strimer.vercel.app/Series/Super_Onze_Ares_No_Tenbin_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Crimes que Abalaram o Mundo (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/umkIyMu4Z6g7kxFkMm1ZmvfZRkN.jpg" description="",Crimes que Abalaram o Mundo (2020)
+https://login-strimer.vercel.app/Series/Crimes_que_Abalaram_o_Mundo_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Batalha do Churrasco (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/Z5H0AFYkea80S5QFo6HQ3q5hPs.jpg" description="",Batalha do Churrasco (2019)
+https://login-strimer.vercel.app/Series/Batalha_do_Churrasco_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="B Daman Crossfire (2011)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/3VxTQ12nPsjQUezedSUjd4yn71D.jpg" description="",B Daman Crossfire (2011)
+https://login-strimer.vercel.app/Series/B_Daman_Crossfire_2011.m3u
+#EXTINF:-1 type="playlist" tvg-id="James May Nosso Homem no Japao (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/qIoGE9kSuBE5NiaLclNDfHTpwhu.jpg" description="",James May Nosso Homem no Japao (2020)
+https://login-strimer.vercel.app/Series/James_May_Nosso_Homem_no_Japao_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Steven Universo (2013)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/p6weCsVhZid47PQfMcnLtwIUayZ.jpg" description="",Steven Universo (2013)
+https://login-strimer.vercel.app/Series/Steven_Universo_2013.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sobrevivi por Sorte (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/b70RBjvzxfKZXmjAFxYdR2bJiNK.jpg" description="",Sobrevivi por Sorte (2021)
+https://login-strimer.vercel.app/Series/Sobrevivi_por_Sorte_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Meninas Superpoderosas (2016) (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/aVhCscPWvezcGVER5dv3WI3bwe.jpg" description="",As Meninas Superpoderosas (2016) (2016)
+https://login-strimer.vercel.app/Series/As_Meninas_Superpoderosas_2016_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Cozinha de Eduardo Garcia (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/qg91kj7mnk9NK64PCN5ACCJGKCz.jpg" description="",A Cozinha de Eduardo Garcia (2022)
+https://login-strimer.vercel.app/Series/A_Cozinha_de_Eduardo_Garcia_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Um Novo Corpo Uma Nova Vida (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/7jZioIW9WgJ5r2rsyS398UYUCtk.jpg" description="",Um Novo Corpo Uma Nova Vida (2022)
+https://login-strimer.vercel.app/Series/Um_Novo_Corpo_Uma_Nova_Vida_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Meninos de Aluguel (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/iBqnHxHUVdTo4IDRTPXSWYD2sj0.jpg" description="",Meninos de Aluguel (2023)
+https://login-strimer.vercel.app/Series/Meninos_de_Aluguel_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sala de Emergencia Casos Bizarros (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/hR2VKNjbpyga13uFitNCkByOYHa.jpg" description="",Sala de Emergencia Casos Bizarros (2022)
+https://login-strimer.vercel.app/Series/Sala_de_Emergencia_Casos_Bizarros_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Operacao Fronteira Espanha (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/2vr7d8TH5zvefGgSOMfPlbCzlbf.jpg" description="",Operacao Fronteira Espanha (2016)
+https://login-strimer.vercel.app/Series/Operacao_Fronteira_Espanha_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Carros Irados A Disputa (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ca3sHqMkLgSJZEsclPoxI7eUya6.jpg" description="",Carros Irados A Disputa (2020)
+https://login-strimer.vercel.app/Series/Carros_Irados_A_Disputa_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sobrevivendo as Tentacoes (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/tGy4p8fy3GRAX43qOgcfJ7AspVZ.jpg" description="",Sobrevivendo as Tentacoes (2023)
+https://login-strimer.vercel.app/Series/Sobrevivendo_as_Tentacoes_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kid vs. Kat (2008)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/1f3DyCY4Xe6ZxN2blj0gNdWhS71.jpg" description="",Kid vs. Kat (2008)
+https://login-strimer.vercel.app/Series/Kid_vs_Kat_2008.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ghost Force (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/3BnMSyrjHhY8oDopPkEtFLkC22N.jpg" description="",Ghost Force (2021)
+https://login-strimer.vercel.app/Series/Ghost_Force_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Via Publica (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/8TiqXHlFeSKSJiM1w8fdlacL73M.jpg" description="",Via Publica (2021)
+https://login-strimer.vercel.app/Series/Via_Publica_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hello Kitty Super Style (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/7UHhvqLFmCwIAxDh7acMFInA0B2.jpg" description="",Hello Kitty Super Style (2022)
+https://login-strimer.vercel.app/Series/Hello_Kitty_Super_Style_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Shasha e Milo (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/zAm9IaMbMa1AuNhFOCRbq9MDlWl.jpg" description="",Shasha e Milo (2023)
+https://login-strimer.vercel.app/Series/Shasha_e_Milo_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Farad (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" description="",Os Farad (2023)
+https://login-strimer.vercel.app/Series/Os_Farad_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hairstyle The Talent Show Brasil (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/bJbD0tYWEdUKbHmMVuMfvaagUnb.jpg" description="",Hairstyle The Talent Show Brasil (2023)
+https://login-strimer.vercel.app/Series/Hairstyle_The_Talent_Show_Brasil_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Beyblade (2001)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/nIJC8EUydKMXf0Xy8qd4nCqrQGa.jpg" description="",Beyblade (2001)
+https://login-strimer.vercel.app/Series/Beyblade_2001.m3u
+#EXTINF:-1 type="playlist" tvg-id="Money e Violence (2014)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/xPW1ppqZKCLd35E9kQJU19J48kD.jpg" description="",Money e Violence (2014)
+https://login-strimer.vercel.app/Series/Money_e_Violence_2014.m3u
+#EXTINF:-1 type="playlist" tvg-id="Linguas da Nossa Lingua (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mQEFHSoz5oWfuCwsXTyFwKR1aYA.jpg" description="",Linguas da Nossa Lingua (2023)
+https://login-strimer.vercel.app/Series/Linguas_da_Nossa_Lingua_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cirurgioes No Limite da Vida (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/j47d3VTdhc1d8Q5CyjSxHItO1p4.jpg" description="",Cirurgioes No Limite da Vida (2018)
+https://login-strimer.vercel.app/Series/Cirurgioes_No_Limite_da_Vida_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Vilarejo Macabro (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/uW3jogp1ieOldHTxWMFmCvOKEow.jpg" description="",Vilarejo Macabro (2023)
+https://login-strimer.vercel.app/Series/Vilarejo_Macabro_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Um Trilhao de Dolares (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/dJlWjhmQ7Nmbc8GZD33xcERJ8Vw.jpg" description="",Um Trilhao de Dolares (2023)
+https://login-strimer.vercel.app/Series/Um_Trilhao_de_Dolares_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Gordon Ramsay Do Inferno ao Paraiso em 24h" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/uUJlLoFjPQy2Z9TmJquntAOYEZu.jpg" description="",Gordon Ramsay Do Inferno ao Paraiso em 24h
+https://login-strimer.vercel.app/Series/Gordon_Ramsay_Do_Inferno_ao_Paraiso_em_24h.m3u
+#EXTINF:-1 type="playlist" tvg-id="Pesadelos da Cirurgia Plastica (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/jLX6yrypdbHZTFsW9re0mA6N4Ih.jpg" description="",Pesadelos da Cirurgia Plastica (2020)
+https://login-strimer.vercel.app/Series/Pesadelos_da_Cirurgia_Plastica_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cirurgia Plastica Vai Encarar (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/xf6bKsc9BJDO2quF6IUEQ0KCWun.jpg" description="",Cirurgia Plastica Vai Encarar (2019)
+https://login-strimer.vercel.app/Series/Cirurgia_Plastica_Vai_Encarar_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hot Wheels A Batalha da Customizacao (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/pSK3qF4KFx2zAHHasbXm1ETtsUE.jpg" description="",Hot Wheels A Batalha da Customizacao (2023)
+https://login-strimer.vercel.app/Series/Hot_Wheels_A_Batalha_da_Customizacao_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Amar e Para os Fortes (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ygmLP1glUYdgVGrbd1XS0hTNuMn.jpg" description="",Amar e Para os Fortes (2023)
+https://login-strimer.vercel.app/Series/Amar_e_Para_os_Fortes_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="So Eu e Ela (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/lbXNu9SRojr9AZisfALecG6D9G8.jpg" description="",So Eu e Ela (2023)
+https://login-strimer.vercel.app/Series/So_Eu_e_Ela_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Irmaos Construtores e a Fabrica de Sonhos (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kINJzPc2FX2fH41yK02YpGX5KvH.jpg" description="",Irmaos Construtores e a Fabrica de Sonhos (2023)
+https://login-strimer.vercel.app/Series/Irmaos_Construtores_e_a_Fabrica_de_Sonhos_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Anderson Spider Silva (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/c8oWkxrcjnFl9weOhkTBrhkC1hQ.jpg" description="",Anderson Spider Silva (2023)
+https://login-strimer.vercel.app/Series/Anderson_Spider_Silva_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Curse (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg" description="",The Curse (2023)
+https://login-strimer.vercel.app/Series/The_Curse_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Largados e Pelados A Competicao (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5ptDHCxxFUMdVO5WDi0LeICFbDw.jpg" description="",Largados e Pelados A Competicao (2023)
+https://login-strimer.vercel.app/Series/Largados_e_Pelados_A_Competicao_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Homens da Lei: Bass Reeves (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/g5YvjqykQe2ZZK1C6qBXrM9EG1i.jpg" description="",Homens da Lei: Bass Reeves (2023)
+https://login-strimer.vercel.app/Series/Homens_da_Lei_Bass_Reeves_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Romanceiro (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg" description="",Romanceiro (2023)
+https://login-strimer.vercel.app/Series/Romanceiro_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Gangue de Bogota (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/4jpuAHXWUSRbjQbSPOoTJZ6EEjl.jpg" description="",A Gangue de Bogota (2023)
+https://login-strimer.vercel.app/Series/A_Gangue_de_Bogota_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Uma semana para Amelia (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/epngyfD7KRkUb8RTDBSrWiFPuJ6.jpg" description="",Uma semana para Amelia (2021)
+https://login-strimer.vercel.app/Series/Uma_semana_para_Amelia_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Lontras Citadinas (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mKZ1eYjJXhCjzwdzgyE7JH5YsFX.jpg" description="",Lontras Citadinas (2022)
+https://login-strimer.vercel.app/Series/Lontras_Citadinas_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Iosi O Espiao Arrependido (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/nz6FrukdPbO4jtb3JhWqphYuVDS.jpg" description="",Iosi O Espiao Arrependido (2022)
+https://login-strimer.vercel.app/Series/Iosi_O_Espiao_Arrependido_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ilha dos Macacos (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/rX8ZG9quWc8yzwjoWzwjPwfn6dI.jpg" description="",Ilha dos Macacos (2018)
+https://login-strimer.vercel.app/Series/Ilha_dos_Macacos_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Africa Garras e Mandibulas (2017)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wdNhdbvz59FfigXerwBM7rGamLz.jpg" description="",Africa Garras e Mandibulas (2017)
+https://login-strimer.vercel.app/Series/Africa_Garras_e_Mandibulas_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Incrivel Madagascar (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/s5OMIomJ4svwJ4bhuY0CP4pLE6D.jpg" description="",A Incrivel Madagascar (2015)
+https://login-strimer.vercel.app/Series/A_Incrivel_Madagascar_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Morangos com Acucar (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/qGN120mLdeWOkKsSqs94nkmgwI6.jpg" description="",Morangos com Acucar (2023)
+https://login-strimer.vercel.app/Series/Morangos_com_Acucar_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ilha da Tentacao (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/acolOR1yvXOOQXedBWdQgPusPyW.jpg" description="",Ilha da Tentacao (2019)
+https://login-strimer.vercel.app/Series/Ilha_da_Tentacao_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Capitao Tsubasa (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5ebcN4fDDk9QdGTvVrD7TIa18za.jpg" description="",Capitao Tsubasa (2018)
+https://login-strimer.vercel.app/Series/Capitao_Tsubasa_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Terapia por Sebastian Fitzek (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/nNc0srfNLbNEjuzWrRo5J0hbqxg.jpg" description="",A Terapia por Sebastian Fitzek (2023)
+https://login-strimer.vercel.app/Series/A_Terapia_por_Sebastian_Fitzek_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Supercaes e Seus Extraordinarios Trabalhos" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/9QcqNMZZ64X2wrygrqFUfV2wgAn.jpg" description="",Os Supercaes e Seus Extraordinarios Trabalhos
+https://login-strimer.vercel.app/Series/Os_Supercaes_e_Seus_Extraordinarios_Trabalhos.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Mares da Arabia (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/8vZJBeaQrPvG8tfB2fT6vAD4Jrw.jpg" description="",Os Mares da Arabia (2018)
+https://login-strimer.vercel.app/Series/Os_Mares_da_Arabia_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Icones da Vida Selvagem (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mP3QreKui6D7xMpiRA1xBbRuGcN.jpg" description="",Icones da Vida Selvagem (2015)
+https://login-strimer.vercel.app/Series/Icones_da_Vida_Selvagem_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Valley of Flood and Fire (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/hp2hxSD7MXBfM081Lg9BEWeULbn.jpg" description="",Valley of Flood and Fire (2020)
+https://login-strimer.vercel.app/Series/Valley_of_Flood_and_Fire_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Todo Tempo do Mundo (2017)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/cAqNwoYEpyCny1JGV3rBuVNXd4O.jpg" description="",Todo Tempo do Mundo (2017)
+https://login-strimer.vercel.app/Series/Todo_Tempo_do_Mundo_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="Reinos Ocultos da Africa (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/8lWo3T3x5fNMoG7rApPEKyELla9.jpg" description="",Reinos Ocultos da Africa (2016)
+https://login-strimer.vercel.app/Series/Reinos_Ocultos_da_Africa_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Planeta Tubarao (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/hbucBHFgrjbrLtViRZKR1iCzkH9.jpg" description="",Planeta Tubarao (2022)
+https://login-strimer.vercel.app/Series/Planeta_Tubarao_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Pink Um Amor de Verao (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/hSdAQDtdaM2i0xLiNqxS010c8DZ.jpg" description="",Pink Um Amor de Verao (2015)
+https://login-strimer.vercel.app/Series/Pink_Um_Amor_de_Verao_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Copan" tvg-logo="https://i.bj-share.info/135abfe5f7fe7d3beffe4ebaf2109281.jpg" description="",Copan
+https://login-strimer.vercel.app/Series/Copan.m3u
+#EXTINF:-1 type="playlist" tvg-id="Diversao Animal (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/9k3qSNH1eVu93lquMRg2GmerGpb.jpg" description="",Diversao Animal (2019)
+https://login-strimer.vercel.app/Series/Diversao_Animal_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Criaturas Estranhas (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/7U0agXw5q8lKxYcRv9zO1eXtYHn.jpg" description="",Criaturas Estranhas (2015)
+https://login-strimer.vercel.app/Series/Criaturas_Estranhas_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Batalha dos Alfas (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mpDWaG2XQAKisj48WvW0D7YgFD3.jpg" description="",Batalha dos Alfas (2022)
+https://login-strimer.vercel.app/Series/Batalha_dos_Alfas_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Australia Mortal (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/zVDmJQKZcWB3m1ddjZYkrNlCdJe.jpg" description="",A Australia Mortal (2020)
+https://login-strimer.vercel.app/Series/A_Australia_Mortal_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sobrevivendo a Amazonia (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/iBaYLvQe8vAdzuLE3hsebK7U8li.jpg" description="",Sobrevivendo a Amazonia (2018)
+https://login-strimer.vercel.app/Series/Sobrevivendo_a_Amazonia_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Garotas em Chamas (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/qjhbQMfQPcMpk9fqcB7AqGvLfHP.jpg" description="",Garotas em Chamas (2023)
+https://login-strimer.vercel.app/Series/Garotas_em_Chamas_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Dinossauro Rei (2007)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/y6KWd6u4sU6vXMA9b9Gj9M5NvtJ.jpg" description="",Dinossauro Rei (2007)
+https://login-strimer.vercel.app/Series/Dinossauro_Rei_2007.m3u
+#EXTINF:-1 type="playlist" tvg-id="Carros Irado (2014)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wee7eFvWtSEQ4jadhz9l7caLE21.jpg" description="",Carros Irado (2014)
+https://login-strimer.vercel.app/Series/Carros_Irado_2014.m3u
+#EXTINF:-1 type="playlist" tvg-id="Todos Amam Diamantes (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/g1yime0F2LBsIed6DLheEU9Sizy.jpg" description="",Todos Amam Diamantes (2023)
+https://login-strimer.vercel.app/Series/Todos_Amam_Diamantes_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Frasier (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/gQAjtgjgb5VAQXJog1bZgY5cjL2.jpg" description="",Frasier (2023)
+https://login-strimer.vercel.app/Series/Frasier_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Alphonse (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/68jWgFipSRPeJkJxzqO51gZ4KYc.jpg" description="",Alphonse (2023)
+https://login-strimer.vercel.app/Series/Alphonse_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Dupla do Barulho (2012)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/phtsMZlwyL5LFPjJk0T9Ul8dVKr.jpg" description="",Dupla do Barulho (2012)
+https://login-strimer.vercel.app/Series/Dupla_do_Barulho_2012.m3u
+#EXTINF:-1 type="playlist" tvg-id="Barganha (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/uLNO1984DuVV6KQILWObCfd4Ro6.jpg" description="",Barganha (2022)
+https://login-strimer.vercel.app/Series/Barganha_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Gen V (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wGOV8WrYzHKYt9lMrSGzxVAlfqL.jpg" description="",Gen V (2023)
+https://login-strimer.vercel.app/Series/Gen_V_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sem Escapatoria (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/AsIDKFpBeTjuZpKjHNki6JgV0s4.jpg" description="",Sem Escapatoria (2023)
+https://login-strimer.vercel.app/Series/Sem_Escapatoria_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="My Love From The Star (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/pSv4ClZhdZrCyvXOIHxBQT1FzYq.jpg" description="",My Love From The Star (2019)
+https://login-strimer.vercel.app/Series/My_Love_From_The_Star_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Jericho (2006)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/a57H9UsS388Av2LSLKO9inNmY7j.jpg" description="",Jericho (2006)
+https://login-strimer.vercel.app/Series/Jericho_2006.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Continental Do Mundo de John Wick (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/uRcrRc74ztb1TV5uojRtXqvNQ5y.jpg" description="",O Continental Do Mundo de John Wick (2023)
+https://login-strimer.vercel.app/Series/O_Continental_Do_Mundo_de_John_Wick_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bombaim Cidade Sem Lei (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wgelpZG1TRW2AxvGyfYnnXAjz1M.jpg" description="",Bombaim Cidade Sem Lei (2023)
+https://login-strimer.vercel.app/Series/Bombaim_Cidade_Sem_Lei_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Acusado (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/hRDb93pcHwOnEjINUROtI8IToms.jpg" description="",Acusado (2023)
+https://login-strimer.vercel.app/Series/Acusado_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Tudo Por Um Like (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/h3u8IoomEwk5SZ0SGpCUJ82oe9x.jpg" description="",Tudo Por Um Like (2023)
+https://login-strimer.vercel.app/Series/Tudo_Por_Um_Like_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Match nas Estrelas (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/eLlF5Vqd5o35baPWrWXXh0z04Vz.jpg" description="",Match nas Estrelas (2023)
+https://login-strimer.vercel.app/Series/Match_nas_Estrelas_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Turismo Selvagem (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/2H7xdi9t0q1tGcdWck7a4e7Thyn.jpg" description="",Turismo Selvagem (2023)
+https://login-strimer.vercel.app/Series/Turismo_Selvagem_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Experientes (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/8fxX7f0AmaCB3zimdghO05Khp8Q.jpg" description="",Os Experientes (2021)
+https://login-strimer.vercel.app/Series/Os_Experientes_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Ouro (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/8HNLXxJsdyu4Rg1TnF8pW4ZtN1W.jpg" description="",O Ouro (2023)
+https://login-strimer.vercel.app/Series/O_Ouro_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cidade Pacata, Crime Cruel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" description="",Cidade Pacata, Crime Cruel
+https://login-strimer.vercel.app/Series/_Crime_Cruel_tvglogohttpsimagetmdborgtpw600andh900bestv2ys7l6zoWCiCqPSCSjlV1Sxs77jSjpg_descriptionCidade_Pacata_Crime_Cruel.m3u
+#EXTINF:-1 type="playlist" tvg-id="Treadstone (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/tzoxJjPSgsPCepWgpl4LWjCKise.jpg" description="",Treadstone (2019)
+https://login-strimer.vercel.app/Series/Treadstone_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Justificado (2010)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/50mg3loNOq6f2vNmOX5ycO3ryqV.jpg" description="",Justificado (2010)
+https://login-strimer.vercel.app/Series/Justificado_2010.m3u
+#EXTINF:-1 type="playlist" tvg-id="Refúgio (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/yGXGEP6T5dnSlSlm7gnUISo4AID.jpg" description="",Refúgio (2023)
+https://login-strimer.vercel.app/Series/Refugio_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Má Fortuna (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/tuA0rHwN3OEzapXSjsSoYt42dJ6.jpg" description="",Má Fortuna (2023)
+https://login-strimer.vercel.app/Series/Ma_Fortuna_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cangaço Novo (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/cFxXB0WH25inmNGo7UYYGJKQq7i.jpg" description="",Cangaço Novo (2023)
+https://login-strimer.vercel.app/Series/Cangaco_Novo_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Mr. Bean: A Série (1990)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" description="",Mr. Bean: A Série (1990)
+https://login-strimer.vercel.app/Series/Mr_Bean_A_Serie_1990.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Aventuras de Sunny Bunnies (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/jPwQyT5XX8OcwDEC7ODEpMg6jkq.jpg" description="",As Aventuras de Sunny Bunnies (2015)
+https://login-strimer.vercel.app/Series/As_Aventuras_de_Sunny_Bunnies_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Nilba e os Desastronautas (2010)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5Lu66hhUxE19uaoFw0BzwuOTjl7.jpg" description="",Nilba e os Desastronautas (2010)
+https://login-strimer.vercel.app/Series/Nilba_e_os_Desastronautas_2010.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Flores Perdidas de Alice Hart (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/sNeGAamuke1a2I4ndcaE0bnukh4.jpg" description="",As Flores Perdidas de Alice Hart (2023)
+https://login-strimer.vercel.app/Series/As_Flores_Perdidas_de_Alice_Hart_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Química da Morte (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/uPHFvc2ma51e9AEHjRDAbRSsWIA.jpg" description="",A Química da Morte (2023)
+https://login-strimer.vercel.app/Series/A_Quimica_da_Morte_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Novela (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/msMIkS6HPRWWXXHLaTa8nQLbnz6.jpg" description="",Novela (2023)
+https://login-strimer.vercel.app/Series/Novela_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Operação: Lioness (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/fAd0dCaoSvJdGi4K4RxDfzhqXL7.jpg" description="",Operação: Lioness (2023)
+https://login-strimer.vercel.app/Series/Operacao_Lioness_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Negociador (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" description="",Negociador (2023)
+https://login-strimer.vercel.app/Series/Negociador_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Mr. Bean: A Série Animada (2002)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg" description="",Mr. Bean: A Série Animada (2002)
+https://login-strimer.vercel.app/Series/Mr_Bean_A_Serie_Animada_2002.m3u
+#EXTINF:-1 type="playlist" tvg-id="Marcelo, Marmelo, Martelo (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/q0hJGwue4SZlBIy33SXprTgPw1g.jpg" description="",Marcelo, Marmelo, Martelo (2023)
+https://login-strimer.vercel.app/Series/_Marmelo_Martelo_2023_tvglogohttptimgimagecdnshtpw600andh900bestv2q0hJGwue4SZlBIy33SXprTgPw1gjpg_descriptionMarcelo_Marmelo_Martelo_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Segredos do Everest" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1r2Gksf4e4aagr1kNOKxhZOYX2S.jpg" description="",Os Segredos do Everest
+https://login-strimer.vercel.app/Series/Os_Segredos_do_Everest.m3u
+#EXTINF:-1 type="playlist" tvg-id="Minhas Aventuras com o Superman" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//pCVtphVHcWQRSls7CCF4TEjsQcJ.jpg" description="",Minhas Aventuras com o Superman
+https://login-strimer.vercel.app/Series/Minhas_Aventuras_com_o_Superman.m3u
+#EXTINF:-1 type="playlist" tvg-id="Schooled (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/v3lhBc4mxdctDpA6GWxl4QTk0Oh.jpg" description="",Schooled (2019)
+https://login-strimer.vercel.app/Series/Schooled_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Horrores de Dolores Roach (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mmwxbwHJI83pyBI0dTUUTAapkit.jpg" description="",Os Horrores de Dolores Roach (2023)
+https://login-strimer.vercel.app/Series/Os_Horrores_de_Dolores_Roach_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Nashville: No Ritmo da Fama (2012)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/roRHLyfhx231KKOibZ9BCB3uIKz.jpg" description="",Nashville: No Ritmo da Fama (2012)
+https://login-strimer.vercel.app/Series/Nashville_No_Ritmo_da_Fama_2012.m3u
+#EXTINF:-1 type="playlist" tvg-id="Joe Pickett (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" description="",Joe Pickett (2021)
+https://login-strimer.vercel.app/Series/Joe_Pickett_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Coroas em Crise (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/rRgM7A3sr6zltpwKejxzSbMLTni.jpg" description="",Coroas em Crise (2023)
+https://login-strimer.vercel.app/Series/Coroas_em_Crise_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Swimming with Sharks (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kiBuVgOdEYAx2kApt5FJ4SXiczz.jpg" description="",Swimming with Sharks (2022)
+https://login-strimer.vercel.app/Series/Swimming_with_Sharks_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sou de Virgem (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg" description="",Sou de Virgem (2023)
+https://login-strimer.vercel.app/Series/Sou_de_Virgem_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Barra Brava (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/bcG1GiiPsZ2b6Xy2TovQJmX0zTm.jpg" description="",Barra Brava (2023)
+https://login-strimer.vercel.app/Series/Barra_Brava_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Bruxas Mayfair de Anne Rice (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/8TjwFIz5CfojrnUenDOEYIgJTjJ.jpg" description="",As Bruxas Mayfair de Anne Rice (2023)
+https://login-strimer.vercel.app/Series/As_Bruxas_Mayfair_de_Anne_Rice_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="West Wing: Nos Bastidores do Poder (1999)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/jpwPPp46K04yL5MLbmllv1qNVEg.jpg" description="",West Wing: Nos Bastidores do Poder (1999)
+https://login-strimer.vercel.app/Series/West_Wing_Nos_Bastidores_do_Poder_1999.m3u
+#EXTINF:-1 type="playlist" tvg-id="Namoro no Sigilo (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/dh2W9vC7qCDzwiBuQBR6RwwhlUZ.jpg" description="",Namoro no Sigilo (2022)
+https://login-strimer.vercel.app/Series/Namoro_no_Sigilo_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Deadloch (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/fYNBOOgEnaPTwZQdpdVMUGJDcYT.jpg" description="",Deadloch (2023)
+https://login-strimer.vercel.app/Series/Deadloch_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Seduced: Inside the NXIVM Cult (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/2algVl1riUbFcFBxxy1Ops6FNM7.jpg" description="",Seduced: Inside the NXIVM Cult (2020)
+https://login-strimer.vercel.app/Series/Seduced_Inside_the_NXIVM_Cult_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Grifo (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/yzDz44EvpoM83yTqOSURRaXKuab.jpg" description="",O Grifo (2023)
+https://login-strimer.vercel.app/Series/O_Grifo_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Feridas do Passado (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/74t3yaNDdOnaXWoV31UUWsFuyvP.jpg" description="",Feridas do Passado (2022)
+https://login-strimer.vercel.app/Series/Feridas_do_Passado_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Ginastas (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/cbZ3hBynkwonuEnv9iglmUVuksg.jpg" description="",As Ginastas (2022)
+https://login-strimer.vercel.app/Series/As_Ginastas_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Tudors (2007)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/oiRSRTJX5aFrYue4psaDMggdsNK.jpg" description="",The Tudors (2007)
+https://login-strimer.vercel.app/Series/The_Tudors_2007.m3u
+#EXTINF:-1 type="playlist" tvg-id="Poldark: Herói de Guerra (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kTdgkqSM5E6FDl94KVmC0iAoyKy.jpg" description="",Poldark: Herói de Guerra (2015)
+https://login-strimer.vercel.app/Series/Poldark_Heroi_de_Guerra_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="Casa Feia Nunca Mais! (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/6uhhzNPNYQnrnO7kUenJB8EF0kM.jpg" description="",Casa Feia Nunca Mais! (2022)
+https://login-strimer.vercel.app/Series/Casa_Feia_Nunca_Mais_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="MasterChef: Profissionais (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wQJzipqT6OMesRgdIZNDM3ekuP2.jpg" description="",MasterChef: Profissionais (2016)
+https://login-strimer.vercel.app/Series/MasterChef_Profissionais_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Desafio Sob Fogo: America Latina (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/w7xtTnDNp9yeSuI2Rmn7dW2ETe7.jpg" description="",Desafio Sob Fogo: America Latina (2018)
+https://login-strimer.vercel.app/Series/Desafio_Sob_Fogo_America_Latina_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Senhora Secretária (2014)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/6Nl1ablo4DNTLb4ZH7Mycz81AEt.jpg" description="",Senhora Secretária (2014)
+https://login-strimer.vercel.app/Series/Senhora_Secretaria_2014.m3u
+#EXTINF:-1 type="playlist" tvg-id="Citadel (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" description="",Citadel (2023)
+https://login-strimer.vercel.app/Series/Citadel_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ilhas Selvagens (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/2IQm2H0D9rkJCziGZrEcPROWUhI.jpg" description="",Ilhas Selvagens (2023)
+https://login-strimer.vercel.app/Series/Ilhas_Selvagens_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Gêmeas: Mórbida Semelhança (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5nEZAAUC3ZOpVVEj224SWhJtIfm.jpg" description="",Gêmeas: Mórbida Semelhança (2023)
+https://login-strimer.vercel.app/Series/Gemeas_Morbida_Semelhanca_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Chefs de Alto Nível com Gordon Ramsay (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/di3eWx1NfkTGSiTCzBgn51Wpzvi.jpg" description="",Chefs de Alto Nível com Gordon Ramsay (2022)
+https://login-strimer.vercel.app/Series/Chefs_de_Alto_Nivel_com_Gordon_Ramsay_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Caravana das Drags (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/m6T9XRWzzQT502DanRkcIHekqiu.jpg" description="",Caravana das Drags (2023)
+https://login-strimer.vercel.app/Series/Caravana_das_Drags_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Louco por Você (1992)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/cjeTWcMs0OUF93c489G3xIx6jFd.jpg" description="",Louco por Você (1992)
+https://login-strimer.vercel.app/Series/Louco_por_Voce_1992.m3u
+#EXTINF:-1 type="playlist" tvg-id="Jubileu (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/l1mIwrnnU80KGtaKDHgDFZs1DSU.jpg" description="",Jubileu (2023)
+https://login-strimer.vercel.app/Series/Jubileu_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Despertar Mortal" tvg-logo="https://i.bj-share.info/4f379355fbc088f1104fcea7b3952ad9.jpg" description="",Despertar Mortal
+https://login-strimer.vercel.app/Series/Despertar_Mortal.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Poder (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ltO4wE8zFE1wAbAS063ZDbEvJXq.jpg" description="",O Poder (2023)
+https://login-strimer.vercel.app/Series/O_Poder_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Monarch: O Legado do Country (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg" description="",Monarch: O Legado do Country (2022)
+https://login-strimer.vercel.app/Series/Monarch_O_Legado_do_Country_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sem Rastros (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wUuZiLF6meSCdx1LVMc2BKXUj5q.jpg" description="",Sem Rastros (2023)
+https://login-strimer.vercel.app/Series/Sem_Rastros_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Enxame (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5V1yvvLR7n5XqrDO26Wkr5d5228.jpg" description="",Enxame (2023)
+https://login-strimer.vercel.app/Series/Enxame_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Daisy Jones & The Six (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ltfscPUljehY7IwGG85vij2TEbQ.jpg" description="",Daisy Jones & The Six (2023)
+https://login-strimer.vercel.app/Series/Daisy_Jones_The_Six_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Three Pines (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/czgQMaDBnuqYyLNxcN76lw14duB.jpg" description="",Three Pines (2022)
+https://login-strimer.vercel.app/Series/Three_Pines_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Cafetão (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kw5UkrJQIC5X2UPJfzcFBFW2Z66.jpg" description="",O Cafetão (2023)
+https://login-strimer.vercel.app/Series/O_Cafetao_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="George & Tammy (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/byer2whf1IaMlXYrmzTbaJMCitu.jpg" description="",George & Tammy (2022)
+https://login-strimer.vercel.app/Series/George_Tammy_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Reforma em Familia: O Desafio de Mina (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ampnbKuW9tsVZZaECY9ejNECrc3.jpg" description="",Reforma em Familia: O Desafio de Mina (2022)
+https://login-strimer.vercel.app/Series/Reforma_em_Familia_O_Desafio_de_Mina_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Consultor (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg" description="",O Consultor (2023)
+https://login-strimer.vercel.app/Series/O_Consultor_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Fakes (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/yBDKx3D7dup0dUSpDKm8rPIQIqY.jpg" description="",Fakes (2023)
+https://login-strimer.vercel.app/Series/Fakes_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Cabeça de Joaquín Murrieta (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg" description="",A Cabeça de Joaquín Murrieta (2023)
+https://login-strimer.vercel.app/Series/A_Cabeca_de_Joaquin_Murrieta_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Operação Maré Negra (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/vLfBkhB20LoIdiFSIohIMnhGhgD.jpg" description="",Operação Maré Negra (2022)
+https://login-strimer.vercel.app/Series/Operacao_Mare_Negra_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="James May - O Mestre-Cuca! (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wn3Zd6B564ORG5sulu8xBQ337If.jpg" description="",James May - O Mestre-Cuca! (2020)
+https://login-strimer.vercel.app/Series/James_May_O_MestreCuca_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Teacher (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kRW9KXd3AdOiVtjSox2dXjvrh5M.jpg" description="",The Teacher (2022)
+https://login-strimer.vercel.app/Series/The_Teacher_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Inglesa (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/iset8RxTaEpcipeYaYdYRe7GEHl.jpg" description="",A Inglesa (2022)
+https://login-strimer.vercel.app/Series/A_Inglesa_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Seleção Argentina: A Série - Rumo a Catar (2022)" tvg-logo="http://timg.imagecdn.sh/images/fa13a8b6e148243626a53fe3515c9faa.jpg" description="",Seleção Argentina: A Série - Rumo a Catar (2022)
+https://login-strimer.vercel.app/Series/Selecao_Argentina_A_Serie_Rumo_a_Catar_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Caçadores (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/rbtgorwuTBoAu0Qm5IvZoQl75WU.jpg" description="",Caçadores (2020)
+https://login-strimer.vercel.app/Series/Cacadores_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Panteras (2011)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/4UiQ46T777kvKJCx9F9DAI3HajP.jpg" description="",As Panteras (2011)
+https://login-strimer.vercel.app/Series/As_Panteras_2011.m3u
+#EXTINF:-1 type="playlist" tvg-id="Mistério no Mar (2023)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/7gFcgB8v0cykud9tfIPmqGZC32z.jpg" description="",Mistério no Mar (2023)
+https://login-strimer.vercel.app/Series/Misterio_no_Mar_2023.m3u
+#EXTINF:-1 type="playlist" tvg-id="Depois do Julgamento (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/eb1RD2AKCCAeoo2ckoF8U92oqva.jpg" description="",Depois do Julgamento (2022)
+https://login-strimer.vercel.app/Series/Depois_do_Julgamento_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="MasterChef Junior (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/qb8pXRmyNfOWQgJssz51bw9wATy.jpg" description="",MasterChef Junior (2015)
+https://login-strimer.vercel.app/Series/MasterChef_Junior_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Nanny (1993)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ArcJvQ27Bhn5FiyfAphS2eNEMhb.jpg" description="",The Nanny (1993)
+https://login-strimer.vercel.app/Series/The_Nanny_1993.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Vilão (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/aiF4zK7eRSVsAE4ouP3rF3KvVfH.jpg" description="",O Vilão (2022)
+https://login-strimer.vercel.app/Series/O_Vilao_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Vida de Casal (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/kAXE9S08pmFkaukZR9ZdC4QhpaJ.jpg" description="",Vida de Casal (2022)
+https://login-strimer.vercel.app/Series/Vida_de_Casal_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Fim do Amor (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/e0WBmIJiapZxIPIuYRRSCffFNKe.jpg" description="",O Fim do Amor (2022)
+https://login-strimer.vercel.app/Series/O_Fim_do_Amor_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Hora do Diabo (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg" description="",A Hora do Diabo (2022)
+https://login-strimer.vercel.app/Series/A_Hora_do_Diabo_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Periféricos (2022)" tvg-logo="http://timg.imagecdn.sh/images/e529aa1dc80db0bf270f4e6eacdb22ae.jpg" description="",Periféricos (2022)
+https://login-strimer.vercel.app/Series/Perifericos_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Deixa Ela Entrar (2022)" tvg-logo="http://timg.imagecdn.sh/images/723fb1c193a3abc05bc328b51a7facf9.jpg" description="",Deixa Ela Entrar (2022)
+https://login-strimer.vercel.app/Series/Deixa_Ela_Entrar_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Amor Moderno Tóquio (2022)" tvg-logo="http://timg.imagecdn.sh/images/338d83df69276888a65a3248ff561e71.jpg" description="",Amor Moderno Tóquio (2022)
+https://login-strimer.vercel.app/Series/Amor_Moderno_Toquio_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Todo Mundo Adora o Raymond (1996)" tvg-logo="http://timg.imagecdn.sh/images/5e20421a18139219912db9e5e8d5836e.jpg" description="",Todo Mundo Adora o Raymond (1996)
+https://login-strimer.vercel.app/Series/Todo_Mundo_Adora_o_Raymond_1996.m3u
+#EXTINF:-1 type="playlist" tvg-id="Meu Tio (2022)" tvg-logo="http://timg.imagecdn.sh/images/23704196705b1b03e6fd56419135c6db.jpg" description="",Meu Tio (2022)
+https://login-strimer.vercel.app/Series/Meu_Tio_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Almost Paradise (2020)" tvg-logo="http://timg.imagecdn.sh/images/9ae5708768f0778e0c83125f7390c195.jpg" description="",Almost Paradise (2020)
+https://login-strimer.vercel.app/Series/Almost_Paradise_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Warped! (2022)" tvg-logo="http://timg.imagecdn.sh/images/25669099f93254eeacc597c588d692fa.jpg" description="",Warped! (2022)
+https://login-strimer.vercel.app/Series/Warped_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Mistérios de Rock Island (2022)" tvg-logo="http://timg.imagecdn.sh/images/4161ebb8a2e9adb99c14ce1f1a17fe57.jpg" description="",Os Mistérios de Rock Island (2022)
+https://login-strimer.vercel.app/Series/Os_Misterios_de_Rock_Island_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kanojo Okarishimasu (2020)" tvg-logo="http://timg.imagecdn.sh/images/1b0ae2e3b9f2752e4ada3074517db7bd.jpg" description="",Kanojo Okarishimasu (2020)
+https://login-strimer.vercel.app/Series/Kanojo_Okarishimasu_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Eleita (2022)" tvg-logo="http://timg.imagecdn.sh/images/d184a66566e6c3a8cb38efd7f1791db5.jpg" description="",Eleita (2022)
+https://login-strimer.vercel.app/Series/Eleita_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Der Pass (2019)" tvg-logo="http://timg.imagecdn.sh/images/1cab09c1b77a83d08b1ecac70116620e.jpg" description="",Der Pass (2019)
+https://login-strimer.vercel.app/Series/Der_Pass_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Coração Suburbano (2022)" tvg-logo="http://timg.imagecdn.sh/images/34907edd87e174b91bf8b680f57b6a16.jpg" description="",Coração Suburbano (2022)
+https://login-strimer.vercel.app/Series/Coracao_Suburbano_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Como Sobreviver Entre Irmãos (2021)" tvg-logo="http://timg.imagecdn.sh/images/e571301d547093560a992db37927544f.jpg" description="",Como Sobreviver Entre Irmãos (2021)
+https://login-strimer.vercel.app/Series/Como_Sobreviver_Entre_Irmaos_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Prisma (2022)" tvg-logo="http://timg.imagecdn.sh/images/7ddfeebfcf420f0956d1f79f1d5ae9a5.jpg" description="",Prisma (2022)
+https://login-strimer.vercel.app/Series/Prisma_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Um Assunto Privado (2022)" tvg-logo="http://timg.imagecdn.sh/images/bc6e8abe778373cbd7c35503d9352388.jpg" description="",Um Assunto Privado (2022)
+https://login-strimer.vercel.app/Series/Um_Assunto_Privado_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei (2021)" tvg-logo="http://timg.imagecdn.sh/images/c4e4d25d11499a0eaca9641dfa77757d.jpg" description="",Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei (2021)
+https://login-strimer.vercel.app/Series/Shinka_no_Mi_Shiranai_Uchi_ni_Kachigumi_Jinsei_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Lupin the 3rd Part 6 (2021)" tvg-logo="http://timg.imagecdn.sh/images/8d948015d24c58c500d71d2e83f16142.jpg" description="",Lupin the 3rd Part 6 (2021)
+https://login-strimer.vercel.app/Series/Lupin_the_3rd_Part_6_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Senhor dos Anéis: Os Anéis de Poder (2022)" tvg-logo="http://timg.imagecdn.sh/images/1808b6d053c0051bdf22991a3d4fcba6.jpg" description="",O Senhor dos Anéis: Os Anéis de Poder (2022)
+https://login-strimer.vercel.app/Series/O_Senhor_dos_Aneis_Os_Aneis_de_Poder_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Downton Abbey (2010)" tvg-logo="http://timg.imagecdn.sh/images/5c4ed8b89a3c674753317d893d165a23.jpg" description="",Downton Abbey (2010)
+https://login-strimer.vercel.app/Series/Downton_Abbey_2010.m3u
+#EXTINF:-1 type="playlist" tvg-id="Uma Equipe Muito Especial (2022)" tvg-logo="http://timg.imagecdn.sh/images/d364f75adfef16a8ca646c510cdd1ec1.jpg" description="",Uma Equipe Muito Especial (2022)
+https://login-strimer.vercel.app/Series/Uma_Equipe_Muito_Especial_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Old Man (2022)" tvg-logo="http://timg.imagecdn.sh/images/28370db4d9decc833566b22597235c0f.jpg" description="",The Old Man (2022)
+https://login-strimer.vercel.app/Series/The_Old_Man_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Girl from Plainville (2022)" tvg-logo="http://timg.imagecdn.sh/images/295c6e8bc1ed66c5b3eb60c9feff5acc.jpg" description="",The Girl from Plainville (2022)
+https://login-strimer.vercel.app/Series/The_Girl_from_Plainville_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="S.M.A.S.H. Acampamento de Super herois" tvg-logo="http://timg.imagecdn.sh/images/9b6bae16984400a713b2183f814671da.jpg" description="",S.M.A.S.H. Acampamento de Super herois
+https://login-strimer.vercel.app/Series/SMASH_Acampamento_de_Super_herois.m3u
+#EXTINF:-1 type="playlist" tvg-id="Domina (2021)" tvg-logo="http://timg.imagecdn.sh/images/5e0311d3f4ec34734c1c6159af3aa4b0.jpg" description="",Domina (2021)
+https://login-strimer.vercel.app/Series/Domina_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Superfície (2022)" tvg-logo="http://timg.imagecdn.sh/images/231211c7d13257a4cfedc6422f2cdbe8.jpg" description="",Superfície (2022)
+https://login-strimer.vercel.app/Series/Superficie_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Paper Girls (2022)" tvg-logo="http://timg.imagecdn.sh/images/88bb74e62b06966d2a57332c77c826a8.jpg" description="",Paper Girls (2022)
+https://login-strimer.vercel.app/Series/Paper_Girls_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Maguila, o Gorila (1964)" tvg-logo="http://timg.imagecdn.sh/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" description="",Maguila, o Gorila (1964)
+https://login-strimer.vercel.app/Series/_o_Gorila_1964_tvglogohttptimgimagecdnshimages7b7d378ebf64ea8cd3afeeb05663f4c9jpg_descriptionMaguila_o_Gorila_1964.m3u
+#EXTINF:-1 type="playlist" tvg-id="Koi wa Sekai Seifuku no Ato de (2022)" tvg-logo="http://timg.imagecdn.sh/images/00b7d235f8714109a166b1c04b3860b3.jpg" description="",Koi wa Sekai Seifuku no Ato de (2022)
+https://login-strimer.vercel.app/Series/Koi_wa_Sekai_Seifuku_no_Ato_de_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Veleno: A Cidade das Crianças Perdidas (2021)" tvg-logo="http://timg.imagecdn.sh/images/ef76a0ef20e6448fa4db50ed81d58714.jpg" description="",Veleno: A Cidade das Crianças Perdidas (2021)
+https://login-strimer.vercel.app/Series/Veleno_A_Cidade_das_Criancas_Perdidas_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Great Grape Ape Show (1975)" tvg-logo="http://timg.imagecdn.sh/images/fe8a153b35549649feedc24e7753c419.jpg" description="",The Great Grape Ape Show (1975)
+https://login-strimer.vercel.app/Series/The_Great_Grape_Ape_Show_1975.m3u
+#EXTINF:-1 type="playlist" tvg-id="Supernova (2022)" tvg-logo="http://timg.imagecdn.sh/images/7e09f6b91574647f558e0555ee098d57.jpg" description="",Supernova (2022)
+https://login-strimer.vercel.app/Series/Supernova_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Lista Terminal (2022)" tvg-logo="http://timg.imagecdn.sh/images/8990b17a30468b2b624532656c0c9df4.jpg" description="",A Lista Terminal (2022)
+https://login-strimer.vercel.app/Series/A_Lista_Terminal_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Família Gil (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/wHvrIikxLHxgKN67JHOLRGeDEY7.jpg" description="",Família Gil (2022)
+https://login-strimer.vercel.app/Series/Familia_Gil_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Chloe (2022)" tvg-logo="http://timg.imagecdn.sh/images/43588db45f262df4b26331ecdcbc8b41.jpg" description="",Chloe (2022)
+https://login-strimer.vercel.app/Series/Chloe_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Suzhal: Vórtice (2022)" tvg-logo="http://timg.imagecdn.sh/images/bca2d9ec651db03977e5aa04ad1aa5b0.jpg" description="",Suzhal: Vórtice (2022)
+https://login-strimer.vercel.app/Series/Suzhal_Vortice_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Corrida Maluca (2017)" tvg-logo="http://timg.imagecdn.sh/images/f3d08706857b985a2284039b6d33e7f4.jpg" description="",A Corrida Maluca (2017)
+https://login-strimer.vercel.app/Series/A_Corrida_Maluca_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Thing About Pam (2022)" tvg-logo="http://timg.imagecdn.sh/images/3cad025ad501e27437c9c5492e4f44a2.jpg" description="",The Thing About Pam (2022)
+https://login-strimer.vercel.app/Series/The_Thing_About_Pam_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Apuros de Penélope Charmosa (1969)" tvg-logo="http://timg.imagecdn.sh/images/9e1d66e4f6279f6e1122d34b3f6be919.jpg" description="",Os Apuros de Penélope Charmosa (1969)
+https://login-strimer.vercel.app/Series/Os_Apuros_de_Penelope_Charmosa_1969.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bang Bang Baby (2022)" tvg-logo="http://timg.imagecdn.sh/images/1d296f72878287e4bc425a020bb88db0.jpg" description="",Bang Bang Baby (2022)
+https://login-strimer.vercel.app/Series/Bang_Bang_Baby_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bosch: O Legado (2022)" tvg-logo="http://timg.imagecdn.sh/images/8d8b3245d78c6c605de14236082fbc12.jpg" description="",Bosch: O Legado (2022)
+https://login-strimer.vercel.app/Series/Bosch_O_Legado_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Anos-luz (2022)" tvg-logo="http://timg.imagecdn.sh/images/a03b38d3b9d4ee45d75c0de99b76c1f6.jpg" description="",Anos-luz (2022)
+https://login-strimer.vercel.app/Series/Anosluz_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Kids in the Hall (2022)" tvg-logo="http://timg.imagecdn.sh/images/423a296be33e30f83ec082cf0373b5e7.jpg" description="",The Kids in the Hall (2022)
+https://login-strimer.vercel.app/Series/The_Kids_in_the_Hall_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Breathe: Pelas Sombras (2020)" tvg-logo="http://timg.imagecdn.sh/images/6f5f3566b98a7eb565a6e8f0442cdf74.jpg" description="",Breathe: Pelas Sombras (2020)
+https://login-strimer.vercel.app/Series/Breathe_Pelas_Sombras_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Agência (2022)" tvg-logo="http://timg.imagecdn.sh/images/00c303502faaa42de46746c849409902.jpg" description="",Agência (2022)
+https://login-strimer.vercel.app/Series/Agencia_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Primeira-dama (2022)" tvg-logo="http://timg.imagecdn.sh/images/b7a4ddf45be6c326312345ea8db5a14d.jpg" description="",A Primeira-dama (2022)
+https://login-strimer.vercel.app/Series/A_Primeiradama_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Pivoting: Rodando Na Vida (2022)" tvg-logo="http://timg.imagecdn.sh/images/9e16736392a4c7cc8039c85bf6539572.jpg" description="",Pivoting: Rodando Na Vida (2022)
+https://login-strimer.vercel.app/Series/Pivoting_Rodando_Na_Vida_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Topo Gigio (2020)" tvg-logo="http://timg.imagecdn.sh/images/6c51cd5cfaff1bbe13113faf36f6abb3.jpg" description="",Topo Gigio (2020)
+https://login-strimer.vercel.app/Series/Topo_Gigio_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sentença (2022)" tvg-logo="http://timg.imagecdn.sh/images/36846a96debbcd63716868f39db49bfa.jpg" description="",Sentença (2022)
+https://login-strimer.vercel.app/Series/Sentenca_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Como Sobreviver Solteiro (2020)" tvg-logo="http://timg.imagecdn.sh/images/b8866e67fa90f1c279c7ce8a7d523acb.jpg" description="",Como Sobreviver Solteiro (2020)
+https://login-strimer.vercel.app/Series/Como_Sobreviver_Solteiro_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Além da Margem" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//9rDKU8MkzgB3rAprEB2d8N7RFFq.jpg" description="",Além da Margem
+https://login-strimer.vercel.app/Series/Alem_da_Margem.m3u
+#EXTINF:-1 type="playlist" tvg-id="Um Lobo como Eu (2022)" tvg-logo="http://timg.imagecdn.sh/images/55cdd8379e0f9cee48f9b625bfc26494.jpg" description="",Um Lobo como Eu (2022)
+https://login-strimer.vercel.app/Series/Um_Lobo_como_Eu_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cocoricó (1996)" tvg-logo="http://timg.imagecdn.sh/images/42edece36adbd4c5d2214d9e1e990954.jpg" description="",Cocoricó (1996)
+https://login-strimer.vercel.app/Series/Cocorico_1996.m3u
+#EXTINF:-1 type="playlist" tvg-id="Harina (2022)" tvg-logo="http://timg.imagecdn.sh/images/f6398e43d293ad4d95384d2a44ab0b33.jpg" description="",Harina (2022)
+https://login-strimer.vercel.app/Series/Harina_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Agência (2020)" tvg-logo="http://timg.imagecdn.sh/images/d55e09b7c50602ec46d36bb414b51bb0.jpg" description="",A Agência (2020)
+https://login-strimer.vercel.app/Series/A_Agencia_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Boys Apresenta: Diabólicos (2022)" tvg-logo="http://timg.imagecdn.sh/images/b974edb7a676961d9d34fd4b71e7a1ce.jpg" description="",The Boys Apresenta: Diabólicos (2022)
+https://login-strimer.vercel.app/Series/The_Boys_Apresenta_Diabolicos_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Lov3 (2022)" tvg-logo="http://timg.imagecdn.sh/images/847fa5ecb6a20f9ec08e2856a9a50555.jpg" description="",Lov3 (2022)
+https://login-strimer.vercel.app/Series/Lov3_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Lenda de Vox Machina (2022)" tvg-logo="http://timg.imagecdn.sh/images/4c4da4c6650fe6da146d93f1fb4e8b55.jpg" description="",A Lenda de Vox Machina (2022)
+https://login-strimer.vercel.app/Series/A_Lenda_de_Vox_Machina_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Professor T (2021)" tvg-logo="http://timg.imagecdn.sh/images/5e6b7a01939fbb99605d24a100a86813.jpg" description="",Professor T (2021)
+https://login-strimer.vercel.app/Series/Professor_T_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Laboratório de Dexter (1996)" tvg-logo="http://timg.imagecdn.sh/images/2d2c531963028a4a79068947f4cdf258.jpg" description="",O Laboratório de Dexter (1996)
+https://login-strimer.vercel.app/Series/O_Laboratorio_de_Dexter_1996.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Acampamento de Lazlo (2005)" tvg-logo="http://timg.imagecdn.sh/images/0eb485439d75ab5e0738a3e93e02d258.jpg" description="",O Acampamento de Lazlo (2005)
+https://login-strimer.vercel.app/Series/O_Acampamento_de_Lazlo_2005.m3u
+#EXTINF:-1 type="playlist" tvg-id="Reacher (2022)" tvg-logo="http://timg.imagecdn.sh/images/d89cd0ade60d64026e44f994193646d4.jpg" description="",Reacher (2022)
+https://login-strimer.vercel.app/Series/Reacher_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="FC Bayern – Por Trás da Lenda (2021)" tvg-logo="http://timg.imagecdn.sh/images/b3fd39f23c631ff5b78516d0e67960d6.jpg" description="",FC Bayern – Por Trás da Lenda (2021)
+https://login-strimer.vercel.app/Series/FC_Bayern_Por_Tras_da_Lenda_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="El Presidente (2020)" tvg-logo="http://timg.imagecdn.sh/images/3bbd4ca40b006c374a89028374206ec1.jpg" description="",El Presidente (2020)
+https://login-strimer.vercel.app/Series/El_Presidente_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="DOC – Uma Nova Vida (2020)" tvg-logo="http://timg.imagecdn.sh/images/d6894992f07eb72f2a1a830f9f4f45c7.jpg" description="",DOC – Uma Nova Vida (2020)
+https://login-strimer.vercel.app/Series/DOC_Uma_Nova_Vida_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Nosso Jeito de Ser (2022)" tvg-logo="http://timg.imagecdn.sh/images/2a5156562be86c5d67e5e4f60cf2273a.jpg" description="",Nosso Jeito de Ser (2022)
+https://login-strimer.vercel.app/Series/Nosso_Jeito_de_Ser_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Baptiste (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/xgu7gih8wYtd4As95uDhVajjkM4.jpg" description="",Baptiste (2019)
+https://login-strimer.vercel.app/Series/Baptiste_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Supermansion (2015)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/Mv6oIo8bkWATYpZUzzvxT63Qyl.jpg" description="",Supermansion (2015)
+https://login-strimer.vercel.app/Series/Supermansion_2015.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Marinheiro Popeye (1960)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg" description="",O Marinheiro Popeye (1960)
+https://login-strimer.vercel.app/Series/O_Marinheiro_Popeye_1960.m3u
+#EXTINF:-1 type="playlist" tvg-id="Wakefield (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5sEYtkSEnnesXXfqgAwY5WEqUGB.jpg" description="",Wakefield (2021)
+https://login-strimer.vercel.app/Series/Wakefield_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Negociadora (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/r5jG1H9EmizetqzsMQCGvolQYfL.jpg" description="",A Negociadora (2020)
+https://login-strimer.vercel.app/Series/A_Negociadora_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="LOL: Se Rir, Já Era (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/ag2xnUhbrRkStDshgrfifmAXgLK.jpg" description="",LOL: Se Rir, Já Era (2021)
+https://login-strimer.vercel.app/Series/_Ja_Era_2021_tvglogohttptimgimagecdnshtpw600andh900bestv2ag2xnUhbrRkStDshgrfifmAXgLKjpg_descriptionLOL_Se_Rir_Ja_Era_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Lockdown Americano & Desbancando Borat (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/9W7zYf8MIEYGYuL8KkHwAh9KDjV.jpg" description="",Lockdown Americano & Desbancando Borat (2021)
+https://login-strimer.vercel.app/Series/Lockdown_Americano_Desbancando_Borat_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Harlem (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/qyEtuIIEpUHNMhmdvcvID7oQGYu.jpg" description="",Harlem (2021)
+https://login-strimer.vercel.app/Series/Harlem_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="DÓ, RÉ & MI (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/jYCbHUMifYMVxXPV2MokgycPLsw.jpg" description="",DÓ, RÉ & MI (2021)
+https://login-strimer.vercel.app/Series/_RE_MI_2021_tvglogohttptimgimagecdnshtpw600andh900bestv2jYCbHUMifYMVxXPV2MokgycPLswjpg_descriptionDO_RE_MI_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Jiban - O Policial de Aço (1989)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/oxEsZ5MNqOYE0ZWjznKS6Gisqoc.jpg" description="",Jiban - O Policial de Aço (1989)
+https://login-strimer.vercel.app/Series/Jiban_O_Policial_de_Aco_1989.m3u
+#EXTINF:-1 type="playlist" tvg-id="Nos Os Filhos da Estacao Zoo (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/i599uegofUJNvr8Ky5aNguPOhvq.jpg" description="",Nos Os Filhos da Estacao Zoo (2021)
+https://login-strimer.vercel.app/Series/Nos_Os_Filhos_da_Estacao_Zoo_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ana Bolena: A Rainha (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/gkoPzDTE2psYWcMcnDxNkapYP09.jpg" description="",Ana Bolena: A Rainha (2021)
+https://login-strimer.vercel.app/Series/Ana_Bolena_A_Rainha_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Roda do Tempo (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5LKxmsgkBSbwGJkNOnYgD9gzS87.jpg" description="",A Roda do Tempo (2021)
+https://login-strimer.vercel.app/Series/A_Roda_do_Tempo_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Red Light (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/rGVqoSlL7t4p5s1tYgwwgUGnEy8.jpg" description="",Red Light (2020)
+https://login-strimer.vercel.app/Series/Red_Light_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Maradona: Conquista de um Sonho (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mGPdWEEmfzP7VQBQsXrFt1b1ikQ.jpg" description="",Maradona: Conquista de um Sonho (2021)
+https://login-strimer.vercel.app/Series/Maradona_Conquista_de_um_Sonho_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Fairfax (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/oOEFB2yTmaDOoYsybgxJw7lz8UW.jpg" description="",Fairfax (2021)
+https://login-strimer.vercel.app/Series/Fairfax_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="À Procura do Amor (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/4jFyvf5TYHp91hYee22chl4i4w.jpg" description="",À Procura do Amor (2021)
+https://login-strimer.vercel.app/Series/A_Procura_do_Amor_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Eu Sei o Que Vocês Fizeram no Verão Passado (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/vKuL46GnkOPdLoArUUBihC4YSjv.jpg" description="",Eu Sei o Que Vocês Fizeram no Verão Passado (2021)
+https://login-strimer.vercel.app/Series/Eu_Sei_o_Que_Voces_Fizeram_no_Verao_Passado_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Desjuntados (2021)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5zbRz8bnGm17lG17PVk3OGlW620.jpg" description="",Desjuntados (2021)
+https://login-strimer.vercel.app/Series/Desjuntados_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Cavaleiros do Zodíaco: The Lost Canvas (2009)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/2KFlvSkrPVj64PGDzdCYPTiTiMg.jpg" description="",Os Cavaleiros do Zodíaco: The Lost Canvas (2009)
+https://login-strimer.vercel.app/Series/Os_Cavaleiros_do_Zodiaco_The_Lost_Canvas_2009.m3u
+#EXTINF:-1 type="playlist" tvg-id="Manda-chuva (1961)" tvg-logo="http://timg.imagecdn.sh/images/a6749a0e7ef08881adb6ca4c7b24cf90.jpg" description="",Manda-chuva (1961)
+https://login-strimer.vercel.app/Series/Mandachuva_1961.m3u
+#EXTINF:-1 type="playlist" tvg-id="Instituto Voltaire (2021)" tvg-logo="http://timg.imagecdn.sh/images/1590a94ad6c115b1dc4f79453fb67620.jpg" description="",Instituto Voltaire (2021)
+https://login-strimer.vercel.app/Series/Instituto_Voltaire_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="De Volta aos Rafters (2021)" tvg-logo="http://timg.imagecdn.sh/images/5d7a87cac3496a82fb8fbaeebb607fc1.jpg" description="",De Volta aos Rafters (2021)
+https://login-strimer.vercel.app/Series/De_Volta_aos_Rafters_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Aventuras de Jackie Chan (2000)" tvg-logo="http://timg.imagecdn.sh/images/ad4d4e227854721ff0523bbf12dcfb49.jpg" description="",As Aventuras de Jackie Chan (2000)
+https://login-strimer.vercel.app/Series/As_Aventuras_de_Jackie_Chan_2000.m3u
+#EXTINF:-1 type="playlist" tvg-id="KEVIN CAN F**K HIMSELF (2021)" tvg-logo="http://timg.imagecdn.sh/images/05773df700493db0ac3fba2664421570.jpg" description="",KEVIN CAN F**K HIMSELF (2021)
+https://login-strimer.vercel.app/Series/KEVIN_CAN_FK_HIMSELF_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Nove Desconhecidos (2021)" tvg-logo="http://timg.imagecdn.sh/images/56c3dd80e1daff9e0329d32f10efb90b.jpg" description="",Nove Desconhecidos (2021)
+https://login-strimer.vercel.app/Series/Nove_Desconhecidos_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cruel Summer (2021)" tvg-logo="http://timg.imagecdn.sh/images/8a29afe623a0c8050adafb1ee406b595.jpg" description="",Cruel Summer (2021)
+https://login-strimer.vercel.app/Series/Cruel_Summer_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Eureka (2006)" tvg-logo="http://timg.imagecdn.sh/images/030bcab12064f1e6dac8f46245bb2bda.jpg" description="",Eureka (2006)
+https://login-strimer.vercel.app/Series/Eureka_2006.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Ausentes (2021)" tvg-logo="http://timg.imagecdn.sh/images/a034bacde865f8d5c40275251482455a.jpg" description="",Os Ausentes (2021)
+https://login-strimer.vercel.app/Series/Os_Ausentes_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="El Cid (2020)" tvg-logo="http://timg.imagecdn.sh/images/dadff15bfd08bcba6b74acda80f0ea8b.jpg" description="",El Cid (2020)
+https://login-strimer.vercel.app/Series/El_Cid_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Solos" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fcmHjfvk1c32dqwfgEdmoUck4L5.jpg" description="",Solos
+https://login-strimer.vercel.app/Series/Solos.m3u
+#EXTINF:-1 type="playlist" tvg-id="Manhãs de Setembro" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//w4xQLIaBY2kvQoNPd0qb1P0F9hU.jpg" description="",Manhãs de Setembro
+https://login-strimer.vercel.app/Series/Manhas_de_Setembro.m3u
+#EXTINF:-1 type="playlist" tvg-id="Jiraiya: O Incrível Ninja" tvg-logo="http://timg.imagecdn.sh/images/5CByRksNiGCGycnnUb2lBg7xlzS_big.jpg" description="",Jiraiya: O Incrível Ninja
+https://login-strimer.vercel.app/Series/Jiraiya_O_Incrivel_Ninja.m3u
+#EXTINF:-1 type="playlist" tvg-id="Anatomia do Crime" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//mQ0VqAyB1k1KJv3Momo1t5VxOy2.jpg" description="",Anatomia do Crime
+https://login-strimer.vercel.app/Series/Anatomia_do_Crime.m3u
+#EXTINF:-1 type="playlist" tvg-id="Mundo Bita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19xWCmiOlwKKpTXBibmAkaLKT1q.jpg" description="",Mundo Bita
+https://login-strimer.vercel.app/Series/Mundo_Bita.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bosch" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//lQPwNJ6DRpmRfTrKy8A94c7IvU3.jpg" description="",Bosch
+https://login-strimer.vercel.app/Series/Bosch.m3u
+#EXTINF:-1 type="playlist" tvg-id="Tratamento de Choque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrgrySCCFjhB3p9zqnunAmjDxC9.jpg" description="",Tratamento de Choque
+https://login-strimer.vercel.app/Series/Tratamento_de_Choque.m3u
+#EXTINF:-1 type="playlist" tvg-id="Dawson's Creek" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//arT93dBemanftfWTcf9I0JRIlxU.jpg" description="",Dawson's Creek
+https://login-strimer.vercel.app/Series/Dawsons_Creek.m3u
+#EXTINF:-1 type="playlist" tvg-id="Chuteira Preta" tvg-logo="http://timg.imagecdn.sh/images/wo30ISxCwLUF97aWaMrI6ZaH27w_big.jpg" description="",Chuteira Preta
+https://login-strimer.vercel.app/Series/Chuteira_Preta.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Bibliotecários" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//aEAKIqNsdU1cWUmQagPwpS1cvBv.jpg" description="",Os Bibliotecários
+https://login-strimer.vercel.app/Series/Os_Bibliotecarios.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Underground Railroad: Os Caminhos para a Liberdade" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//x0i5uyhmVecgCLbIuas83D7sq2G.jpg" description="",The Underground Railroad: Os Caminhos para a Liberdade
+https://login-strimer.vercel.app/Series/The_Underground_Railroad_Os_Caminhos_para_a_Liberdade.m3u
+#EXTINF:-1 type="playlist" tvg-id="Goliath" tvg-logo="http://fenix7.com:80/images/yiTTeFYdfQqkBLJLbuyZqnXC2kE_big.jpg" description="",Goliath
+https://login-strimer.vercel.app/Series/Goliath.m3u
+#EXTINF:-1 type="playlist" tvg-id="Com Amor, Victor" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8iie5Q0aXy5Ynr2M3iRmozqWfPJ.jpg" description="",Com Amor, Victor
+https://login-strimer.vercel.app/Series/_Victor_tvglogohttpimagetmdborgtpw600andh900bestv28iie5Q0aXy5Ynr2M3iRmozqWfPJjpg_descriptionCom_Amor_Victor.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hannibal" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//pbV2eLnKSIm1epSZt473UYfqaeZ.jpg" description="",Hannibal
+https://login-strimer.vercel.app/Series/Hannibal.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Fantástico Jaspion" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//5mdeUBc5hQX8NrTCerfAUim7XY0.jpg" description="",O Fantástico Jaspion
+https://login-strimer.vercel.app/Series/O_Fantastico_Jaspion.m3u
+#EXTINF:-1 type="playlist" tvg-id="Soulmates" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//jXaJoRmluLXr5RkkEQHNNWO8qY6.jpg" description="",Soulmates
+https://login-strimer.vercel.app/Series/Soulmates.m3u
+#EXTINF:-1 type="playlist" tvg-id="La Jauría" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//iRZX9p0miSsBVV7eBgH0HSjnmE2.jpg" description="",La Jauría
+https://login-strimer.vercel.app/Series/La_Jauria.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Corredor da Morte" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//zsF3iHQbG22nMYdsvHnKyoTtEd9.jpg" description="",O Corredor da Morte
+https://login-strimer.vercel.app/Series/O_Corredor_da_Morte.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzPk9IxCXruC0VS6RVBHJ2i2WRp.jpg" description="",Ana
+https://login-strimer.vercel.app/Series/Ana.m3u
+#EXTINF:-1 type="playlist" tvg-id="Red Oaks" tvg-logo="http://timg.imagecdn.sh/images/jGI54TyocVBOAAfPmq8sytJGxeG_big.jpg" description="",Red Oaks
+https://login-strimer.vercel.app/Series/Red_Oaks.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Cor do Poder" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//jYwTFTd6RTNc53oySS1FARB1iB2.jpg" description="",A Cor do Poder
+https://login-strimer.vercel.app/Series/A_Cor_do_Poder.m3u
+#EXTINF:-1 type="playlist" tvg-id="Biologia Avançada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GwiuZazRFNrmvSkagZlEDH7qSS.jpg" description="",Biologia Avançada
+https://login-strimer.vercel.app/Series/Biologia_Avancada.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Wilds: Vidas Selvagens" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//sWFL1YpgQhfO1hLbBoMXlsXlYSR.jpg" description="",The Wilds: Vidas Selvagens
+https://login-strimer.vercel.app/Series/The_Wilds_Vidas_Selvagens.m3u
+#EXTINF:-1 type="playlist" tvg-id="Seduced: Inside the NXIVM Cult" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//2algVl1riUbFcFBxxy1Ops6FNM7.jpg" description="",Seduced: Inside the NXIVM Cult
+https://login-strimer.vercel.app/Series/Seduced_Inside_the_NXIVM_Cult.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sobe Na Minha Moto" tvg-logo="http://timg.imagecdn.sh/images/9Fsee2p5qiac3GGmQjRUOK8oCp0_big.jpg" description="",Sobe Na Minha Moto
+https://login-strimer.vercel.app/Series/Sobe_Na_Minha_Moto.m3u
+#EXTINF:-1 type="playlist" tvg-id="Stumptown: Investigadora Sem Limite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DXrkbnTdrxyfYcSFi9H2my7HSY.jpg" description="",Stumptown: Investigadora Sem Limite
+https://login-strimer.vercel.app/Series/Stumptown_Investigadora_Sem_Limite.m3u
+#EXTINF:-1 type="playlist" tvg-id="Alex Rider" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hjz6daRXmzAh0iKIpnW5CQd7JcY.jpg" description="",Alex Rider
+https://login-strimer.vercel.app/Series/Alex_Rider.m3u
+#EXTINF:-1 type="playlist" tvg-id="Dignidade" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//frfglATu6M9yr3XRwzKr4tON9Rt.jpg" description="",Dignidade
+https://login-strimer.vercel.app/Series/Dignidade.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bruce Lee: A Lenda" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8iJfbo6gHzGAeSkuVKuqvJmz6DX.jpg" description="",Bruce Lee: A Lenda
+https://login-strimer.vercel.app/Series/Bruce_Lee_A_Lenda.m3u
+#EXTINF:-1 type="playlist" tvg-id="Game dos Clones" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//oWCKA2ty4Z7uMUWacair7kPlC7P.jpg" description="",Game dos Clones
+https://login-strimer.vercel.app/Series/Game_dos_Clones.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Fall" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fm7nN3nUADA7JGgnFNlOWpXn1tf.jpg" description="",The Fall
+https://login-strimer.vercel.app/Series/The_Fall.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Walking Dead: Um Novo Universo" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//iJc0W299BpNyfHVPSVV4goFZ3pq.jpg" description="",The Walking Dead: Um Novo Universo
+https://login-strimer.vercel.app/Series/The_Walking_Dead_Um_Novo_Universo.m3u
+#EXTINF:-1 type="playlist" tvg-id="Me Conte Uma História" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//56aw0q12N8ujbcEdCXaLZMfAYXd.jpg" description="",Me Conte Uma História
+https://login-strimer.vercel.app/Series/Me_Conte_Uma_Historia.m3u
+#EXTINF:-1 type="playlist" tvg-id="Animal Kingdom" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg" description="",Animal Kingdom
+https://login-strimer.vercel.app/Series/Animal_Kingdom.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Very English Scandal" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//xQU99bLRjTegRSGScLDVqpcx5QV.jpg" description="",A Very English Scandal
+https://login-strimer.vercel.app/Series/A_Very_English_Scandal.m3u
+#EXTINF:-1 type="playlist" tvg-id="Godfather of Harlem" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//t2LLLdpsz7RdXNog0nnVFWrMYxB.jpg" description="",Godfather of Harlem
+https://login-strimer.vercel.app/Series/Godfather_of_Harlem.m3u
+#EXTINF:-1 type="playlist" tvg-id="Caçadores de Bugs" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hQMgyyCihjbzgLy7WwtQ3dAvRzm.jpg" description="",Caçadores de Bugs
+https://login-strimer.vercel.app/Series/Cacadores_de_Bugs.m3u
+#EXTINF:-1 type="playlist" tvg-id="Nomade 7" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//z5m7he2YII5OEcTZUyJbkw8AuDG.jpg" description="",Nomade 7
+https://login-strimer.vercel.app/Series/Nomade_7.m3u
+#EXTINF:-1 type="playlist" tvg-id="Jamestown" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//f6iGmDOS6s2QZGKRdWiWf5mLBNu.jpg" description="",Jamestown
+https://login-strimer.vercel.app/Series/Jamestown.m3u
+#EXTINF:-1 type="playlist" tvg-id="Stargate SG-1" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//dQjmI7XxI47v8IM2MUysHG0LuU2.jpg" description="",Stargate SG-1
+https://login-strimer.vercel.app/Series/Stargate_SG1.m3u
+#EXTINF:-1 type="playlist" tvg-id="Pequenos Incendios por Toda Parte" tvg-logo="http://timg.imagecdn.sh/images/aSR8m64Eqxcbyb1G7uWwiwii3WY_big.jpg" description="",Pequenos Incendios por Toda Parte
+https://login-strimer.vercel.app/Series/Pequenos_Incendios_por_Toda_Parte.m3u
+#EXTINF:-1 type="playlist" tvg-id="Jovens Bruxas (1998)" tvg-logo="http://timg.imagecdn.sh/images/z4bPJ1BWU2EtV69NII2GVvsugQ2_big.jpg" description="",Jovens Bruxas (1998)
+https://login-strimer.vercel.app/Series/Jovens_Bruxas_1998.m3u
+#EXTINF:-1 type="playlist" tvg-id="Flack" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg" description="",Flack
+https://login-strimer.vercel.app/Series/Flack.m3u
+#EXTINF:-1 type="playlist" tvg-id="Historia Secreta do Pop Brasileiro" tvg-logo="http://timg.imagecdn.sh/images/h5zl4U5YrTe7qvYW8vHcoiZSBAW_big.jpg" description="",Historia Secreta do Pop Brasileiro
+https://login-strimer.vercel.app/Series/Historia_Secreta_do_Pop_Brasileiro.m3u
+#EXTINF:-1 type="playlist" tvg-id="Upload" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6TPGDrU9MyWbn2TpggJphVAVXiq.jpg" description="",Upload
+https://login-strimer.vercel.app/Series/Upload.m3u
+#EXTINF:-1 type="playlist" tvg-id="Monk: Um Detetive Diferente" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//e3mVFigU7u7jSM9iSv4wI1slZky.jpg" description="",Monk: Um Detetive Diferente
+https://login-strimer.vercel.app/Series/Monk_Um_Detetive_Diferente.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Office" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//4h6b9hxZ0TbgWEpWXl9HpLQXJSi.jpg" description="",The Office
+https://login-strimer.vercel.app/Series/The_Office.m3u
+#EXTINF:-1 type="playlist" tvg-id="Contos do Loop" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//g3IH9ErCLrHB0CL4JyGlM6HElFM.jpg" description="",Contos do Loop
+https://login-strimer.vercel.app/Series/Contos_do_Loop.m3u
+#EXTINF:-1 type="playlist" tvg-id="Soltos (2020)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/zMhE8RUXTonuALOWpJYvpScJscc.jpg" description="",Soltos (2020)
+https://login-strimer.vercel.app/Series/Soltos_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="ZeroZeroZero" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//4A7utcpkOduh2jRMDOYqYj8Nz4T.jpg" description="",ZeroZeroZero
+https://login-strimer.vercel.app/Series/ZeroZeroZero.m3u
+#EXTINF:-1 type="playlist" tvg-id="Barra Bravas" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg" description="",Barra Bravas
+https://login-strimer.vercel.app/Series/Barra_Bravas.m3u
+#EXTINF:-1 type="playlist" tvg-id="Tudo ou Nada: Seleção Brasileira" tvg-logo="http://timg.imagecdn.sh/images/7CFK6UI2emPFDZF3y7bbLgyY7zR_big.jpg" description="",Tudo ou Nada: Seleção Brasileira
+https://login-strimer.vercel.app/Series/Tudo_ou_Nada_Selecao_Brasileira.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Exército Esquecido" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8rAM0HCEsZIDfBobmsZtURZfqfN.jpg" description="",O Exército Esquecido
+https://login-strimer.vercel.app/Series/O_Exercito_Esquecido.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Grand Tour" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//3Pcqu6QliBWJ8vsOVClVLddPnZw.jpg" description="",The Grand Tour
+https://login-strimer.vercel.app/Series/The_Grand_Tour.m3u
+#EXTINF:-1 type="playlist" tvg-id="Fleabag" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//27vEYsRKa3eAniwmoccOoluEXQ1.jpg" description="",Fleabag
+https://login-strimer.vercel.app/Series/Fleabag.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Royals" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//2nexpqqf0CUedCyiVAJQz9QCrp1.jpg" description="",The Royals
+https://login-strimer.vercel.app/Series/The_Royals.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Expanse" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8djpxDeWpINnGhjpFXQjnBe6zbx.jpg" description="",The Expanse
+https://login-strimer.vercel.app/Series/The_Expanse.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sigmund e os Monstros Marinhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WJDImDaTV8Lgn5sgSlRmBdr4yT.jpg" description="",Sigmund e os Monstros Marinhos
+https://login-strimer.vercel.app/Series/Sigmund_e_os_Monstros_Marinhos.m3u
+#EXTINF:-1 type="playlist" tvg-id="Pensamentos Impuros" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//yYNQOlpE4DdM6mD6AJXCruM1z03.jpg" description="",Pensamentos Impuros
+https://login-strimer.vercel.app/Series/Pensamentos_Impuros.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Toque Do Silencio" tvg-logo="http://timg.imagecdn.sh/images/kqBXd6AhtrakCBCv0dLBeXrWCDm_big.jpg" description="",O Toque Do Silencio
+https://login-strimer.vercel.app/Series/O_Toque_Do_Silencio.m3u
+#EXTINF:-1 type="playlist" tvg-id="Amor Moderno" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" description="",Amor Moderno
+https://login-strimer.vercel.app/Series/Amor_Moderno.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Feed" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hf90ASeFeKVwPiRF8jDRPDysHIu.jpg" description="",The Feed
+https://login-strimer.vercel.app/Series/The_Feed.m3u
+#EXTINF:-1 type="playlist" tvg-id="Irmãos Freitas" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//dQbKTlChX8a5XEJlXqrhJarsZuV.jpg" description="",Irmãos Freitas
+https://login-strimer.vercel.app/Series/Irmaos_Freitas.m3u
+#EXTINF:-1 type="playlist" tvg-id="Dani Who?" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//Ro8UFt3a8nm7hJ3fq9hjQgHSMh.jpg" description="",Dani Who?
+https://login-strimer.vercel.app/Series/Dani_Who.m3u
+#EXTINF:-1 type="playlist" tvg-id="Carnival Row" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg" description="",Carnival Row
+https://login-strimer.vercel.app/Series/Carnival_Row.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Homem do Castelo Alto" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//22Ig8twy2ZGxy9KxRKyGMrJcXNu.jpg" description="",O Homem do Castelo Alto
+https://login-strimer.vercel.app/Series/O_Homem_do_Castelo_Alto.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sherlock" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//7WTsnHkbA0FaG6R9twfFde0I9hl.jpg" description="",Sherlock
+https://login-strimer.vercel.app/Series/Sherlock.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Garota da Moto" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//9QQsXr8d67IjUgynt3B7sN9D94S.jpg" description="",A Garota da Moto
+https://login-strimer.vercel.app/Series/A_Garota_da_Moto.m3u
+#EXTINF:-1 type="playlist" tvg-id="Section Zero" tvg-logo="http://timg.imagecdn.sh/images/ceBTU9JqcWDgpsPaS7kQ3oI1CSR_big.jpg" description="",Section Zero
+https://login-strimer.vercel.app/Series/Section_Zero.m3u
+#EXTINF:-1 type="playlist" tvg-id="Homens?" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//7byBsyW1jnPSb9cXqRGlDXTUZyz.jpg" description="",Homens?
+https://login-strimer.vercel.app/Series/Homens.m3u
+#EXTINF:-1 type="playlist" tvg-id="Apollo Reconstruindo A Jornada Espacial" tvg-logo="http://timg.imagecdn.sh/images/xh6UPa6lVTmTA6d3mDyP4cw7qh_big.jpg" description="",Apollo Reconstruindo A Jornada Espacial
+https://login-strimer.vercel.app/Series/Apollo_Reconstruindo_A_Jornada_Espacial.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Boys" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//2zmTngn1tYC1AvfnrFLhxeD82hz.jpg" description="",The Boys
+https://login-strimer.vercel.app/Series/The_Boys.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Crônicas de Shannara" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//mumIOwzoVjMr9aEANbpWyIlYDir.jpg" description="",As Crônicas de Shannara
+https://login-strimer.vercel.app/Series/As_Cronicas_de_Shannara.m3u
+#EXTINF:-1 type="playlist" tvg-id="Instinto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2dB5yR6CfMNsOoR18EULqdCIqQ.jpg" description="",Instinto
+https://login-strimer.vercel.app/Series/Instinto.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sneaky Pete" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//nNpcea9lLHI4iv8QpOIvHveVnT9.jpg" description="",Sneaky Pete
+https://login-strimer.vercel.app/Series/Sneaky_Pete.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Fix" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6NfIhX3XjH7IBvUnctnhxoWnwRF.jpg" description="",The Fix
+https://login-strimer.vercel.app/Series/The_Fix.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hackers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYDfutdJDVQGCnYNdTB36CS0tPg.jpg" description="",Hackers
+https://login-strimer.vercel.app/Series/Hackers.m3u
+#EXTINF:-1 type="playlist" tvg-id="De Férias com o Ex Brasil (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/9aBYWnwd86ejV4ic36z188ZiGu4.jpg" description="",De Férias com o Ex Brasil (2016)
+https://login-strimer.vercel.app/Series/De_Ferias_com_o_Ex_Brasil_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bad Blood" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//ukrAdTtJHHEaDRUJmi4XYwBUpRu.jpg" description="",Bad Blood
+https://login-strimer.vercel.app/Series/Bad_Blood.m3u
+#EXTINF:-1 type="playlist" tvg-id="Belas Maldições (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/thOMZPH5oBQ0bqknc9jGHw7Izbv.jpg" description="",Belas Maldições (2019)
+https://login-strimer.vercel.app/Series/Belas_Maldicoes_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Passage" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//aquYKS9cFzmULgV6mSnS2RPjxdp.jpg" description="",The Passage
+https://login-strimer.vercel.app/Series/The_Passage.m3u
+#EXTINF:-1 type="playlist" tvg-id="Chernobyl (2019)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" description="",Chernobyl (2019)
+https://login-strimer.vercel.app/Series/Chernobyl_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Deuses Americanos (2017)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/jPylofcSv0xhhXIPIlcciFfUOLT.jpg" description="",Deuses Americanos (2017)
+https://login-strimer.vercel.app/Series/Deuses_Americanos_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="1 Contra Todos (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg" description="",1 Contra Todos (2016)
+https://login-strimer.vercel.app/Series/1_Contra_Todos_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Vikings" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bQLrHIRNEkE3PdIWQrZHynQZazu.jpg" description="",Vikings
+https://login-strimer.vercel.app/Series/Vikings.m3u
+#EXTINF:-1 type="playlist" tvg-id="Uma Noite De Crime" tvg-logo="http://timg.imagecdn.sh/images/6cvhDZ5kk2fjDApl9aNaf0AiZlV_big.jpg" description="",Uma Noite De Crime
+https://login-strimer.vercel.app/Series/Uma_Noite_De_Crime.m3u
+#EXTINF:-1 type="playlist" tvg-id="Todo Mundo Odeia o Chris" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg" description="",Todo Mundo Odeia o Chris
+https://login-strimer.vercel.app/Series/Todo_Mundo_Odeia_o_Chris.m3u
+#EXTINF:-1 type="playlist" tvg-id="Diários de um Vampiro (2009)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg" description="",Diários de um Vampiro (2009)
+https://login-strimer.vercel.app/Series/Diarios_de_um_Vampiro_2009.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Originais (2013)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/j4YEHjh1t9mHpdDwbqLCc04xBMY.jpg" description="",Os Originais (2013)
+https://login-strimer.vercel.app/Series/Os_Originais_2013.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Último Navio" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//cG0knRS3OZIhxsQDkYZPYJHhfCP.jpg" description="",O Último Navio
+https://login-strimer.vercel.app/Series/O_Ultimo_Navio.m3u
+#EXTINF:-1 type="playlist" tvg-id="Entre Dois Mundos" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//urPjEqZ5knGr2xBxeSC0o9clE7Z.jpg" description="",Entre Dois Mundos
+https://login-strimer.vercel.app/Series/Entre_Dois_Mundos.m3u
+#EXTINF:-1 type="playlist" tvg-id="Teen Wolf" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//mR92V7XIyJEr78GfIVloBec4KbZ.jpg" description="",Teen Wolf
+https://login-strimer.vercel.app/Series/Teen_Wolf.m3u
+#EXTINF:-1 type="playlist" tvg-id="S.W.A.T.: Força de Intervenção (2017)" tvg-logo="http://timg.imagecdn.sh/images/06d1ceea7d4f6d226f557590023aecd2.jpg" description="",S.W.A.T.: Força de Intervenção (2017)
+https://login-strimer.vercel.app/Series/SWAT_Forca_de_Intervencao_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="Smallville: As Aventuras do Superboy (2001)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" description="",Smallville: As Aventuras do Superboy (2001)
+https://login-strimer.vercel.app/Series/Smallville_As_Aventuras_do_Superboy_2001.m3u
+#EXTINF:-1 type="playlist" tvg-id="Preacher" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//ey1WQajA25E5sFGHSApcqSWUSEc.jpg" description="",Preacher
+https://login-strimer.vercel.app/Series/Preacher.m3u
+#EXTINF:-1 type="playlist" tvg-id="Perdidos no Espaco (2018)" tvg-logo="http://timg.imagecdn.sh/images/90e1fa1ef52b041d60363f90658a7e8c.jpg" description="",Perdidos no Espaco (2018)
+https://login-strimer.vercel.app/Series/Perdidos_no_Espaco_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Mundo Perdido" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//iCpCsyJ1CYLQOp4y52ctrAco9oj.jpg" description="",O Mundo Perdido
+https://login-strimer.vercel.app/Series/O_Mundo_Perdido.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Mentalista (2008)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg" description="",O Mentalista (2008)
+https://login-strimer.vercel.app/Series/O_Mentalista_2008.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Gerente Noturno" tvg-logo="http://timg.imagecdn.sh/images/iUTzJeO6IzieSG7RD2z0CUo3DDw_big.jpg" description="",O Gerente Noturno
+https://login-strimer.vercel.app/Series/O_Gerente_Noturno.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Exorcista" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gcXOCWdv0ulNxEqV6jvZcUdZZRa.jpg" description="",O Exorcista
+https://login-strimer.vercel.app/Series/O_Exorcista.m3u
+#EXTINF:-1 type="playlist" tvg-id="Mr. Robot" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//1uS9tYSYXU5jshLx2WlnOLZrMgD.jpg" description="",Mr. Robot
+https://login-strimer.vercel.app/Series/Mr_Robot.m3u
+#EXTINF:-1 type="playlist" tvg-id="Me Chama de Bruna (2016)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/mFEtIlr97xkYRTNhRXUCgR2PvUa.jpg" description="",Me Chama de Bruna (2016)
+https://login-strimer.vercel.app/Series/Me_Chama_de_Bruna_2016.m3u
+#EXTINF:-1 type="playlist" tvg-id="Jack Ryan de Tom Clancy (2018)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/iBzl9aR9HeOmvvHyZgF72rZjnqN.jpg" description="",Jack Ryan de Tom Clancy (2018)
+https://login-strimer.vercel.app/Series/Jack_Ryan_de_Tom_Clancy_2018.m3u
+#EXTINF:-1 type="playlist" tvg-id="Impuros" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//vgdOEAAtH9hyJ5mZye8uKMaFV0X.jpg" description="",Impuros
+https://login-strimer.vercel.app/Series/Impuros.m3u
+#EXTINF:-1 type="playlist" tvg-id="Grimm" tvg-logo="http://timg.imagecdn.sh/images/5hC8CertBqHbXNPcfm1LZ18VcjD_big.jpg" description="",Grimm
+https://login-strimer.vercel.app/Series/Grimm.m3u
+#EXTINF:-1 type="playlist" tvg-id="Eu Tu E Ela" tvg-logo="http://timg.imagecdn.sh/images/2kGB4jNvaCGq1Ia5ZKIrq5Voycf_big.jpg" description="",Eu Tu E Ela
+https://login-strimer.vercel.app/Series/Eu_Tu_E_Ela.m3u
+#EXTINF:-1 type="playlist" tvg-id="Britannia" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fjdXymXAas9NSehc6GCOHQcEM05.jpg" description="",Britannia
+https://login-strimer.vercel.app/Series/Britannia.m3u
+#EXTINF:-1 type="playlist" tvg-id="American Horror Story" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg" description="",American Horror Story
+https://login-strimer.vercel.app/Series/American_Horror_Story.m3u
+#EXTINF:-1 type="playlist" tvg-id="Absentia" tvg-logo="http://timg.imagecdn.sh/images/uy236cUbjkG0ncSmNeMz2f2OO9Q_big.jpg" description="",Absentia
+https://login-strimer.vercel.app/Series/Absentia.m3u
