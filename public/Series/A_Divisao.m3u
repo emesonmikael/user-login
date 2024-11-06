@@ -1,0 +1,31 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="A Divisão S01 E01" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1159050.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S01 E02" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1159051.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S01 E03" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1159052.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S01 E04" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1159053.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S01 E05" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1159054.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S02 E01" group-title="Temporada 2" description="T2E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1159055.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S02 E02" group-title="Temporada 2" description="T2E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1159056.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S02 E03" group-title="Temporada 2" description="T2E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1159057.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S02 E04" group-title="Temporada 2" description="T2E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1159058.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S02 E05" group-title="Temporada 2" description="T2E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1159060.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S03 E01" group-title="Temporada 3" description="T3E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1159061.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S03 E02" group-title="Temporada 3" description="T3E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1159062.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S03 E03" group-title="Temporada 3" description="T3E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1159063.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S03 E04" group-title="Temporada 3" description="T3E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1159064.mp4
+#EXTINF:-1 type="video" tvg-id="A Divisão S03 E05" group-title="Temporada 3" description="T3E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1159065.mp4
