@@ -1,0 +1,5 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="playlist" tvg-id="Labirinto" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8mErC8JMBomuAO1njvy6YpjFsvB.jpg" description="",Labirinto
+https://login-strimer.vercel.app/Series/Labirinto.m3u
+#EXTINF:-1 type="playlist" tvg-id="As Aventuras do Super-Homem" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//3eKmwXE2A394l3GB9eIOy7kYm25.jpg" description="",As Aventuras do Super-Homem
+https://login-strimer.vercel.app/Series/As_Aventuras_do_SuperHomem.m3u
