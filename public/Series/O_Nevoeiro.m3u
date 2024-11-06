@@ -1,0 +1,21 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E01" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1148429.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E02" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1148430.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E03" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1148431.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E04" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1148432.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E05" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1148433.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E06" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1148434.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E07" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1148435.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E08" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1148437.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E09" group-title="Temporada 1" description="T1E9" tvg-logo="",Episódio 9
+http://cmrt.in/series/978460358/473005646/1148438.mp4
+#EXTINF:-1 type="video" tvg-id="O Nevoeiro S01 E10" group-title="Temporada 1" description="T1E10" tvg-logo="",Episódio 10
+http://cmrt.in/series/978460358/473005646/1148439.mp4
