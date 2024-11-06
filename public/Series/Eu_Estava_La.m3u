@@ -1,23 +1,15 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1341214.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1341215.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1341216.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1341217.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1341218.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1341219.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1341220.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E09" group-title="" description="T1E9" tvg-logo="",Episódio 9
-http://cmrt.in/series/978460358/473005646/1341221.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E10" group-title="" description="T1E10" tvg-logo="",Episódio 10
-http://cmrt.in/series/978460358/473005646/1341222.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E11" group-title="" description="T1E11" tvg-logo="",Episódio 11
-http://cmrt.in/series/978460358/473005646/1341223.mp4
-#EXTINF:-1 type="video" tvg-id="Eu Estava La S01 E12" group-title="" description="T1E12" tvg-logo="",Episódio 12
-http://cmrt.in/series/978460358/473005646/1341224.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Estava Lá - S01E01 - Episódio 1" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1491737.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Estava Lá - S01E02 - Episódio 2" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1491738.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Estava Lá - S01E03 - Episódio 3" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1491739.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Estava Lá - S01E04 - Episódio 4" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1491740.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Estava Lá - S01E05 - Episódio 5" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1491741.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Estava Lá - S01E06 - Episódio 6" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1491742.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Estava Lá - S01E07 - Episódio 7" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1491743.mp4

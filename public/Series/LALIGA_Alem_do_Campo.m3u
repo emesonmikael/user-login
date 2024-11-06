@@ -1,17 +1,17 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="LALIGA Alem do Campo S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1341155.mp4
-#EXTINF:-1 type="video" tvg-id="LALIGA Alem do Campo S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1341156.mp4
-#EXTINF:-1 type="video" tvg-id="LALIGA Alem do Campo S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1341157.mp4
-#EXTINF:-1 type="video" tvg-id="LALIGA Alem do Campo S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1341158.mp4
-#EXTINF:-1 type="video" tvg-id="LALIGA Alem do Campo S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1341159.mp4
-#EXTINF:-1 type="video" tvg-id="LALIGA Alem do Campo S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1341160.mp4
-#EXTINF:-1 type="video" tvg-id="LALIGA Alem do Campo S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1341161.mp4
-#EXTINF:-1 type="video" tvg-id="LALIGA Alem do Campo S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1341162.mp4
+#EXTINF:-1 type="video" tvg-id="LALIGA: Além do Campo - S01E01 - Ataque aos poderosos" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1492106.mp4
+#EXTINF:-1 type="video" tvg-id="LALIGA: Além do Campo - S01E02 - O primeiro clássico" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1492107.mp4
+#EXTINF:-1 type="video" tvg-id="LALIGA: Além do Campo - S01E03 - O rei do norte" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1492108.mp4
+#EXTINF:-1 type="video" tvg-id="LALIGA: Além do Campo - S01E04 - O convidado surpresa" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1492109.mp4
+#EXTINF:-1 type="video" tvg-id="LALIGA: Além do Campo - S01E05 - A luta dos centenários" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1492110.mp4
+#EXTINF:-1 type="video" tvg-id="LALIGA: Além do Campo - S01E06 - Formas de competir" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1492111.mp4
+#EXTINF:-1 type="video" tvg-id="LALIGA: Além do Campo - S01E07 - Nunca desistir" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1492112.mp4
+#EXTINF:-1 type="video" tvg-id="LALIGA: Além do Campo - S01E08 - O desfecho" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1492113.mp4
