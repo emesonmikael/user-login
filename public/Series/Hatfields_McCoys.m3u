@@ -1,0 +1,7 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Hatfields & McCoys S01 E01" group-title="1ª Temporada" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1192293.mp4
+#EXTINF:-1 type="video" tvg-id="Hatfields & McCoys S01 E02" group-title="1ª Temporada" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1192294.mp4
+#EXTINF:-1 type="video" tvg-id="Hatfields & McCoys S01 E03" group-title="1ª Temporada" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1192295.mp4
