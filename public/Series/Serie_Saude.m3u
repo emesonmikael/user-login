@@ -1,0 +1,19 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E01 - Câncer de Mama" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1488389.mp4
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E02 - Leucemia Infantil" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1488390.mp4
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E03 - Déficit de Atenção" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1488391.mp4
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E04 - Endometriose" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1488392.mp4
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E05 - Enxaqueca" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1488393.mp4
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E06 - Câncer de Pele" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1488394.mp4
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E07 - Ansiedade e Depressão" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1488395.mp4
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E08 - Artrite Reumatoide" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1488396.mp4
+#EXTINF:-1 type="video" tvg-id="Série Saúde - S01E09 - Alzheimer" group-title="Temporada 1" description="T1E9" tvg-logo="",Episódio 9
+http://cmrt.in/series/978460358/473005646/1488397.mp4
