@@ -1,0 +1,29 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="playlist" tvg-id="Candice Renoir" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//1andtN7XdVmu25HqNQE1JpwLNYy.jpg" description="",Candice Renoir
+https://login-strimer.vercel.app/Series/Candice_Renoir.m3u
+#EXTINF:-1 type="playlist" tvg-id="Desaparecidos" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8DsmgYb4BaVkzCDybVuUbqCc21h.jpg" description="",Desaparecidos
+https://login-strimer.vercel.app/Series/Desaparecidos.m3u
+#EXTINF:-1 type="playlist" tvg-id="Without Sin: Sem Pecado (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/5USXoPoKWu6LxIdCOIlJoxWvyqC.jpg" description="",Without Sin: Sem Pecado (2022)
+https://login-strimer.vercel.app/Series/Without_Sin_Sem_Pecado_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Last Light (2022)" tvg-logo="http://timg.imagecdn.sh/t/p/w600_and_h900_bestv2/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg" description="",Last Light (2022)
+https://login-strimer.vercel.app/Series/Last_Light_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Trama (2022)" tvg-logo="http://timg.imagecdn.sh/images/f619ede51a6dc237f2c5015c12b13301.jpg" description="",A Trama (2022)
+https://login-strimer.vercel.app/Series/A_Trama_2022.m3u
+#EXTINF:-1 type="playlist" tvg-id="Amazing Grace (2021)" tvg-logo="http://timg.imagecdn.sh/images/cacc2d85ae9a0f50d36cd0c14cc25128.jpg" description="",Amazing Grace (2021)
+https://login-strimer.vercel.app/Series/Amazing_Grace_2021.m3u
+#EXTINF:-1 type="playlist" tvg-id="Cardinal (2017)" tvg-logo="http://timg.imagecdn.sh/images/d7a7ac1cfd5cba67b734b7a770a3efcc.jpg" description="",Cardinal (2017)
+https://login-strimer.vercel.app/Series/Cardinal_2017.m3u
+#EXTINF:-1 type="playlist" tvg-id="Upright (2019)" tvg-logo="http://timg.imagecdn.sh/images/40a860e03c1e2979c7ed0b6bb27453a1.jpg" description="",Upright (2019)
+https://login-strimer.vercel.app/Series/Upright_2019.m3u
+#EXTINF:-1 type="playlist" tvg-id="Deputy: O Novo Xerife (2020)" tvg-logo="http://timg.imagecdn.sh/images/5a2e14482cdcd495271ff7934dd4a8a1.jpg" description="",Deputy: O Novo Xerife (2020)
+https://login-strimer.vercel.app/Series/Deputy_O_Novo_Xerife_2020.m3u
+#EXTINF:-1 type="playlist" tvg-id="Mães A(r)madas" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//x1cJebc4IIYJuaJwtIeXUhZSZTS.jpg" description="",Mães A(r)madas
+https://login-strimer.vercel.app/Series/Maes_Armadas.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Hour" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/null" description="",The Hour
+https://login-strimer.vercel.app/Series/The_Hour.m3u
+#EXTINF:-1 type="playlist" tvg-id="Casual" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg" description="",Casual
+https://login-strimer.vercel.app/Series/Casual.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bancroft [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg" description="",Bancroft [L]
+https://login-strimer.vercel.app/Series/Bancroft_L.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hatfields & McCoys" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//jeu57tLFpYTuRttIusgdcAUf2Iq.jpg" description="",Hatfields & McCoys
+https://login-strimer.vercel.app/Series/Hatfields_McCoys.m3u
