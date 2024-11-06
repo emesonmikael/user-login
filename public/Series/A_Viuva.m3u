@@ -1,0 +1,17 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="A Viúva - S01E01 - Senhor Tequila" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1505940.mp4
+#EXTINF:-1 type="video" tvg-id="A Viúva - S01E02 - Leão Verde" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1505941.mp4
+#EXTINF:-1 type="video" tvg-id="A Viúva - S01E03 - Os Sobreviventes" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1505942.mp4
+#EXTINF:-1 type="video" tvg-id="A Viúva - S01E04 - Violet" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1505943.mp4
+#EXTINF:-1 type="video" tvg-id="A Viúva - S01E05 - Poteza" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1505944.mp4
+#EXTINF:-1 type="video" tvg-id="A Viúva - S01E06 - A Aranha e a Teia" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1505945.mp4
+#EXTINF:-1 type="video" tvg-id="A Viúva - S01E07 - Will" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1505946.mp4
+#EXTINF:-1 type="video" tvg-id="A Viúva - S01E08 - Nigel" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1505947.mp4

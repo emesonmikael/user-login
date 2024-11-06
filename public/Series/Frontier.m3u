@@ -1,0 +1,37 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Fronteira.S01.E01" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1512495.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S01.E02" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1512496.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S01.E03" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1512497.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S01.E04" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1512498.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S01.E05" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1512499.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S01.E06" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1512500.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S02.E01" group-title="" description="T2E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1512501.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S02.E02" group-title="" description="T2E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1512502.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S02.E03" group-title="" description="T2E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1512503.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S02.E04" group-title="" description="T2E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1512504.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S02.E05" group-title="" description="T2E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1512505.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S02.E06" group-title="" description="T2E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1512506.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S03.E01" group-title="" description="T3E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1512507.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S03.E02" group-title="" description="T3E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1512508.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S03.E03" group-title="" description="T3E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1512509.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S03.E04" group-title="" description="T3E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1512510.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S03.E05" group-title="" description="T3E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1512511.mp4
+#EXTINF:-1 type="video" tvg-id="Fronteira.S03.E06" group-title="" description="T3E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1512512.mp4
