@@ -1,17 +1,17 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="Proximo S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1335645.mp4
-#EXTINF:-1 type="video" tvg-id="Proximo S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1335646.mp4
-#EXTINF:-1 type="video" tvg-id="Proximo S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1335647.mp4
-#EXTINF:-1 type="video" tvg-id="Proximo S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1335648.mp4
-#EXTINF:-1 type="video" tvg-id="Proximo S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1335649.mp4
-#EXTINF:-1 type="video" tvg-id="Proximo S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1335650.mp4
-#EXTINF:-1 type="video" tvg-id="Proximo S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1335651.mp4
-#EXTINF:-1 type="video" tvg-id="Proximo S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1335652.mp4
+#EXTINF:-1 type="video" tvg-id="Próximo! - S01E01 - #Complicado" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1466108.mp4
+#EXTINF:-1 type="video" tvg-id="Próximo! - S01E02 - #Bombardeio de amor" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1466109.mp4
+#EXTINF:-1 type="video" tvg-id="Próximo! - S01E03 - #Ghosting" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1466110.mp4
+#EXTINF:-1 type="video" tvg-id="Próximo! - S01E04 - #Dois passos à frente, um passo atrás" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1466111.mp4
+#EXTINF:-1 type="video" tvg-id="Próximo! - S01E05 - #No banco de reservas" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1466112.mp4
+#EXTINF:-1 type="video" tvg-id="Próximo! - S01E06 - #Buscando respostas" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1466113.mp4
+#EXTINF:-1 type="video" tvg-id="Próximo! - S01E07 - #Verdade ou desafio" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1466114.mp4
+#EXTINF:-1 type="video" tvg-id="Próximo! - S01E08 - #Casamento" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1466115.mp4

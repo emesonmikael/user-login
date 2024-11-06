@@ -1,21 +1,21 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1344637.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1344638.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1344639.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1344640.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1344641.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1344642.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1344643.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1344644.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E09" group-title="" description="T1E9" tvg-logo="",Episódio 9
-http://cmrt.in/series/978460358/473005646/1344645.mp4
-#EXTINF:-1 type="video" tvg-id="O Pais de Tanabata S01 E10" group-title="" description="T1E10" tvg-logo="",Episódio 10
-http://cmrt.in/series/978460358/473005646/1344646.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E01 - O Telecinético" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1505207.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E02 - Vila Murakami" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1505208.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E03 - Dentro do Alcance" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1505209.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E04 - Seminário de Desenvolvimento de Novas Habilidades" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1505210.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E05 - O Gouger" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1505211.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E06 - Fundamentalmente Secreto" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1505212.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E07 - Marchando Para a Frente" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1505213.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E08 - Poder de Fora" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1505214.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E09 - Um Presente de Kasasagi" group-title="Temporada 1" description="T1E9" tvg-logo="",Episódio 9
+http://cmrt.in/series/978460358/473005646/1505215.mp4
+#EXTINF:-1 type="video" tvg-id="O País de Tanabata - S01E10 - O Festival" group-title="Temporada 1" description="T1E10" tvg-logo="",Episódio 10
+http://cmrt.in/series/978460358/473005646/1505216.mp4

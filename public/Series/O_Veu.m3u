@@ -1,13 +1,13 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="O Veu S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1336526.mp4
-#EXTINF:-1 type="video" tvg-id="O Veu S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1336527.mp4
-#EXTINF:-1 type="video" tvg-id="O Veu S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1336528.mp4
-#EXTINF:-1 type="video" tvg-id="O Veu S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1336529.mp4
-#EXTINF:-1 type="video" tvg-id="O Veu S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1336530.mp4
-#EXTINF:-1 type="video" tvg-id="O Veu S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1336531.mp4
+#EXTINF:-1 type="video" tvg-id="O Véu - S01E01 - O Campo" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1490191.mp4
+#EXTINF:-1 type="video" tvg-id="O Véu - S01E02 - Atravessando a Ponte" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1490192.mp4
+#EXTINF:-1 type="video" tvg-id="O Véu - S01E03 - O Ativo" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1490193.mp4
+#EXTINF:-1 type="video" tvg-id="O Véu - S01E04 - Desclassificado" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1490194.mp4
+#EXTINF:-1 type="video" tvg-id="O Véu - S01E05 - Casa do Avô" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1490195.mp4
+#EXTINF:-1 type="video" tvg-id="O Véu - S01E06 - A Cabana" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1490196.mp4
