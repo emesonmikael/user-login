@@ -1,33 +1,17 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="Kubra (2024) S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1324328.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra (2024) S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1324329.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra (2024) S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1324330.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra (2024) S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1324331.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra (2024) S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1324332.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra (2024) S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1324333.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra (2024) S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1324334.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra (2024) S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1324335.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra S02 E01" group-title="" description="T2E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1324336.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra S02 E02" group-title="" description="T2E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1324337.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra S02 E03" group-title="" description="T2E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1324338.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra S02 E04" group-title="" description="T2E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1324339.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra S02 E05" group-title="" description="T2E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1324340.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra S02 E06" group-title="" description="T2E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1324341.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra S02 E07" group-title="" description="T2E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1324342.mp4
-#EXTINF:-1 type="video" tvg-id="Kubra S02 E08" group-title="" description="T2E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1324343.mp4
+#EXTINF:-1 type="video" tvg-id="Kübra - S01E01 - Episódio 1" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1441750.mp4
+#EXTINF:-1 type="video" tvg-id="Kübra - S01E02 - Episódio 2" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1441751.mp4
+#EXTINF:-1 type="video" tvg-id="Kübra - S01E03 - Episódio 3" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1441752.mp4
+#EXTINF:-1 type="video" tvg-id="Kübra - S01E04 - Episódio 4" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1441753.mp4
+#EXTINF:-1 type="video" tvg-id="Kübra - S01E05 - Episódio 5" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1441754.mp4
+#EXTINF:-1 type="video" tvg-id="Kübra - S01E06 - Episódio 6" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1441755.mp4
+#EXTINF:-1 type="video" tvg-id="Kübra - S01E07 - Episódio 7" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1441756.mp4
+#EXTINF:-1 type="video" tvg-id="Kübra - S01E08 - Episódio 8" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1441757.mp4

@@ -1,21 +1,21 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1343976.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1343977.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1343978.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1343979.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1343980.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1343981.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1343982.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1343983.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E09" group-title="" description="T1E9" tvg-logo="",Episódio 9
-http://cmrt.in/series/978460358/473005646/1343984.mp4
-#EXTINF:-1 type="video" tvg-id="Batman Cruzado Encapuzado S01 E10" group-title="" description="T1E10" tvg-logo="",Episódio 10
-http://cmrt.in/series/978460358/473005646/1343985.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E01 - Em Águas Traiçoeiras" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1502031.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E02 - Vilão Velado" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1502032.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E03 - O Beijo da Mulher-Gato" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1502033.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E04 - Noite dos Caçadores" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1502034.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E05 - Olhar Penetrante" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1502035.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E06 - Passeio Noturno" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1502036.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E07 - Alvo em Movimento" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1502037.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E08 - Noturno" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1502038.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E09 - O Assassino que Existe em Mim" group-title="Temporada 1" description="T1E9" tvg-logo="",Episódio 9
+http://cmrt.in/series/978460358/473005646/1502039.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: Cruzado Encapuzado - S01E10 - Noite Selvagem" group-title="Temporada 1" description="T1E10" tvg-logo="",Episódio 10
+http://cmrt.in/series/978460358/473005646/1502040.mp4

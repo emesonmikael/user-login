@@ -1,21 +1,21 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E01" group-title="" description="T1E1" tvg-logo="",Episódio 1
-http://cmrt.in/series/978460358/473005646/1337147.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E02" group-title="" description="T1E2" tvg-logo="",Episódio 2
-http://cmrt.in/series/978460358/473005646/1337148.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E03" group-title="" description="T1E3" tvg-logo="",Episódio 3
-http://cmrt.in/series/978460358/473005646/1337149.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E04" group-title="" description="T1E4" tvg-logo="",Episódio 4
-http://cmrt.in/series/978460358/473005646/1337150.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E05" group-title="" description="T1E5" tvg-logo="",Episódio 5
-http://cmrt.in/series/978460358/473005646/1337151.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E06" group-title="" description="T1E6" tvg-logo="",Episódio 6
-http://cmrt.in/series/978460358/473005646/1337152.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E07" group-title="" description="T1E7" tvg-logo="",Episódio 7
-http://cmrt.in/series/978460358/473005646/1337153.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E08" group-title="" description="T1E8" tvg-logo="",Episódio 8
-http://cmrt.in/series/978460358/473005646/1337154.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E09" group-title="" description="T1E9" tvg-logo="",Episódio 9
-http://cmrt.in/series/978460358/473005646/1337155.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World Teoria do Caos S01 E10" group-title="" description="T1E10" tvg-logo="",Episódio 10
-http://cmrt.in/series/978460358/473005646/1337156.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E01 - Onda de choque" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1472647.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E02 - Parada para descanso" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1472648.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E03 - Chegando no rancho" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1472649.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E04 - Irmãos" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1472650.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E05 - Casa de transição" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1472651.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E06 - Queda livre" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1472652.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E07 - Aquela noite" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1472653.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E08 - A entrega" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1472654.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E09 - Entrando na neblina" group-title="Temporada 1" description="T1E9" tvg-logo="",Episódio 9
+http://cmrt.in/series/978460358/473005646/1472655.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Teoria do Caos - S01E10 - O fim do começo" group-title="Temporada 1" description="T1E10" tvg-logo="",Episódio 10
+http://cmrt.in/series/978460358/473005646/1472656.mp4
