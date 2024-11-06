@@ -1,0 +1,15 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="playlist" tvg-id="Ouro Verde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hJN6OVo8FL0C9mXl3DJ3uM96Sj.jpg" description="",Ouro Verde
+https://login-strimer.vercel.app/Series/Ouro_Verde.m3u
+#EXTINF:-1 type="playlist" tvg-id="Uma Rosa com Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8rmuIIUGpw5hMOkPQDEU9ibH9B.jpg" description="",Uma Rosa com Amor
+https://login-strimer.vercel.app/Series/Uma_Rosa_com_Amor.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bicho do Mato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8nB7snLf5BWU62lGcBzZWmpUFR.jpg" description="",Bicho do Mato
+https://login-strimer.vercel.app/Series/Bicho_do_Mato.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Tudors" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//oiRSRTJX5aFrYue4psaDMggdsNK.jpg" description="",The Tudors
+https://login-strimer.vercel.app/Series/The_Tudors.m3u
+#EXTINF:-1 type="playlist" tvg-id="Amor com Amor Se Paga" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//lokEru6ygSHUkSXv1N015HGL71i.jpg" description="",Amor com Amor Se Paga
+https://login-strimer.vercel.app/Series/Amor_com_Amor_Se_Paga.m3u
+#EXTINF:-1 type="playlist" tvg-id="CHERRY MAGIC! THIRTY YEARS OF VIRGINITY CAN MAKE YOU A WIZARD?!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//1rv6Lw43ARlUaHXyCQASkcM43Uk.jpg" description="",CHERRY MAGIC! THIRTY YEARS OF VIRGINITY CAN MAKE YOU A WIZARD?!
+https://login-strimer.vercel.app/Series/CHERRY_MAGIC_THIRTY_YEARS_OF_VIRGINITY_CAN_MAKE_YOU_A_WIZARD.m3u
+#EXTINF:-1 type="playlist" tvg-id="Branding in Seongsu" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6WP9b2HOWpKwPUlJcZWYNxAyueh.jpg" description="",Branding in Seongsu
+https://login-strimer.vercel.app/Series/Branding_in_Seongsu.m3u
