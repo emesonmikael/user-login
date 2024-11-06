@@ -1,0 +1,9 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Voltando a ler Mafalda - S01E01 - Qual é o Nome da Menina?" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1462513.mp4
+#EXTINF:-1 type="video" tvg-id="Voltando a ler Mafalda - S01E02 - Os Amigos" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1462514.mp4
+#EXTINF:-1 type="video" tvg-id="Voltando a ler Mafalda - S01E03 - Universo Mafalda" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1462515.mp4
+#EXTINF:-1 type="video" tvg-id="Voltando a ler Mafalda - S01E04 - Eterna Mafalda" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1462516.mp4

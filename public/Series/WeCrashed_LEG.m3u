@@ -1,0 +1,17 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Eis onde começa" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1509118.mp4
+#EXTINF:-1 type="video" tvg-id="Masha, Masha, Masha" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1509119.mp4
+#EXTINF:-1 type="video" tvg-id="Acampamento de verão" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1509120.mp4
+#EXTINF:-1 type="video" tvg-id="4.4" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1509121.mp4
+#EXTINF:-1 type="video" tvg-id="Esforça-te mais" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1509122.mp4
+#EXTINF:-1 type="video" tvg-id="Coragem" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1509123.mp4
+#EXTINF:-1 type="video" tvg-id="O poder do "nós"" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1509124.mp4
+#EXTINF:-1 type="video" tvg-id="O que tem todo o dinheiro" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1509125.mp4

@@ -1,0 +1,17 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Tokyo Vice - S01E01 - O Teste" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1446451.mp4
+#EXTINF:-1 type="video" tvg-id="Tokyo Vice - S01E02 - Kishi Kaisei" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1446452.mp4
+#EXTINF:-1 type="video" tvg-id="Tokyo Vice - S01E03 - Leia O Ambiente" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1446453.mp4
+#EXTINF:-1 type="video" tvg-id="Tokyo Vice - S01E04 - Eu Quero Desse Jeito" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1446454.mp4
+#EXTINF:-1 type="video" tvg-id="Tokyo Vice - S01E05 - Todo Mundo Paga" group-title="Temporada 1" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/1446455.mp4
+#EXTINF:-1 type="video" tvg-id="Tokyo Vice - S01E06 - O Negócio da Informação" group-title="Temporada 1" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/1446456.mp4
+#EXTINF:-1 type="video" tvg-id="Tokyo Vice - S01E07 - Às Vezes Eles Desaparecem" group-title="Temporada 1" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/1446457.mp4
+#EXTINF:-1 type="video" tvg-id="Tokyo Vice - S01E08 - Yoshino" group-title="Temporada 1" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/1446458.mp4
