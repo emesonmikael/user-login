@@ -1,0 +1,9 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Segredos de Guerra S01 E01" group-title="Temporada 1" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/1344171.mp4
+#EXTINF:-1 type="video" tvg-id="Segredos de Guerra S01 E02" group-title="Temporada 1" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/1344172.mp4
+#EXTINF:-1 type="video" tvg-id="Segredos de Guerra S01 E03" group-title="Temporada 1" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/1344173.mp4
+#EXTINF:-1 type="video" tvg-id="Segredos de Guerra S01 E04" group-title="Temporada 1" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/1344174.mp4
