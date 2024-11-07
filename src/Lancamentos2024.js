@@ -42,7 +42,7 @@ const M3UPlayerLancamentos2024 = () => {
   useEffect(() => {
     const loadM3UFile = async () => {
       try {
-        const response = await fetch('/lançamentos2024.m3u'); // Substitua 'playlist.m3u' pelo nome do seu arquivo
+        const response = await fetch('https://login-strimer.vercel.app/Filmes/Filmes_Lancamentos_2024.m3u'); // Substitua 'playlist.m3u' pelo nome do seu arquivo
         const content = await response.text();
         processM3U(content);
       } catch (error) {

@@ -37,7 +37,7 @@ const M3UPlayerMarvel = () => {
   useEffect(() => {
     const loadM3UFile = async () => {
       try {
-        const response = await fetch('/Marvel.m3u'); // Substitua 'playlist.m3u' pelo nome do seu arquivo
+        const response = await fetch('https://login-strimer.vercel.app/Filmes/Filmes_Marvel.m3u'); // Substitua 'playlist.m3u' pelo nome do seu arquivo
         const content = await response.text();
         processM3U(content);
       } catch (error) {
