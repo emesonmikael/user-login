@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="" tvg-name="globo teste" tvg-logo="http://the-img.xyz/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="Canais || Filmes & Séries",globoteste
-https://encurtador.com.br/NtXf3
+http://srvdns.vc:80/180192055/635063850/4779711.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD " tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD
 https://proxy-heroku.onrender.com/proxy/819781819/737257284/219419.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H.265" tvg-logo="https://i.ibb.co/DzvKbBK/AEdw-DAdbs.png" group-title="Canais || Filmes & Séries",A&E FHD H.265
