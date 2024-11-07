@@ -8,7 +8,7 @@ function Filmes() {
   
     useEffect(() => {
       // Carrega e processa o arquivo .m3u
-      fetch('/listafilmes.m3u') // Certifique-se de que o arquivo .m3u está na pasta public
+      fetch('/listaFilmes.m3u') // Certifique-se de que o arquivo .m3u está na pasta public
         .then(response => response.text())
         .then(data => {
           const lines = data.split('\n');
