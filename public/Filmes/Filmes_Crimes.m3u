@@ -1,15 +1,43 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="Um Homem Misterioso (2010)" tvg-logo="https://image.tmdb.org/t/p/w780/hPdrnldwY8Ds7ToYz259zQONBzI.jpg" description="",Um Homem Misterioso (2010)
-http://cmrt.in/movie/978460358/473005646/1296934.mp4
-#EXTINF:-1 type="video" tvg-id="Perigo por Encomenda (2012)" tvg-logo="https://image.tmdb.org/t/p/w780/4KkgllUS2b1CWQygaOTsbPt0IGK.jpg" description="",Perigo por Encomenda (2012)
-http://cmrt.in/movie/978460358/473005646/1297201.mp4
-#EXTINF:-1 type="video" tvg-id="Beijos Que Matam (1997)" tvg-logo="https://image.tmdb.org/t/p/w780/f9sNoZ1boYqIrIgHKblBPnus9ez.jpg" description="",Beijos Que Matam (1997)
-http://cmrt.in/movie/978460358/473005646/1297137.mp4
-#EXTINF:-1 type="video" tvg-id="Boneco de Neve (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/rsOTt7AP0N1agV9fFIvWpwO64dz.jpg" description="",Boneco de Neve (2017)
-http://cmrt.in/movie/978460358/473005646/1296695.mp4
-#EXTINF:-1 type="video" tvg-id="Um Álibi Perfeito (2014)" tvg-logo="https://image.tmdb.org/t/p/w780/xz2GPDlXuVfH8FgL81dqSSsSF0Q.jpg" description="",Um Álibi Perfeito (2014)
-http://cmrt.in/movie/978460358/473005646/1296546.mp4
-#EXTINF:-1 type="video" tvg-id="A Sacada (1975)" tvg-logo="https://image.tmdb.org/t/p/w780/cmRaUjRwtT0vDFVUVHX6AuJJzqc.jpg" description="",A Sacada (1975)
-http://cmrt.in/movie/978460358/473005646/1296534.mp4
-#EXTINF:-1 type="video" tvg-id="Nada Santo (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/eAPBxSKZFdPVqDmHeIMcX39mokL.jpg" description="",Nada Santo (2019)
-http://cmrt.in/movie/978460358/473005646/1296487.mp4
+#EXTINF:-1 type="video" tvg-id="A Estranha Perfeita" tvg-logo="http://fenix7.com:80/images/pC7s1Ya9GKR4udtGZNmxRNU0aYk_big.jpg" description="",A Estranha Perfeita
+http://2.pipa.run/movie/180192055/635063850/6306334.mp4
+#EXTINF:-1 type="video" tvg-id="Calor Mortifero" tvg-logo="http://fenix7.com:80/images/769Lq94nYgz5bVtpnBi3pcmIssW_big.jpg" description="",Calor Mortifero
+http://2.pipa.run/movie/180192055/635063850/6306383.mp4
+#EXTINF:-1 type="video" tvg-id="O Gangster o Policia e o Diabo" tvg-logo="http://fenix7.com:80/images/nLNKX18xxW6RpkARYrmxDZvuB8r_big.jpg" description="",O Gangster o Policia e o Diabo
+http://2.pipa.run/movie/180192055/635063850/6306404.mp4
+#EXTINF:-1 type="video" tvg-id="Lua de Sangue" tvg-logo="http://fenix7.com:80/images/rOTKUckzQkBMeEBDh1YheUHHxdF_big.jpg" description="",Lua de Sangue
+http://2.pipa.run/movie/180192055/635063850/6306459.mp4
+#EXTINF:-1 type="video" tvg-id="Volkov Origin" tvg-logo="http://fenix7.com:80/images/xuSAGEIWT9Bp4HGuAqhjcoQW1zl_big.jpg" description="",Volkov Origin
+http://2.pipa.run/movie/180192055/635063850/6306464.mp4
+#EXTINF:-1 type="video" tvg-id="Setor 36" tvg-logo="http://fenix7.com:80/images/PHGnl1VfJxD1E6k53lBJ3foG34_big.jpg" description="",Setor 36
+http://2.pipa.run/movie/180192055/635063850/6306497.mp4
+#EXTINF:-1 type="video" tvg-id="Madoff: Teia de Mentiras" tvg-logo="http://fenix7.com:80/images/yMBt2IsCoPfOheOTbQH9UtRdXlg_big.jpg" description="",Madoff: Teia de Mentiras
+http://2.pipa.run/movie/180192055/635063850/6306542.mp4
+#EXTINF:-1 type="video" tvg-id="A Lista de Schindler" tvg-logo="http://fenix7.com:80/images/bGhhNzJYDsuLruNN5bJ2PvLcMiq_big.jpg" description="",A Lista de Schindler
+http://2.pipa.run/movie/180192055/635063850/6306552.mp4
+#EXTINF:-1 type="video" tvg-id="Na Trilha da Justiça" tvg-logo="http://fenix7.com:80/images/4N1S5uvHEYHuPTbgxG3RIwzXkYu_big.jpg" description="",Na Trilha da Justiça
+http://2.pipa.run/movie/180192055/635063850/6306603.mp4
+#EXTINF:-1 type="video" tvg-id="O Poder E A Lei" tvg-logo="http://fenix7.com:80/images/px1g2pWawGgemW7zHwR0hfpyp51_big.jpg" description="",O Poder E A Lei
+http://2.pipa.run/movie/180192055/635063850/6306704.mp4
+#EXTINF:-1 type="video" tvg-id="Nada Santo" tvg-logo="" description="",Nada Santo
+http://2.pipa.run/movie/180192055/635063850/6309766.mp4
+#EXTINF:-1 type="video" tvg-id="No Fim Do Túnel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L4W5K5eDuXHizVPNWpqK7TONlz.jpg" description="",No Fim Do Túnel
+http://2.pipa.run/movie/180192055/635063850/6309772.mp4
+#EXTINF:-1 type="video" tvg-id="A Sacada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmRaUjRwtT0vDFVUVHX6AuJJzqc.jpg" description="",A Sacada
+http://2.pipa.run/movie/180192055/635063850/6309830.mp4
+#EXTINF:-1 type="video" tvg-id="Um Álibi Perfeito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz2GPDlXuVfH8FgL81dqSSsSF0Q.jpg" description="",Um Álibi Perfeito
+http://2.pipa.run/movie/180192055/635063850/6309842.mp4
+#EXTINF:-1 type="video" tvg-id="Morte às Seis Da Tarde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3VDEpSWjVv3Z02BKgpKSOmvQ9r.jpg" description="",Morte às Seis Da Tarde
+http://2.pipa.run/movie/180192055/635063850/6309933.mp4
+#EXTINF:-1 type="video" tvg-id="O Caso Collini" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq75Nl93yOtBdMuqVu8D4xOST9f.jpg" description="",O Caso Collini
+http://2.pipa.run/movie/180192055/635063850/6309991.mp4
+#EXTINF:-1 type="video" tvg-id="Boneco De Neve" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsOTt7AP0N1agV9fFIvWpwO64dz.jpg" description="",Boneco De Neve
+http://2.pipa.run/movie/180192055/635063850/6310034.mp4
+#EXTINF:-1 type="video" tvg-id="Um Homem Misterioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPdrnldwY8Ds7ToYz259zQONBzI.jpg" description="",Um Homem Misterioso
+http://2.pipa.run/movie/180192055/635063850/6310368.mp4
+#EXTINF:-1 type="video" tvg-id="Na Teia Da Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvZIQb8IXp2n6IGgSfBk2zfB4S5.jpg" description="",Na Teia Da Aranha
+http://2.pipa.run/movie/180192055/635063850/6310587.mp4
+#EXTINF:-1 type="video" tvg-id="Perigo Por Encomenda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KkgllUS2b1CWQygaOTsbPt0IGK.jpg" description="",Perigo Por Encomenda
+http://2.pipa.run/movie/180192055/635063850/6310629.mp4
+#EXTINF:-1 type="video" tvg-id="Beijos Que Matam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9sNoZ1boYqIrIgHKblBPnus9ez.jpg" description="",Beijos Que Matam
+http://2.pipa.run/movie/180192055/635063850/6310588.mp4

@@ -1,11 +1,155 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="video" tvg-id="Bad Boys Para Sempre (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/lkWYrzLIclGj56r4NJxuWeisK9R.jpg" description="",Bad Boys Para Sempre (2020)
-http://cmrt.in/movie/978460358/473005646/1295981.mp4
-#EXTINF:-1 type="video" tvg-id="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="https://image.tmdb.org/t/p/w780/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg" description="",Batman: O Cavaleiro das Trevas (2008)
-http://cmrt.in/movie/978460358/473005646/1295976.mp4
-#EXTINF:-1 type="video" tvg-id="O Jogo da Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/msG9dC93C9c7otCsdNA06SpYj51.jpg" description="",O Jogo da Vida (2022)
-http://cmrt.in/movie/978460358/473005646/1295980.mp4
-#EXTINF:-1 type="video" tvg-id="Liga da Justiça (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/geyu6rplpbp7OUeOfB2uRVf1LpG.jpg" description="",Liga da Justiça (2017)
-http://cmrt.in/movie/978460358/473005646/1295979.mp4
-#EXTINF:-1 type="video" tvg-id="Jurassic World: Reino Ameaçado (2018)" tvg-logo="https://image.tmdb.org/t/p/w780/b3CuByY3v7qz9aq4rayIMeAMemy.jpg" description="",Jurassic World: Reino Ameaçado (2018)
-http://cmrt.in/movie/978460358/473005646/1295978.mp4
+#EXTINF:-1 type="video" tvg-id="Megatubarao () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrJkShDPK4TcV0nHix3HASEmkul.jpg" description="",Megatubarao () 4K
+http://2.pipa.run/movie/180192055/635063850/6309105.mp4
+#EXTINF:-1 type="video" tvg-id="Os Incríveis 2 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3EEb7o6NxK0pl0WsOswCos663y.jpg" description="",Os Incríveis 2 4k
+http://2.pipa.run/movie/180192055/635063850/6309106.mp4
+#EXTINF:-1 type="video" tvg-id="Superação: O Milagre Da Fé 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg" description="",Superação: O Milagre Da Fé 4K
+http://2.pipa.run/movie/180192055/635063850/6309107.mp4
+#EXTINF:-1 type="video" tvg-id="Toy Story 4 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csiyO6q8rR74pfgJDjwINzhoick.jpg" description="",Toy Story 4 4K
+http://2.pipa.run/movie/180192055/635063850/6309110.mp4
+#EXTINF:-1 type="video" tvg-id="Transformers: O Último Cavaleiro 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ3Ko9GuKmGUHe5gFVSoR5NyOPT.jpg" description="",Transformers: O Último Cavaleiro 4K
+http://2.pipa.run/movie/180192055/635063850/6309111.mp4
+#EXTINF:-1 type="video" tvg-id="Um Espião Animal 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbFAWjh0PqB16PBuQAbZvaMl3TJ.jpg" description="",Um Espião Animal 4K
+http://2.pipa.run/movie/180192055/635063850/6309112.mp4
+#EXTINF:-1 type="video" tvg-id="Um Lindo Dia Na Vizinhança 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg" description="",Um Lindo Dia Na Vizinhança 4K
+http://2.pipa.run/movie/180192055/635063850/6309113.mp4
+#EXTINF:-1 type="video" tvg-id="Um Lugar Silencioso 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNgg9wuyeYpCpuzkyLbvaupnmvq.jpg" description="",Um Lugar Silencioso 4K
+http://2.pipa.run/movie/180192055/635063850/6309114.mp4
+#EXTINF:-1 type="video" tvg-id="Valerian E A Cidade Dos Mil Planetas 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar9Npj8l5SnxpwAGNkdmObv0VBd.jpg" description="",Valerian E A Cidade Dos Mil Planetas 4K
+http://2.pipa.run/movie/180192055/635063850/6309115.mp4
+#EXTINF:-1 type="video" tvg-id="Vingadores: Guerra Infinita 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" description="",Vingadores: Guerra Infinita 4K
+http://2.pipa.run/movie/180192055/635063850/6309116.mp4
+#EXTINF:-1 type="video" tvg-id="Vingadores: Ultimato 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" description="",Vingadores: Ultimato 4K
+http://2.pipa.run/movie/180192055/635063850/6309117.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter E A Pedra Filosofal 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" description="",Harry Potter E A Pedra Filosofal 4K
+http://2.pipa.run/movie/180192055/635063850/6309118.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter E A Camara Secreta 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmsP4F5tjuOpnHsQAPba6YjHDFq.jpg" description="",Harry Potter E A Camara Secreta 4K
+http://2.pipa.run/movie/180192055/635063850/6309119.mp4
+#EXTINF:-1 type="video" tvg-id="Aladdin 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg" description="",Aladdin 4K
+http://2.pipa.run/movie/180192055/635063850/6309120.mp4
+#EXTINF:-1 type="video" tvg-id="Titanic 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q1M1GsIuAj6tyEEq1LtBUmcrHy.jpg" description="",Titanic 4K
+http://2.pipa.run/movie/180192055/635063850/6309121.mp4
+#EXTINF:-1 type="video" tvg-id="Shazam! 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5jbUHQ7DRHYbbKFR40d2kyr2zV.jpg" description="",Shazam! 4K
+http://2.pipa.run/movie/180192055/635063850/6309122.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter E O Prisioneiro De Azkaban () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" description="",Harry Potter E O Prisioneiro De Azkaban () 4K
+http://2.pipa.run/movie/180192055/635063850/6309123.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter E A Ordem Da Fenix () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" description="",Harry Potter E A Ordem Da Fenix () 4K
+http://2.pipa.run/movie/180192055/635063850/6309124.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter E As Reliquias Da Morte Parte 1 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" description="",Harry Potter E As Reliquias Da Morte Parte 1 4K
+http://2.pipa.run/movie/180192055/635063850/6309125.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter E As Reliquias Da Morte Parte 2 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" description="",Harry Potter E As Reliquias Da Morte Parte 2 4K
+http://2.pipa.run/movie/180192055/635063850/6309126.mp4
+#EXTINF:-1 type="video" tvg-id="A Mula 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg" description="",A Mula 4K
+http://2.pipa.run/movie/180192055/635063850/6309127.mp4
+#EXTINF:-1 type="video" tvg-id="Anna O Perigo Tem Nome 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg" description="",Anna O Perigo Tem Nome 4K
+http://2.pipa.run/movie/180192055/635063850/6309128.mp4
+#EXTINF:-1 type="video" tvg-id="Annabelle 3 De Volta Para Casa 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg" description="",Annabelle 3 De Volta Para Casa 4K
+http://2.pipa.run/movie/180192055/635063850/6309129.mp4
+#EXTINF:-1 type="video" tvg-id="Aquaman () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" description="",Aquaman () 4K
+http://2.pipa.run/movie/180192055/635063850/6309130.mp4
+#EXTINF:-1 type="video" tvg-id="Batman O Cavaleiro Das Trevas" tvg-logo="" description="",Batman O Cavaleiro Das Trevas
+http://2.pipa.run/movie/180192055/635063850/6309131.mp4
+#EXTINF:-1 type="video" tvg-id="Como Treinar O Seu Dragao 3 O Mundo Escondido 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" description="",Como Treinar O Seu Dragao 3 O Mundo Escondido 4K
+http://2.pipa.run/movie/180192055/635063850/6309132.mp4
+#EXTINF:-1 type="video" tvg-id="Desejo De Matar" tvg-logo="" description="",Desejo De Matar
+http://2.pipa.run/movie/180192055/635063850/6309133.mp4
+#EXTINF:-1 type="video" tvg-id="Estrada Sem Lei 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57EBMNewtrm5AB2JQp1SH949UMq.jpg" description="",Estrada Sem Lei 4K
+http://2.pipa.run/movie/180192055/635063850/6309134.mp4
+#EXTINF:-1 type="video" tvg-id="Godzilla II Rei Dos Monstros" tvg-logo="" description="",Godzilla II Rei Dos Monstros
+http://2.pipa.run/movie/180192055/635063850/6309135.mp4
+#EXTINF:-1 type="video" tvg-id="Hellboy 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjblR6bPZR0PvFwztHcEBCjYf7d.jpg" description="",Hellboy 4K
+http://2.pipa.run/movie/180192055/635063850/6309136.mp4
+#EXTINF:-1 type="video" tvg-id="Homem Aranha Longe De Casa 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" description="",Homem Aranha Longe De Casa 4K
+http://2.pipa.run/movie/180192055/635063850/6309137.mp4
+#EXTINF:-1 type="video" tvg-id="Homem Aranha: No Aranhaverso" tvg-logo="" description="",Homem Aranha: No Aranhaverso
+http://2.pipa.run/movie/180192055/635063850/6309138.mp4
+#EXTINF:-1 type="video" tvg-id="Homem Formiga E A Vespa" tvg-logo="" description="",Homem Formiga E A Vespa
+http://2.pipa.run/movie/180192055/635063850/6309139.mp4
+#EXTINF:-1 type="video" tvg-id="Hotel Artemis" tvg-logo="" description="",Hotel Artemis
+http://2.pipa.run/movie/180192055/635063850/6309140.mp4
+#EXTINF:-1 type="video" tvg-id="Os Incríveis 2 () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3EEb7o6NxK0pl0WsOswCos663y.jpg" description="",Os Incríveis 2 () 4K
+http://2.pipa.run/movie/180192055/635063850/6309141.mp4
+#EXTINF:-1 type="video" tvg-id="John Wick 3 Parabellum" tvg-logo="" description="",John Wick 3 Parabellum
+http://2.pipa.run/movie/180192055/635063850/6309142.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World Reino Ameacado" tvg-logo="" description="",Jurassic World Reino Ameacado
+http://2.pipa.run/movie/180192055/635063850/6309143.mp4
+#EXTINF:-1 type="video" tvg-id="Liga Da Justica" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//geyu6rplpbp7OUeOfB2uRVf1LpG.jpg" description="",Liga Da Justica
+http://2.pipa.run/movie/180192055/635063850/6309144.mp4
+#EXTINF:-1 type="video" tvg-id="Homem Aranha De Volta Ao Lar 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" description="",Homem Aranha De Volta Ao Lar 4K
+http://2.pipa.run/movie/180192055/635063850/6309145.mp4
+#EXTINF:-1 type="video" tvg-id="Lucy" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" description="",Lucy
+http://2.pipa.run/movie/180192055/635063850/6309146.mp4
+#EXTINF:-1 type="video" tvg-id="Máquinas Mortais ( 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" description="",Máquinas Mortais ( 4K
+http://2.pipa.run/movie/180192055/635063850/6309147.mp4
+#EXTINF:-1 type="video" tvg-id="MIB Homens De Preto Internacional" tvg-logo="" description="",MIB Homens De Preto Internacional
+http://2.pipa.run/movie/180192055/635063850/6309148.mp4
+#EXTINF:-1 type="video" tvg-id="Missao Impossivel Efeito Fallout 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dheywKL0VNkd0kmRvUlTxVaHul1.jpg" description="",Missao Impossivel Efeito Fallout 4K
+http://2.pipa.run/movie/180192055/635063850/6309149.mp4
+#EXTINF:-1 type="video" tvg-id="Nasce Uma Estrela" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//d8CNgb0AtZz7CSORffdwODK66iK.jpg" description="",Nasce Uma Estrela
+http://2.pipa.run/movie/180192055/635063850/6309150.mp4
+#EXTINF:-1 type="video" tvg-id="No Olho Do Furacao" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//wKugroGel7UUnM83Kcrn2afPTYB.jpg" description="",No Olho Do Furacao
+http://2.pipa.run/movie/180192055/635063850/6309151.mp4
+#EXTINF:-1 type="video" tvg-id="O Grinch" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hGnQmQARgtXtoesIGAsmmTbMKfH.jpg" description="",O Grinch
+http://2.pipa.run/movie/180192055/635063850/6309152.mp4
+#EXTINF:-1 type="video" tvg-id="O Menino Que Queria Ser Rei" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//vKIfYhDlVt92kvWRLa0wQy73Pi2.jpg" description="",O Menino Que Queria Ser Rei
+http://2.pipa.run/movie/180192055/635063850/6309153.mp4
+#EXTINF:-1 type="video" tvg-id="O Misterio Do Relogio Na Parede" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//nu63HA3CkIq245FphWi2zCObLVJ.jpg" description="",O Misterio Do Relogio Na Parede
+http://2.pipa.run/movie/180192055/635063850/6309154.mp4
+#EXTINF:-1 type="video" tvg-id="O Primeiro Homem" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg" description="",O Primeiro Homem
+http://2.pipa.run/movie/180192055/635063850/6309155.mp4
+#EXTINF:-1 type="video" tvg-id="O Protetor 2 () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/REWunAyKGCbxvg2UJGMEHuQd2c.jpg" description="",O Protetor 2 () 4K
+http://2.pipa.run/movie/180192055/635063850/6309156.mp4
+#EXTINF:-1 type="video" tvg-id="O Rei Leao" tvg-logo="" description="",O Rei Leao
+http://2.pipa.run/movie/180192055/635063850/6309157.mp4
+#EXTINF:-1 type="video" tvg-id="O Retorno De Mary Poppins" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg" description="",O Retorno De Mary Poppins
+http://2.pipa.run/movie/180192055/635063850/6309158.mp4
+#EXTINF:-1 type="video" tvg-id="Pantera Negra" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//nZ69WTv7n01womaNz3SHa4inA9x.jpg" description="",Pantera Negra
+http://2.pipa.run/movie/180192055/635063850/6309159.mp4
+#EXTINF:-1 type="video" tvg-id="Perdido Em Marte" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//fG3S4zdgnsaF77tJGK3rA9tHBu4.jpg" description="",Perdido Em Marte
+http://2.pipa.run/movie/180192055/635063850/6309160.mp4
+#EXTINF:-1 type="video" tvg-id="Pokemon Detetive Pikachu" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//p72utWsmz5ZAmvVQPUhovq0jFK3.jpg" description="",Pokemon Detetive Pikachu
+http://2.pipa.run/movie/180192055/635063850/6309161.mp4
+#EXTINF:-1 type="video" tvg-id="Polar" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//2btxGF270fxOeNJInRNnFtZGkAA.jpg" description="",Polar
+http://2.pipa.run/movie/180192055/635063850/6309162.mp4
+#EXTINF:-1 type="video" tvg-id="Superacao O Milagre Da Fe" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg" description="",Superacao O Milagre Da Fe
+http://2.pipa.run/movie/180192055/635063850/6309163.mp4
+#EXTINF:-1 type="video" tvg-id="Te Peguei" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gI6zwlVk1Bu3FnkcDkCYYHsBhTz.jpg" description="",Te Peguei
+http://2.pipa.run/movie/180192055/635063850/6309164.mp4
+#EXTINF:-1 type="video" tvg-id="Toy Story 4 () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csiyO6q8rR74pfgJDjwINzhoick.jpg" description="",Toy Story 4 () 4K
+http://2.pipa.run/movie/180192055/635063850/6309165.mp4
+#EXTINF:-1 type="video" tvg-id="Transformers O Ultimo Cavaleiro 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ3Ko9GuKmGUHe5gFVSoR5NyOPT.jpg" description="",Transformers O Ultimo Cavaleiro 4K
+http://2.pipa.run/movie/180192055/635063850/6309166.mp4
+#EXTINF:-1 type="video" tvg-id="Velozes & Furiosos Hobbs & Shaw 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" description="",Velozes & Furiosos Hobbs & Shaw 4K
+http://2.pipa.run/movie/180192055/635063850/6309167.mp4
+#EXTINF:-1 type="video" tvg-id="O Jogo Da Vida () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msG9dC93C9c7otCsdNA06SpYj51.jpg" description="",O Jogo Da Vida () 4K
+http://2.pipa.run/movie/180192055/635063850/6309168.mp4
+#EXTINF:-1 type="video" tvg-id="Vingadores Guerra Infinita 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" description="",Vingadores Guerra Infinita 4K
+http://2.pipa.run/movie/180192055/635063850/6309169.mp4
+#EXTINF:-1 type="video" tvg-id="Vingadores Ultimato 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" description="",Vingadores Ultimato 4K
+http://2.pipa.run/movie/180192055/635063850/6309170.mp4
+#EXTINF:-1 type="video" tvg-id="White Boy Rick 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33Gm5AZsg8e7sDvk71oePbE6lhk.jpg" description="",White Boy Rick 4K
+http://2.pipa.run/movie/180192055/635063850/6309171.mp4
+#EXTINF:-1 type="video" tvg-id="WiFi Ralph Quebrando A Internet" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg" description="",WiFi Ralph Quebrando A Internet
+http://2.pipa.run/movie/180192055/635063850/6309172.mp4
+#EXTINF:-1 type="video" tvg-id="Coringa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg" description="",Coringa
+http://2.pipa.run/movie/180192055/635063850/6309174.mp4
+#EXTINF:-1 type="video" tvg-id="O Exterminador Do Futuro: Destino Sombrio () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14595EXiEksBAJzhqwJCGacRc2S.jpg" description="",O Exterminador Do Futuro: Destino Sombrio () 4K
+http://2.pipa.run/movie/180192055/635063850/6309175.mp4
+#EXTINF:-1 type="video" tvg-id="Ford Vs Ferrari () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg" description="",Ford Vs Ferrari () 4K
+http://2.pipa.run/movie/180192055/635063850/6309176.mp4
+#EXTINF:-1 type="video" tvg-id="A Extraordinaria Garota Chamada Estrela" tvg-logo="" description="",A Extraordinaria Garota Chamada Estrela
+http://2.pipa.run/movie/180192055/635063850/6309177.mp4
+#EXTINF:-1 type="video" tvg-id="As Golpistas () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg" description="",As Golpistas () 4K
+http://2.pipa.run/movie/180192055/635063850/6309178.mp4
+#EXTINF:-1 type="video" tvg-id="Valerian E A Cidade Dos Mil Planetas 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar9Npj8l5SnxpwAGNkdmObv0VBd.jpg" description="",Valerian E A Cidade Dos Mil Planetas 4K
+http://2.pipa.run/movie/180192055/635063850/6309179.mp4
+#EXTINF:-1 type="video" tvg-id="Um Espiao Animal" tvg-logo="" description="",Um Espiao Animal
+http://2.pipa.run/movie/180192055/635063850/6309180.mp4
+#EXTINF:-1 type="video" tvg-id="Um Lindo Dia Na Vizinhanca" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg" description="",Um Lindo Dia Na Vizinhanca
+http://2.pipa.run/movie/180192055/635063850/6309181.mp4
+#EXTINF:-1 type="video" tvg-id="Bad Boys Para Sempre 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkWYrzLIclGj56r4NJxuWeisK9R.jpg" description="",Bad Boys Para Sempre 4K
+http://2.pipa.run/movie/180192055/635063850/6309182.mp4
+#EXTINF:-1 type="video" tvg-id="Jumanji: Próxima Fase () 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg" description="",Jumanji: Próxima Fase () 4K
+http://2.pipa.run/movie/180192055/635063850/6309183.mp4
+#EXTINF:-1 type="video" tvg-id="Star Wars Episodio IX A Ascensao Skywalker" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg" description="",Star Wars Episodio IX A Ascensao Skywalker
+http://2.pipa.run/movie/180192055/635063850/6309184.mp4

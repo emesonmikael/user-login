@@ -1,0 +1,5 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Doze é Demais 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWycE2t6Vu4X8QWbJLzq4Wx0aO6.jpg" description="",Doze é Demais 2
+http://2.pipa.run/movie/180192055/635063850/6310552.mp4
+#EXTINF:-1 type="video" tvg-id="Sonhos No Gelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m07qLRm1YHnd50NyiCtmtBhl8pN.jpg" description="",Sonhos No Gelo
+http://2.pipa.run/movie/180192055/635063850/6310630.mp4
