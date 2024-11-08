@@ -1,0 +1,5 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="playlist" tvg-id="Bocchi The Rock [L]" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/4Ar4HvavQeDhe30EXztOI2XTlRQ.jpg" description="",Bocchi The Rock [L]
+http://e.2.pipa.run/ssiptv/180192055/635063850/series/5862/episodes
+#EXTINF:-1 type="playlist" tvg-id="Goblin [L]" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/uGj0VhydzfMiYXGdx0ps4pKpcN2.jpg" description="",Goblin [L]
+http://e.2.pipa.run/ssiptv/180192055/635063850/series/5863/episodes
