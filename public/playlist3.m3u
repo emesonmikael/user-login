@@ -17,7 +17,7 @@ http://srvdns.vc:80/180192055/635063850/4779885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 SD" tvg-logo="https://techzzi.site/logos/esportes/sportv3.png" group-title="⚽ CANAIS • SPORTV",SPORTV 3 SD
 http://srvdns.vc:80/180192055/635063850/4779888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV SD" tvg-logo="https://techzzi.site/logos/esportes/sportv.png" group-title="⚽ CANAIS • SPORTV",SPORTV SD
-http://srvdns.vc:80/180192055/635063850/4779891.m3u8
+https://proxy-heroku.onrender.com/proxy/180192055/635063850/4779885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="https://techzzi.site/logos/esportes/bandsports.png" group-title="⚽ CANAIS • ESPORTES",BAND SPORTS FHD
 http://srvdns.vc:80/180192055/635063850/4779905.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE SD" tvg-logo="https://techzzi.site/logos/esportesppv/combate.png" group-title="⚽ CANAIS • ESPORTES",COMBATE SD
