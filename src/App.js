@@ -4,6 +4,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Login from './pages/Login';
 import Home from './pages/Home';
+import App3 from './Filmes2';
 import { AuthProvider } from './context/AuthContext';
 import PrivateRoute from './components/PrivateRoute';
 import M3UApp from './teste2';
@@ -68,7 +69,7 @@ function App() {
             path="/Netflix"
             element={
               <PrivateRoute ><M3UPlayer /> </PrivateRoute>}/>
-                    <Route path="/FILMES" element={ <PrivateRoute ><Filmes /></PrivateRoute>} />
+                    <Route path="/FILMES" element={ <PrivateRoute ><App3 /></PrivateRoute>} />
                     <Route path="/CANAIS" element={ <PrivateRoute >< Canais/></PrivateRoute>} />
                     <Route path="/Series" element={ <PrivateRoute ><App2/></PrivateRoute>} />
                     <Route path="/OiPlay" element={<PrivateRoute ><M3UPlayerOiPlay /></PrivateRoute>} />
