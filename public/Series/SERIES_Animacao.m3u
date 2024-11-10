@@ -97,7 +97,7 @@ https://login-strimer.vercel.app/Series/Grizzy_e_os_Lemmings.m3u
 https://login-strimer.vercel.app/Series/Fancy_Nancy_Clancy.m3u
 #EXTINF:-1 type="playlist" tvg-id="Du Dudu e Edu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" description="",Du, Dudu e Edu
 https://login-strimer.vercel.app/Series/_Dudu_e_Edu_tvglogohttpsimagetmdborgtpw600andh900bestv2ipLfSfDrRRRzoPSa2VT6pCpW3B6jpg_descriptionDu_Dudu_e_Edu.m3u
-#EXTINF:-1 type="playlist" tvg-id="Scooby-Doo! Mistério S/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" description="",Scooby-Doo! Mistério S/A
+#EXTINF:-1 type="playlist" tvg-id="Scooby-Doo Mistério S/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" description="",Scooby-Doo! Mistério S/A
 https://login-strimer.vercel.app/Series/ScoobyDoo_Misterio_SA.m3u
 #EXTINF:-1 type="playlist" tvg-id="Plic Ploc e Chuvisco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZumU878KJndWedQICQAKz6kCf4.jpg" description="",Plic, Ploc e Chuvisco
 https://login-strimer.vercel.app/Series/_Ploc_e_Chuvisco_tvglogohttpsimagetmdborgtpw600andh900bestv25ZumU878KJndWedQICQAKz6kCf4jpg_descriptionPlic_Ploc_e_Chuvisco.m3u
@@ -177,9 +177,9 @@ https://login-strimer.vercel.app/Series/Transformers_War_for_Cybertron_O_Cerco.m
 https://login-strimer.vercel.app/Series/Entre_tierras.m3u
 #EXTINF:-1 type="playlist" tvg-id="Liga da Justiça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dqSuJ8zjdtYy3UfCBbTwue2lT0.jpg" description="",Liga da Justiça
 https://login-strimer.vercel.app/Series/Liga_da_Justica.m3u
-#EXTINF:-1 type="playlist" tvg-id="Scooby-Doo, Cadê Você?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta1d4tFIk4jN6eMbTyE5H2HlqjS.jpg" description="",Scooby-Doo, Cadê Você?
+#EXTINF:-1 type="playlist" tvg-id="Scooby-Doo Cadê Você?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta1d4tFIk4jN6eMbTyE5H2HlqjS.jpg" description="",Scooby-Doo, Cadê Você?
 https://login-strimer.vercel.app/Series/_Cade_Voce_tvglogohttpsimagetmdborgtpw600andh900bestv2ta1d4tFIk4jN6eMbTyE5H2HlqjSjpg_descriptionScoobyDoo_Cade_Voce.m3u
-#EXTINF:-1 type="playlist" tvg-id="O Que Há de Novo, Scooby-Doo?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72UZkvTLAQJGzlHsjr8AKltnAFI.jpg" description="",O Que Há de Novo, Scooby-Doo?
+#EXTINF:-1 type="playlist" tvg-id="O Que Há de Novo Scooby-Doo?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72UZkvTLAQJGzlHsjr8AKltnAFI.jpg" description="",O Que Há de Novo, Scooby-Doo?
 https://login-strimer.vercel.app/Series/_ScoobyDoo_tvglogohttpsimagetmdborgtpw600andh900bestv272UZkvTLAQJGzlHsjr8AKltnAFIjpg_descriptionO_Que_Ha_de_Novo_ScoobyDoo.m3u
 #EXTINF:-1 type="playlist" tvg-id="Ghost Force" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BnMSyrjHhY8oDopPkEtFLkC22N.jpg" description="",Ghost Force
 https://login-strimer.vercel.app/Series/Ghost_Force.m3u
@@ -221,7 +221,7 @@ https://login-strimer.vercel.app/Series/Tom_Tem_Dez_Anos.m3u
 https://login-strimer.vercel.app/Series/The_Great_Grape_Ape_Show.m3u
 #EXTINF:-1 type="playlist" tvg-id="Os Mistérios de Frajola e Piu-Piu" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//9fl17M121Vup0nPrYlmBxXbDM32.jpg" description="",Os Mistérios de Frajola e Piu-Piu
 https://login-strimer.vercel.app/Series/Os_Misterios_de_Frajola_e_PiuPiu.m3u
-#EXTINF:-1 type="playlist" tvg-id="Mira, a Detetive do Reino" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//tgRogmpbKXso0yzEdR9ZPneL78a.jpg" description="",Mira, a Detetive do Reino
+#EXTINF:-1 type="playlist" tvg-id="Mira a Detetive do Reino" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//tgRogmpbKXso0yzEdR9ZPneL78a.jpg" description="",Mira, a Detetive do Reino
 https://login-strimer.vercel.app/Series/_a_Detetive_do_Reino_tvglogohttpimagetmdborgtpw600andh900bestv2tgRogmpbKXso0yzEdR9ZPneL78ajpg_descriptionMira_a_Detetive_do_Reino.m3u
 #EXTINF:-1 type="playlist" tvg-id="Koi wa Sekai Seifuku no Ato de" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//8QKM7fWxRSoDfljnUUdgTXDxMHM.jpg" description="",Koi wa Sekai Seifuku no Ato de
 https://login-strimer.vercel.app/Series/Koi_wa_Sekai_Seifuku_no_Ato_de.m3u
