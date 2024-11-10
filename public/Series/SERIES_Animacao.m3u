@@ -15,7 +15,7 @@ https://login-strimer.vercel.app/Series/Bucky_OHare_and_the_Toad_Wars.m3u
 https://login-strimer.vercel.app/Series/Babar_as_aventuras_de_Badou.m3u
 #EXTINF:-1 type="playlist" tvg-id="Tutubarão" tvg-logo="http://fenix7.com:80/images/6WiaPCZMMVKGpGlJYHsFnyQn1x1_big.jpg" description="",Tutubarão
 https://login-strimer.vercel.app/Series/Tutubarao.m3u
-#EXTINF:-1 type="playlist" tvg-id="Harvey, o Advogado" tvg-logo="http://fenix7.com:80/images/u2RV9Vghv5bTXvJkoDasQphqZqF_big.jpg" description="",Harvey, o Advogado
+#EXTINF:-1 type="playlist" tvg-id="Harvey o Advogado" tvg-logo="http://fenix7.com:80/images/u2RV9Vghv5bTXvJkoDasQphqZqF_big.jpg" description="",Harvey, o Advogado
 https://login-strimer.vercel.app/Series/_o_Advogado_tvglogohttpfenix7com80imagesu2RV9Vghv5bTXvJkoDasQphqZqFbigjpg_descriptionHarvey_o_Advogado.m3u
 #EXTINF:-1 type="playlist" tvg-id="Gárgulas" tvg-logo="http://fenix7.com:80/images/wFiJUiZA6RRDAZA2KJFhemdicv_big.jpg" description="",Gárgulas
 https://login-strimer.vercel.app/Series/Gargulas.m3u
@@ -39,7 +39,7 @@ https://login-strimer.vercel.app/Series/Puffin_Rock.m3u
 https://login-strimer.vercel.app/Series/Pequeno_Malabar.m3u
 #EXTINF:-1 type="playlist" tvg-id="Peppa Pig" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVaiv0S34JnRKHnYkEiObOI15k5.jpg" description="",Peppa Pig
 https://login-strimer.vercel.app/Series/Peppa_Pig.m3u
-#EXTINF:-1 type="playlist" tvg-id="Patati-Patatá, O Melhor da Pré-Escola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lc0efQx6ABqEN57Ne0Z1Ugn3TRh.jpg" description="",Patati-Patatá, O Melhor da Pré-Escola
+#EXTINF:-1 type="playlist" tvg-id="Patati-Patatá O Melhor da Pré-Escola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lc0efQx6ABqEN57Ne0Z1Ugn3TRh.jpg" description="",Patati-Patatá, O Melhor da Pré-Escola
 https://login-strimer.vercel.app/Series/_O_Melhor_da_PreEscola_tvglogohttpsimagetmdborgtpw600andh900bestv2lc0efQx6ABqEN57Ne0Z1Ugn3TRhjpg_descriptionPatatiPatata_O_Melhor_da_PreEscola.m3u
 #EXTINF:-1 type="playlist" tvg-id="Os Herculóides" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGx7ht0yP9Jn3lNawWIllKXt24.jpg" description="",Os Herculóides
 https://login-strimer.vercel.app/Series/Os_Herculoides.m3u
@@ -65,11 +65,11 @@ https://login-strimer.vercel.app/Series/Galinha_Pintadinha_Mini.m3u
 https://login-strimer.vercel.app/Series/Animals.m3u
 #EXTINF:-1 type="playlist" tvg-id="Aladdin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlaiczW81kY46GBdfIcTrBIqr8I.jpg" description="",Aladdin
 https://login-strimer.vercel.app/Series/Aladdin.m3u
-#EXTINF:-1 type="playlist" tvg-id="What's New, Mr. Magoo?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FJFemaIdIGqza3CUKQd6ShiN3R.jpg" description="",What's New, Mr. Magoo?
+#EXTINF:-1 type="playlist" tvg-id="What's New Mr. Magoo?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FJFemaIdIGqza3CUKQd6ShiN3R.jpg" description="",What's New, Mr. Magoo?
 https://login-strimer.vercel.app/Series/_Mr_Magoo_tvglogohttpsimagetmdborgtpw600andh900bestv29FJFemaIdIGqza3CUKQd6ShiN3Rjpg_descriptionWhats_New_Mr_Magoo.m3u
 #EXTINF:-1 type="playlist" tvg-id="Uma Robô Adolescente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1l2olmIShEAP36T2z52IVmKh9mR.jpg" description="",Uma Robô Adolescente
 https://login-strimer.vercel.app/Series/Uma_Robo_Adolescente.m3u
-#EXTINF:-1 type="playlist" tvg-id="Roswell Conspiracies: Aliens, Myths and Legends" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdFAwbiG7oUFzs2TEJSjahrvXk.jpg" description="",Roswell Conspiracies: Aliens, Myths and Legends
+#EXTINF:-1 type="playlist" tvg-id="Roswell Conspiracies: Aliens Myths and Legends" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdFAwbiG7oUFzs2TEJSjahrvXk.jpg" description="",Roswell Conspiracies: Aliens, Myths and Legends
 https://login-strimer.vercel.app/Series/_Myths_and_Legends_tvglogohttpsimagetmdborgtpw600andh900bestv24PdFAwbiG7oUFzs2TEJSjahrvXkjpg_descriptionRoswell_Conspiracies_Aliens_Myths_and_Legends.m3u
 #EXTINF:-1 type="playlist" tvg-id="Os Thornberrys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SHAvvwmOFJwFhbkAqa6MjsiO7P.jpg" description="",Os Thornberrys
 https://login-strimer.vercel.app/Series/Os_Thornberrys.m3u
@@ -95,11 +95,11 @@ https://login-strimer.vercel.app/Series/HomemAranha_A_Serie_Animada.m3u
 https://login-strimer.vercel.app/Series/Grizzy_e_os_Lemmings.m3u
 #EXTINF:-1 type="playlist" tvg-id="Fancy Nancy Clancy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibqrYkgtrGeFiCrQi9RezDeenoi.jpg" description="",Fancy Nancy Clancy
 https://login-strimer.vercel.app/Series/Fancy_Nancy_Clancy.m3u
-#EXTINF:-1 type="playlist" tvg-id="Du, Dudu e Edu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" description="",Du, Dudu e Edu
+#EXTINF:-1 type="playlist" tvg-id="Du Dudu e Edu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" description="",Du, Dudu e Edu
 https://login-strimer.vercel.app/Series/_Dudu_e_Edu_tvglogohttpsimagetmdborgtpw600andh900bestv2ipLfSfDrRRRzoPSa2VT6pCpW3B6jpg_descriptionDu_Dudu_e_Edu.m3u
 #EXTINF:-1 type="playlist" tvg-id="Scooby-Doo! Mistério S/A" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" description="",Scooby-Doo! Mistério S/A
 https://login-strimer.vercel.app/Series/ScoobyDoo_Misterio_SA.m3u
-#EXTINF:-1 type="playlist" tvg-id="Plic, Ploc e Chuvisco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZumU878KJndWedQICQAKz6kCf4.jpg" description="",Plic, Ploc e Chuvisco
+#EXTINF:-1 type="playlist" tvg-id="Plic Ploc e Chuvisco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZumU878KJndWedQICQAKz6kCf4.jpg" description="",Plic, Ploc e Chuvisco
 https://login-strimer.vercel.app/Series/_Ploc_e_Chuvisco_tvglogohttpsimagetmdborgtpw600andh900bestv25ZumU878KJndWedQICQAKz6kCf4jpg_descriptionPlic_Ploc_e_Chuvisco.m3u
 #EXTINF:-1 type="playlist" tvg-id="Batman: Cruzado Encapuzado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyB0p30uzaYDpCrpoMUAApxdiow.jpg" description="",Batman: Cruzado Encapuzado
 https://login-strimer.vercel.app/Series/Batman_Cruzado_Encapuzado.m3u
