@@ -1,247 +1,301 @@
 #EXTM3U size="Medium"
-#EXTINF:-1 type="playlist" tvg-id="Sala de Aula dos Heróis" tvg-logo="http://fenix7.com:80/images/v6g67rHGQZ8HeCpYAaIRQ3VGp8j_big.jpg" description="",Sala de Aula dos Heróis
-https://login-strimer.vercel.app/Series/Sala_de_Aula_dos_Herois.m3u
-#EXTINF:-1 type="playlist" tvg-id="SPRIGGAN" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//18by4OjqBPl5TKUHNdjlqThmsUr.jpg" description="",SPRIGGAN
-https://login-strimer.vercel.app/Series/SPRIGGAN.m3u
-#EXTINF:-1 type="playlist" tvg-id="Ganbare Doukichan" tvg-logo="http://fenix7.com:80/images/phjhDDopklmnlu1uhl4qF7MSpQ4_big.jpg" description="",Ganbare Doukichan
-https://login-strimer.vercel.app/Series/Ganbare_Doukichan.m3u
-#EXTINF:-1 type="playlist" tvg-id="Viewtiful Joe" tvg-logo="http://fenix7.com:80/images/A5qfZOO5VXao6IT3kLHi4835pp2_big.jpg" description="",Viewtiful Joe
-https://login-strimer.vercel.app/Series/Viewtiful_Joe.m3u
-#EXTINF:-1 type="playlist" tvg-id="Wandering Witch: The Journey of Elaina" tvg-logo="http://fenix7.com:80/images/4DlztdILPzMn4gOWCX4WdWa1Ur8_big.jpg" description="",Wandering Witch: The Journey of Elaina
-https://login-strimer.vercel.app/Series/Wandering_Witch_The_Journey_of_Elaina.m3u
-#EXTINF:-1 type="playlist" tvg-id="The Detective Is Already Dead" tvg-logo="http://fenix7.com:80/images/5NXO5acrIa2hkDxIqFyKcVW6vca_big.jpg" description="",The Detective Is Already Dead
-https://login-strimer.vercel.app/Series/The_Detective_Is_Already_Dead.m3u
-#EXTINF:-1 type="playlist" tvg-id="Sala de Aula dos Heróis" tvg-logo="http://fenix7.com:80/images/v6g67rHGQZ8HeCpYAaIRQ3VGp8j_big.jpg" description="",Sala de Aula dos Heróis
-https://login-strimer.vercel.app/Series/Sala_de_Aula_dos_Herois.m3u
-#EXTINF:-1 type="playlist" tvg-id="Rick and Morty: The Anime" tvg-logo="http://fenix7.com:80/images/7D8imzmWsua7Plk5TRDX6q8M97u_big.jpg" description="",Rick and Morty: The Anime
-https://login-strimer.vercel.app/Series/Rick_and_Morty_The_Anime.m3u
-#EXTINF:-1 type="playlist" tvg-id="RE-MAIN" tvg-logo="http://fenix7.com:80/images/qA86K7u72cPtUvI0yZ91TcfFx9Q_big.jpg" description="",RE-MAIN
-https://login-strimer.vercel.app/Series/REMAIN.m3u
-#EXTINF:-1 type="playlist" tvg-id="Tower of God" tvg-logo="http://fenix7.com:80/images/jWDcDuHJVfcAuWRJNzJ3mriFo98_big.jpg" description="",Tower of God
-https://login-strimer.vercel.app/Series/Tower_of_God.m3u
-#EXTINF:-1 type="playlist" tvg-id="The God of High School" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfMBnUVzWTlal8Hr0RfgnVe6kHW.jpg" description="",The God of High School
-https://login-strimer.vercel.app/Series/The_God_of_High_School.m3u
-#EXTINF:-1 type="playlist" tvg-id="Saber Marionette J" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3LApkobOxCK7z1jjfTAWiHiTpz.jpg" description="",Saber Marionette J
-https://login-strimer.vercel.app/Series/Saber_Marionette_J.m3u
-#EXTINF:-1 type="playlist" tvg-id="Romantic Killer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceIqjbFfWUzNIBVFLYcG7fGY1Yc.jpg" description="",Romantic Killer
-https://login-strimer.vercel.app/Series/Romantic_Killer.m3u
-#EXTINF:-1 type="playlist" tvg-id="CODE GEASS: Rozé da Reconquista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4e3BethUwm6Q9uyzXKuhieRdAf2.jpg" description="",CODE GEASS: Rozé da Reconquista
-https://login-strimer.vercel.app/Series/CODE_GEASS_Roze_da_Reconquista.m3u
-#EXTINF:-1 type="playlist" tvg-id="Vandread" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzweSSRADVBgi7A2NbR18OnEaRK.jpg" description="",Vandread
-https://login-strimer.vercel.app/Series/Vandread.m3u
-#EXTINF:-1 type="playlist" tvg-id="Uzaki-chan Wants to Hang Out!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUU2BTMXaX5g09lDP6pAbsN8EG5.jpg" description="",Uzaki-chan Wants to Hang Out!
-https://login-strimer.vercel.app/Series/Uzakichan_Wants_to_Hang_Out.m3u
-#EXTINF:-1 type="playlist" tvg-id="Trigun" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7ErceKdCrAy7JIZg0e1KpD95ra.jpg" description="",Trigun
-https://login-strimer.vercel.app/Series/Trigun.m3u
-#EXTINF:-1 type="playlist" tvg-id="Takt Op. Destiny" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1sJZonLyL0EG25qNc99Ml5DLlu.jpg" description="",Takt Op. Destiny
-https://login-strimer.vercel.app/Series/Takt_Op_Destiny.m3u
-#EXTINF:-1 type="playlist" tvg-id="Serial Experiments Lain" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej3tcxv2YYVWy6WoOeWZTcrkiI8.jpg" description="",Serial Experiments Lain
-https://login-strimer.vercel.app/Series/Serial_Experiments_Lain.m3u
-#EXTINF:-1 type="playlist" tvg-id="Sasaki and Miyano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5reFhj3kxcYTB0UFuI6xHhHijgX.jpg" description="",Sasaki and Miyano
-https://login-strimer.vercel.app/Series/Sasaki_and_Miyano.m3u
-#EXTINF:-1 type="playlist" tvg-id="Saikano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5A7EjZkt6UXo0QRV0StPbqudBlG.jpg" description="",Saikano
-https://login-strimer.vercel.app/Series/Saikano.m3u
-#EXTINF:-1 type="playlist" tvg-id="Ragnarok 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XUkcnuoqamDWixXEt4YzJJRz2M.jpg" description="",Ragnarok 2004
-https://login-strimer.vercel.app/Series/Ragnarok_2004.m3u
-#EXTINF:-1 type="playlist" tvg-id="Noragami" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DmaXur5cxXXZmpuIl4O0oeGolp.jpg" description="",Noragami
-https://login-strimer.vercel.app/Series/Noragami.m3u
-#EXTINF:-1 type="playlist" tvg-id="Noir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3aYZBH1EdNPokstwvU5shCsNdp.jpg" description="",Noir
-https://login-strimer.vercel.app/Series/Noir.m3u
-#EXTINF:-1 type="playlist" tvg-id="Mazinger Z" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ8OCR6u2kQOZvtHAOnuDlPq7oA.jpg" description="",Mazinger Z
-https://login-strimer.vercel.app/Series/Mazinger_Z.m3u
-#EXTINF:-1 type="playlist" tvg-id="Marvel Anime: Homem de Ferro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlKrH2U6RT01z9CgJa5ZnOFcfeK.jpg" description="",Marvel Anime: Homem de Ferro
-https://login-strimer.vercel.app/Series/Marvel_Anime_Homem_de_Ferro.m3u
-#EXTINF:-1 type="playlist" tvg-id="Lycoris Recoil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GJMVzfL7lRy4XqvS8UjsX2tzHt.jpg" description="",Lycoris Recoil
-https://login-strimer.vercel.app/Series/Lycoris_Recoil.m3u
-#EXTINF:-1 type="playlist" tvg-id="Parasyte -the maxim-" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg" description="",Parasyte -the maxim-
-https://login-strimer.vercel.app/Series/Parasyte_the_maxim.m3u
-#EXTINF:-1 type="playlist" tvg-id="Kawaii dake ja Nai Shikimori-san" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SpLKmsbPqmXchS2XkBhaJWaXMk.jpg" description="",Kawaii dake ja Nai Shikimori-san
-https://login-strimer.vercel.app/Series/Kawaii_dake_ja_Nai_Shikimorisan.m3u
-#EXTINF:-1 type="playlist" tvg-id="Kakkou no Iinazuke" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK5ZZ9BdA3xcaNmnJIvf4FBA8xT.jpg" description="",Kakkou no Iinazuke
-https://login-strimer.vercel.app/Series/Kakkou_no_Iinazuke.m3u
-#EXTINF:-1 type="playlist" tvg-id="Hero Mask" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kVbyri0H40h6VYnu1o44qDlIEy.jpg" description="",Hero Mask
-https://login-strimer.vercel.app/Series/Hero_Mask.m3u
-#EXTINF:-1 type="playlist" tvg-id="Hellsing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdSi1q7WNLNvxvmjrI4F93zzqQO.jpg" description="",Hellsing
-https://login-strimer.vercel.app/Series/Hellsing.m3u
-#EXTINF:-1 type="playlist" tvg-id="Go-Tōbun no Hanayome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN8ojNNtQvl5XGtKOBX8iRbhswo.jpg" description="",Go-Tōbun no Hanayome
-https://login-strimer.vercel.app/Series/GoTobun_no_Hanayome.m3u
-#EXTINF:-1 type="playlist" tvg-id="Gekkan Shoujo Nozaki-kun" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maPv22inKIcyfOCil3wrWiyJ7gC.jpg" description="",Gekkan Shoujo Nozaki-kun
-https://login-strimer.vercel.app/Series/Gekkan_Shoujo_Nozakikun.m3u
-#EXTINF:-1 type="playlist" tvg-id="Gantz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spyDQ1Cv8m4L8EaXS6iXSpbLWA.jpg" description="",Gantz
-https://login-strimer.vercel.app/Series/Gantz.m3u
-#EXTINF:-1 type="playlist" tvg-id="Naruto Shippuden" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRJmByfK9XdtOY73VArcN8KpKVs.jpg" description="",Naruto Shippuden
-https://login-strimer.vercel.app/Series/Naruto_Shippuden.m3u
-#EXTINF:-1 type="playlist" tvg-id="Noblesse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czcrMXV7oCwg0gRfTAHcphmSnVl.jpg" description="",Noblesse
-https://login-strimer.vercel.app/Series/Noblesse.m3u
-#EXTINF:-1 type="playlist" tvg-id="Yu☆Gi☆Oh! VRAINS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f05J9joLN57YAKMlorFVtzlTOYN.jpg" description="",Yu☆Gi☆Oh! VRAINS
-https://login-strimer.vercel.app/Series/YuGiOh_VRAINS.m3u
-#EXTINF:-1 type="playlist" tvg-id="Ōoku: Por Dentro do Castelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G1xzjLfI9ZMNb3gSPm89fnEl3o.jpg" description="",Ōoku: Por Dentro do Castelo
-https://login-strimer.vercel.app/Series/Ooku_Por_Dentro_do_Castelo.m3u
-#EXTINF:-1 type="playlist" tvg-id="Healin' Good Precure" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR6dXqzrvmSR2bjCAdq08R5pKBZ.jpg" description="",Healin' Good Precure
-https://login-strimer.vercel.app/Series/Healin_Good_Precure.m3u
-#EXTINF:-1 type="playlist" tvg-id="WIND BREAKER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg" description="",WIND BREAKER
-https://login-strimer.vercel.app/Series/WIND_BREAKER.m3u
-#EXTINF:-1 type="playlist" tvg-id="O Tio de Outro Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U2M2xRZ1TAMIvDXvJxU8MxLoaw.jpg" description="",O Tio de Outro Mundo
-https://login-strimer.vercel.app/Series/O_Tio_de_Outro_Mundo.m3u
-#EXTINF:-1 type="playlist" tvg-id="DanMachi: É Errado Tentar Pegar Garotas em uma Masmorra?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eanhJgkvsqGPf5Bot77kjuuZVco.jpg" description="",DanMachi: É Errado Tentar Pegar Garotas em uma Masmorra?
-https://login-strimer.vercel.app/Series/DanMachi_E_Errado_Tentar_Pegar_Garotas_em_uma_Masmorra.m3u
-#EXTINF:-1 type="playlist" tvg-id="Kemono Jihen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ON3UrcmyECZAMug7htkszoNoMC.jpg" description="",Kemono Jihen
-https://login-strimer.vercel.app/Series/Kemono_Jihen.m3u
-#EXTINF:-1 type="playlist" tvg-id="DARLING in the FRANXX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR8HgnD9tqFaSiJ69FpruHo9Gm9.jpg" description="",DARLING in the FRANXX
-https://login-strimer.vercel.app/Series/DARLING_in_the_FRANXX.m3u
-#EXTINF:-1 type="playlist" tvg-id="Fruits Basket" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVe8vcSqpJjLib5TWer6kgkGjjM.jpg" description="",Fruits Basket
-https://login-strimer.vercel.app/Series/Fruits_Basket.m3u
-#EXTINF:-1 type="playlist" tvg-id="Digimon Data Squad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf0ByV62axMjsVPH24TqIokQkgF.jpg" description="",Digimon Data Squad
-https://login-strimer.vercel.app/Series/Digimon_Data_Squad.m3u
-#EXTINF:-1 type="playlist" tvg-id="Mob Psycho 100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg" description="",Mob Psycho 100
-https://login-strimer.vercel.app/Series/Mob_Psycho_100.m3u
-#EXTINF:-1 type="playlist" tvg-id="Minha Mana Apelona" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sysz1yNPpgwA7weihJ7lIgHnt1O.jpg" description="",Minha Mana Apelona
-https://login-strimer.vercel.app/Series/Minha_Mana_Apelona.m3u
-#EXTINF:-1 type="playlist" tvg-id="Minha Habilidade Única Me Deixa Invencível no Nível 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUzd55GHiOogGiFAgTlW4aWsC2O.jpg" description="",Minha Habilidade Única Me Deixa Invencível no Nível 1
-https://login-strimer.vercel.app/Series/Minha_Habilidade_Unica_Me_Deixa_Invencivel_no_Nivel_1.m3u
-#EXTINF:-1 type="playlist" tvg-id="REBORN!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg" description="",REBORN!
-https://login-strimer.vercel.app/Series/REBORN.m3u
-#EXTINF:-1 type="playlist" tvg-id="A Sign of Affection" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRHlM1Gs4Ws9QNXyYrZGdQ0V45F.jpg" description="",A Sign of Affection
-https://login-strimer.vercel.app/Series/A_Sign_of_Affection.m3u
-#EXTINF:-1 type="playlist" tvg-id="Muv-Luv Alternative: Total Eclipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCcUT9hJAjQN0gRPVC8lzeXobci.jpg" description="",Muv-Luv Alternative: Total Eclipse
-https://login-strimer.vercel.app/Series/MuvLuv_Alternative_Total_Eclipse.m3u
-#EXTINF:-1 type="playlist" tvg-id="The Seven Deadly Sins: Os Quatro Cavaleiros do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJnmS9S3m6BsSnzMNEnF0KPl9PC.jpg" description="",The Seven Deadly Sins: Os Quatro Cavaleiros do Apocalipse
-https://login-strimer.vercel.app/Series/The_Seven_Deadly_Sins_Os_Quatro_Cavaleiros_do_Apocalipse.m3u
-#EXTINF:-1 type="playlist" tvg-id="One Piece" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBYDzzmNoT5uXkXo3NGatLIANYK.jpg" description="",One Piece
-https://login-strimer.vercel.app/Series/One_Piece.m3u
-#EXTINF:-1 type="playlist" tvg-id="Super Crooks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsEm6mPVcsLhrOhHXOSJGX9dKY1.jpg" description="",Super Crooks
-https://login-strimer.vercel.app/Series/Super_Crooks.m3u
-#EXTINF:-1 type="playlist" tvg-id="KONOSUBA -God's blessing on this wonderful world!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg" description="",KONOSUBA -God's blessing on this wonderful world!
-https://login-strimer.vercel.app/Series/KONOSUBA_Gods_blessing_on_this_wonderful_world.m3u
-#EXTINF:-1 type="playlist" tvg-id="The Iceblade Sorcerer Shall Rule the World" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiJd0oGkBhf98uEH3F3yC7O48vr.jpg" description="",The Iceblade Sorcerer Shall Rule the World
-https://login-strimer.vercel.app/Series/The_Iceblade_Sorcerer_Shall_Rule_the_World.m3u
-#EXTINF:-1 type="playlist" tvg-id="A Promessa do Golfe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLTMmwV13Pb4UBo0YRrh2ihTLxE.jpg" description="",A Promessa do Golfe
-https://login-strimer.vercel.app/Series/A_Promessa_do_Golfe.m3u
-#EXTINF:-1 type="playlist" tvg-id="Chillin' in Another World with Level 2 Super Cheat Powers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg" description="",Chillin' in Another World with Level 2 Super Cheat Powers
-https://login-strimer.vercel.app/Series/Chillin_in_Another_World_with_Level_2_Super_Cheat_Powers.m3u
-#EXTINF:-1 type="playlist" tvg-id="Shurato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CrlgdCfOrZQRO1KdNBvnZWAzxq.jpg" description="",Shurato
-https://login-strimer.vercel.app/Series/Shurato.m3u
-#EXTINF:-1 type="playlist" tvg-id="Shingeki no Kyojin OVA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyFtcneTysf7dd3ZqFnDPL0EZYN.jpg" description="",Shingeki no Kyojin OVA
-https://login-strimer.vercel.app/Series/Shingeki_no_Kyojin_OVA.m3u
-#EXTINF:-1 type="playlist" tvg-id="Yu-Gi-Oh! GX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veMmM3STfZo0IsexmtDZW9zB1RF.jpg" description="",Yu-Gi-Oh! GX
-https://login-strimer.vercel.app/Series/YuGiOh_GX.m3u
-#EXTINF:-1 type="playlist" tvg-id="Yamishibai: Japanese Ghost Stories" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQJiBekYYqFhYwDnpJPrtYaoo27.jpg" description="",Yamishibai: Japanese Ghost Stories
-https://login-strimer.vercel.app/Series/Yamishibai_Japanese_Ghost_Stories.m3u
-#EXTINF:-1 type="playlist" tvg-id="SAND LAND: THE SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttjlPYnxLQ48pEFGVFFmz4ukcM8.jpg" description="",SAND LAND: THE SERIES
-https://login-strimer.vercel.app/Series/SAND_LAND_THE_SERIES.m3u
-#EXTINF:-1 type="playlist" tvg-id="Akashic Records of Bastard Magic Instructor" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//drBuXuI6D7d7n0YntzTmLafQPJf.jpg" description="",Akashic Records of Bastard Magic Instructor
-https://login-strimer.vercel.app/Series/Akashic_Records_of_Bastard_Magic_Instructor.m3u
-#EXTINF:-1 type="playlist" tvg-id="100 Coisas para Fazer Antes de Virar Zumbi" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//wUgE1ceORQzsZnGrASVKjEaGkzO.jpg" description="",100 Coisas para Fazer Antes de Virar Zumbi
-https://login-strimer.vercel.app/Series/100_Coisas_para_Fazer_Antes_de_Virar_Zumbi.m3u
-#EXTINF:-1 type="playlist" tvg-id="Rikei ga Koi ni Ochita no de Shoumei shitemita" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//pokU2f5EgD5E6EJoK9jhfbkQNXe.jpg" description="",Rikei ga Koi ni Ochita no de Shoumei shitemita
-https://login-strimer.vercel.app/Series/Rikei_ga_Koi_ni_Ochita_no_de_Shoumei_shitemita.m3u
-#EXTINF:-1 type="playlist" tvg-id="SHADOWS HOUSE" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//qZHsA3mIrWmwsQ5xOhjhjrPl7NH.jpg" description="",SHADOWS HOUSE
-https://login-strimer.vercel.app/Series/SHADOWS_HOUSE.m3u
-#EXTINF:-1 type="playlist" tvg-id="Mahoutsukai Reimeiki" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//pQw7WrP2iDFwxNz7t5gQd6hDk4q.jpg" description="",Mahoutsukai Reimeiki
-https://login-strimer.vercel.app/Series/Mahoutsukai_Reimeiki.m3u
-#EXTINF:-1 type="playlist" tvg-id="Make My Day" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//74qmlWDOVB2YXN5Cr1PclL808kG.jpg" description="",Make My Day
-https://login-strimer.vercel.app/Series/Make_My_Day.m3u
-#EXTINF:-1 type="playlist" tvg-id="B-Daman Crossfire" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//3VxTQ12nPsjQUezedSUjd4yn71D.jpg" description="",B-Daman Crossfire
-https://login-strimer.vercel.app/Series/BDaman_Crossfire.m3u
-#EXTINF:-1 type="playlist" tvg-id="Hunter x Hunter" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//9WxfAQquTun9ATkV6iAeFHMkqxv.jpg" description="",Hunter x Hunter
-https://login-strimer.vercel.app/Series/Hunter_x_Hunter.m3u
-#EXTINF:-1 type="playlist" tvg-id="Laid-Back Camp" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//AuKoz8qBqQ3gPuKNdzEfi0kBAIZ.jpg" description="",Laid-Back Camp
-https://login-strimer.vercel.app/Series/LaidBack_Camp.m3u
-#EXTINF:-1 type="playlist" tvg-id="Re:Monster" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hos9sChhPb8FWUJUGkDBlzgLdx1.jpg" description="",Re:Monster
-https://login-strimer.vercel.app/Series/ReMonster.m3u
-#EXTINF:-1 type="playlist" tvg-id="Ranking of Kings: The Treasure Chest of Courage" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//wAtODapry9fYXhvqYvSOdmExvDc.jpg" description="",Ranking of Kings: The Treasure Chest of Courage
-https://login-strimer.vercel.app/Series/Ranking_of_Kings_The_Treasure_Chest_of_Courage.m3u
-#EXTINF:-1 type="playlist" tvg-id="Housing Complex C" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg" description="",Housing Complex C
-https://login-strimer.vercel.app/Series/Housing_Complex_C.m3u
-#EXTINF:-1 type="playlist" tvg-id="Crônicas de um Aristocrata em Outro Mundo" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//zPuT9PlTQ8gympp72OzjBM80pgp.jpg" description="",Crônicas de um Aristocrata em Outro Mundo
-https://login-strimer.vercel.app/Series/Cronicas_de_um_Aristocrata_em_Outro_Mundo.m3u
-#EXTINF:-1 type="playlist" tvg-id="Monster Rancher" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//lzh49cRWKSjNm98Cov0bBDvBww7.jpg" description="",Monster Rancher
-https://login-strimer.vercel.app/Series/Monster_Rancher.m3u
-#EXTINF:-1 type="playlist" tvg-id="Mobile Suit Gundam: The Witch from Mercury" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//h1qliYBRsnQdxCbFWQxcnBRW3pm.jpg" description="",Mobile Suit Gundam: The Witch from Mercury
-https://login-strimer.vercel.app/Series/Mobile_Suit_Gundam_The_Witch_from_Mercury.m3u
-#EXTINF:-1 type="playlist" tvg-id="MegaMan NT Warrior" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//jHJlz3T6LjpiTMsYASWdYPfzMT9.jpg" description="",MegaMan NT Warrior
-https://login-strimer.vercel.app/Series/MegaMan_NT_Warrior.m3u
-#EXTINF:-1 type="playlist" tvg-id="Keep Your Hands Off Eizouken!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6sZdzYquPK3DNdyKqTia9uappIM.jpg" description="",Keep Your Hands Off Eizouken!
-https://login-strimer.vercel.app/Series/Keep_Your_Hands_Off_Eizouken.m3u
-#EXTINF:-1 type="playlist" tvg-id="Como Raeliana Foi Parar na Mansão do Duque" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//tj1CA3jzpIrd8NG7mDObRcLKQJ5.jpg" description="",Como Raeliana Foi Parar na Mansão do Duque
-https://login-strimer.vercel.app/Series/Como_Raeliana_Foi_Parar_na_Mansao_do_Duque.m3u
-#EXTINF:-1 type="playlist" tvg-id="SPRIGGAN " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//18by4OjqBPl5TKUHNdjlqThmsUr.jpg" description="",SPRIGGAN 
-https://login-strimer.vercel.app/Series/SPRIGGAN_.m3u
-#EXTINF:-1 type="playlist" tvg-id="Me Apaixonei pela Vilã!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//tQNMsjH2YtRZfgb8zTXtA21vxud.jpg" description="",Me Apaixonei pela Vilã!
-https://login-strimer.vercel.app/Series/Me_Apaixonei_pela_Vila.m3u
-#EXTINF:-1 type="playlist" tvg-id="Hokuto no Ken - Legends of the Dark King" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//p4Jimz8z4d1RJwaHFfA8TtFWOMB.jpg" description="",Hokuto no Ken - Legends of the Dark King
-https://login-strimer.vercel.app/Series/Hokuto_no_Ken_Legends_of_the_Dark_King.m3u
-#EXTINF:-1 type="playlist" tvg-id="Gods' Game We Play" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//uBVxIofgBq2Tp36F1ggcNUfy6VG.jpg" description="",Gods' Game We Play
-https://login-strimer.vercel.app/Series/Gods_Game_We_Play.m3u
-#EXTINF:-1 type="playlist" tvg-id="Cardcaptor Sakura" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//q1oEuSFkG6DZJnsXBPEPARUgrZn.jpg" description="",Cardcaptor Sakura
-https://login-strimer.vercel.app/Series/Cardcaptor_Sakura.m3u
-#EXTINF:-1 type="playlist" tvg-id="Plunderer" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg" description="",Plunderer
-https://login-strimer.vercel.app/Series/Plunderer.m3u
-#EXTINF:-1 type="playlist" tvg-id="BLUE LOCK" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//2cmEkoiUbktAhV1Rw9GgZEDpOOA.jpg" description="",BLUE LOCK
-https://login-strimer.vercel.app/Series/BLUE_LOCK.m3u
-#EXTINF:-1 type="playlist" tvg-id="A Ilha das Sombras" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//urusDr7Cfv2QZ6rNzzMB0rGJPci.jpg" description="",A Ilha das Sombras
-https://login-strimer.vercel.app/Series/A_Ilha_das_Sombras.m3u
-#EXTINF:-1 type="playlist" tvg-id="Dinossauro Rei" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//qvN2aGY9Yqrr0thhEi9LFx1pkhr.jpg" description="",Dinossauro Rei
-https://login-strimer.vercel.app/Series/Dinossauro_Rei.m3u
-#EXTINF:-1 type="playlist" tvg-id="Sidonia no Kishi" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//kzdYpEzyvDbxSLSaCxJhZQgksfJ.jpg" description="",Sidonia no Kishi
-https://login-strimer.vercel.app/Series/Sidonia_no_Kishi.m3u
-#EXTINF:-1 type="playlist" tvg-id="KONOSUBA -An Explosion on This Wonderful World!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//xcPT8KuiYAKvhCRaYa9SOtiEWSO.jpg" description="",KONOSUBA -An Explosion on This Wonderful World!
-https://login-strimer.vercel.app/Series/KONOSUBA_An_Explosion_on_This_Wonderful_World.m3u
-#EXTINF:-1 type="playlist" tvg-id="Yu-Gi-Oh!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//sIIKfPLYbdl64z5QQnaWcJVvZzJ.jpg" description="",Yu-Gi-Oh!
-https://login-strimer.vercel.app/Series/YuGiOh.m3u
-#EXTINF:-1 type="playlist" tvg-id="Level E" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//tdhOYnrkZhSr6wiLDWOKIozRhEI.jpg" description="",Level E
-https://login-strimer.vercel.app/Series/Level_E.m3u
-#EXTINF:-1 type="playlist" tvg-id="Digimon Zero Two" tvg-logo="" description="",Digimon Zero Two
-https://login-strimer.vercel.app/Series/Digimon_Zero_Two.m3u
-#EXTINF:-1 type="playlist" tvg-id="Digimon Tamers" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//pxv1aOcl5crXKaWN0dsUeqoSpfP.jpg" description="",Digimon Tamers
-https://login-strimer.vercel.app/Series/Digimon_Tamers.m3u
-#EXTINF:-1 type="playlist" tvg-id="Captain Tsubasa" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//5ebcN4fDDk9QdGTvVrD7TIa18za.jpg" description="",Captain Tsubasa
-https://login-strimer.vercel.app/Series/Captain_Tsubasa.m3u
-#EXTINF:-1 type="playlist" tvg-id="Beyblade: Metal Fusion" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//pboJ6DOZk92DFcY2yXJ75pMUCwW.jpg" description="",Beyblade: Metal Fusion
-https://login-strimer.vercel.app/Series/Beyblade_Metal_Fusion.m3u
-#EXTINF:-1 type="playlist" tvg-id="Beyblade Burst Turbo" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//7gNPKHaW3VB2UlDVxpfcTQBPk9N.jpg" description="",Beyblade Burst Turbo
-https://login-strimer.vercel.app/Series/Beyblade_Burst_Turbo.m3u
-#EXTINF:-1 type="playlist" tvg-id="Beyblade Burst Surge" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//7gNPKHaW3VB2UlDVxpfcTQBPk9N.jpg" description="",Beyblade Burst Surge
-https://login-strimer.vercel.app/Series/Beyblade_Burst_Surge.m3u
-#EXTINF:-1 type="playlist" tvg-id="Beyblade Burst Rise" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//7gNPKHaW3VB2UlDVxpfcTQBPk9N.jpg" description="",Beyblade Burst Rise
-https://login-strimer.vercel.app/Series/Beyblade_Burst_Rise.m3u
-#EXTINF:-1 type="playlist" tvg-id="Beyblade" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//7gNPKHaW3VB2UlDVxpfcTQBPk9N.jpg" description="",Beyblade
-https://login-strimer.vercel.app/Series/Beyblade.m3u
-#EXTINF:-1 type="playlist" tvg-id="Girlfriend, Girlfriend" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hVxmYEeWkVwJLTHV1nN7oU4UGjm.jpg" description="",Girlfriend, Girlfriend
-https://login-strimer.vercel.app/Series/_Girlfriend_tvglogohttpimagetmdborgtpw600andh900bestv2hVxmYEeWkVwJLTHV1nN7oU4UGjmjpg_descriptionGirlfriend_Girlfriend.m3u
-#EXTINF:-1 type="playlist" tvg-id="Bottom-Tier Character Tomozaki" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//99lvxrZP8c7r57ShlM51TQTJ3cc.jpg" description="",Bottom-Tier Character Tomozaki
-https://login-strimer.vercel.app/Series/BottomTier_Character_Tomozaki.m3u
-#EXTINF:-1 type="playlist" tvg-id="BASTARD!!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//pKL0ukVXsCKyMpbuhlkKsGFSTnU.jpg" description="",BASTARD!!
-https://login-strimer.vercel.app/Series/BASTARD.m3u
-#EXTINF:-1 type="playlist" tvg-id="Shangri-La Frontier" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//beg4GOY71HuaEdJ5yTR2ZXgf3mo.jpg" description="",Shangri-La Frontier
-https://login-strimer.vercel.app/Series/ShangriLa_Frontier.m3u
-#EXTINF:-1 type="playlist" tvg-id="HIGH SCORE" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//wBYXnIlqMBji2dUrz4lwcObRQd1.jpg" description="",HIGH SCORE
-https://login-strimer.vercel.app/Series/HIGH_SCORE.m3u
-#EXTINF:-1 type="playlist" tvg-id="Delusional Monthly Magazine" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6Ei5yD3veVdp2UXylL1xgZvjKR4.jpg" description="",Delusional Monthly Magazine
-https://login-strimer.vercel.app/Series/Delusional_Monthly_Magazine.m3u
-#EXTINF:-1 type="playlist" tvg-id="Soaring Sky! Pretty Cure" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//j0d4paJDCDaUDCEdb7MiNS9RGvc.jpg" description="",Soaring Sky! Pretty Cure
-https://login-strimer.vercel.app/Series/Soaring_Sky_Pretty_Cure.m3u
-#EXTINF:-1 type="playlist" tvg-id="Rurouni Kenshin" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//AiXvvZfkjxbcNPyBvrttW15cac6.jpg" description="",Rurouni Kenshin
-https://login-strimer.vercel.app/Series/Rurouni_Kenshin.m3u
-#EXTINF:-1 type="playlist" tvg-id="BUCCHIGIRI?!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6WNDshG1wTRyqzDxw6HijqqBiWk.jpg" description="",BUCCHIGIRI?!
-https://login-strimer.vercel.app/Series/BUCCHIGIRI.m3u
-#EXTINF:-1 type="playlist" tvg-id="TSUKIMICHI -Moonlit Fantasy-" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//exhONC020D4DGvt7XB4nq9AOMDU.jpg" description="",TSUKIMICHI -Moonlit Fantasy-
-https://login-strimer.vercel.app/Series/TSUKIMICHI_Moonlit_Fantasy.m3u
-#EXTINF:-1 type="playlist" tvg-id="Grimgar, Ashes and Illusions" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6g7UdorYr63BkdMnjWyuPDWcZb4.jpg" description="",Grimgar, Ashes and Illusions
-https://login-strimer.vercel.app/Series/_Ashes_and_Illusions_tvglogohttpimagetmdborgtpw600andh900bestv26g7UdorYr63BkdMnjWyuPDWcZb4jpg_descriptionGrimgar_Ashes_and_Illusions.m3u
-#EXTINF:-1 type="playlist" tvg-id="Skip Beat!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//d9crmGhDGGJuXj1GKyqhPiFrUQr.jpg" description="",Skip Beat!
-https://login-strimer.vercel.app/Series/Skip_Beat.m3u
-#EXTINF:-1 type="playlist" tvg-id="Ishura" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//42pZGbhgvEGogym5crNsqiHXWHh.jpg" description="",Ishura
-https://login-strimer.vercel.app/Series/Ishura.m3u
-#EXTINF:-1 type="playlist" tvg-id="Onii-chan No Koto Nanka Zenzen Suki Janain Dakara Ne!!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//jYGxv6CzlwktaepdEjYmyz61H6s.jpg" description="",Onii-chan No Koto Nanka Zenzen Suki Janain Dakara Ne!!
-https://login-strimer.vercel.app/Series/Oniichan_No_Koto_Nanka_Zenzen_Suki_Janain_Dakara_Ne.m3u
-#EXTINF:-1 type="playlist" tvg-id="Classroom of the Elite" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//mmhx3dImdsfYpcFm3J1tlQt5IRN.jpg" description="",Classroom of the Elite
-https://login-strimer.vercel.app/Series/Classroom_of_the_Elite.m3u
-#EXTINF:-1 type="playlist" tvg-id="Brave Bang Bravern!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//b3JFO1r8WpRiLf3gq6aEn9XsUWi.jpg" description="",Brave Bang Bravern!
-https://login-strimer.vercel.app/Series/Brave_Bang_Bravern.m3u
-#EXTINF:-1 type="playlist" tvg-id="Boku no Kokoro no Yabai Yatsu" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg" description="",Boku no Kokoro no Yabai Yatsu
-https://login-strimer.vercel.app/Series/Boku_no_Kokoro_no_Yabai_Yatsu.m3u
-#EXTINF:-1 type="playlist" tvg-id="The Wrong Way to Use Healing Magic" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//cmnScbX505dKwpRGKoGhCsVBUw.jpg" description="",The Wrong Way to Use Healing Magic
-https://login-strimer.vercel.app/Series/The_Wrong_Way_to_Use_Healing_Magic.m3u
 #EXTINF:-1 type="playlist" tvg-id="MASHLE: MAGIA E MÚSCULOS" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//48dNOsGBOxQwZp04kcLdebFdPBU.jpg" description="",MASHLE: MAGIA E MÚSCULOS
-https://login-strimer.vercel.app/Series/MASHLE_MAGIA_E_MUSCULOS.m3u
+https://login-strimer.vercel.app/Animes/MASHLE_MAGIA_E_MUSCULOS.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Wrong Way To Use Healing Magic" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//cmnScbX505dKwpRGKoGhCsVBUw.jpg" description="",The Wrong Way To Use Healing Magic
+https://login-strimer.vercel.app/Animes/The_Wrong_Way_To_Use_Healing_Magic.m3u
+#EXTINF:-1 type="playlist" tvg-id="Boku No Kokoro No Yabai Yatsu" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg" description="",Boku No Kokoro No Yabai Yatsu
+https://login-strimer.vercel.app/Animes/Boku_No_Kokoro_No_Yabai_Yatsu.m3u
+#EXTINF:-1 type="playlist" tvg-id="Brave Bang Bravern!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//b3JFO1r8WpRiLf3gq6aEn9XsUWi.jpg" description="",Brave Bang Bravern!
+https://login-strimer.vercel.app/Animes/Brave_Bang_Bravern.m3u
+#EXTINF:-1 type="playlist" tvg-id="Classroom Of The Elite" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//mmhx3dImdsfYpcFm3J1tlQt5IRN.jpg" description="",Classroom Of The Elite
+https://login-strimer.vercel.app/Animes/Classroom_Of_The_Elite.m3u
+#EXTINF:-1 type="playlist" tvg-id="Onii-chan No Koto Nanka Zenzen Suki Janain Dakara Ne!!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//jYGxv6CzlwktaepdEjYmyz61H6s.jpg" description="",Onii-chan No Koto Nanka Zenzen Suki Janain Dakara Ne!!
+https://login-strimer.vercel.app/Animes/Oniichan_No_Koto_Nanka_Zenzen_Suki_Janain_Dakara_Ne.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ishura" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//42pZGbhgvEGogym5crNsqiHXWHh.jpg" description="",Ishura
+https://login-strimer.vercel.app/Animes/Ishura.m3u
+#EXTINF:-1 type="playlist" tvg-id="Skip Beat!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//d9crmGhDGGJuXj1GKyqhPiFrUQr.jpg" description="",Skip Beat!
+https://login-strimer.vercel.app/Animes/Skip_Beat.m3u
+#EXTINF:-1 type="playlist" tvg-id="Grimgar Ashes And Illusions" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6g7UdorYr63BkdMnjWyuPDWcZb4.jpg" description="",Grimgar, Ashes And Illusions
+https://login-strimer.vercel.app/Animes/Grimgar_Ashes_And_Illusions.m3u
+#EXTINF:-1 type="playlist" tvg-id="TSUKIMICHI -Moonlit Fantasy-" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//exhONC020D4DGvt7XB4nq9AOMDU.jpg" description="",TSUKIMICHI -Moonlit Fantasy-
+https://login-strimer.vercel.app/Animes/TSUKIMICHI_Moonlit_Fantasy.m3u
+#EXTINF:-1 type="playlist" tvg-id="BUCCHIGIRI?!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6WNDshG1wTRyqzDxw6HijqqBiWk.jpg" description="",BUCCHIGIRI?!
+https://login-strimer.vercel.app/Animes/BUCCHIGIRI.m3u
+#EXTINF:-1 type="playlist" tvg-id="Soaring Sky! Pretty Cure" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//j0d4paJDCDaUDCEdb7MiNS9RGvc.jpg" description="",Soaring Sky! Pretty Cure
+https://login-strimer.vercel.app/Animes/Soaring_Sky_Pretty_Cure.m3u
+#EXTINF:-1 type="playlist" tvg-id="Delusional Monthly Magazine" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6Ei5yD3veVdp2UXylL1xgZvjKR4.jpg" description="",Delusional Monthly Magazine
+https://login-strimer.vercel.app/Animes/Delusional_Monthly_Magazine.m3u
+#EXTINF:-1 type="playlist" tvg-id="HIGH SCORE" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//wBYXnIlqMBji2dUrz4lwcObRQd1.jpg" description="",HIGH SCORE
+https://login-strimer.vercel.app/Animes/HIGH_SCORE.m3u
+#EXTINF:-1 type="playlist" tvg-id="Shangri-La Frontier" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//beg4GOY71HuaEdJ5yTR2ZXgf3mo.jpg" description="",Shangri-La Frontier
+https://login-strimer.vercel.app/Animes/ShangriLa_Frontier.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bottom-Tier Character Tomozaki" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//99lvxrZP8c7r57ShlM51TQTJ3cc.jpg" description="",Bottom-Tier Character Tomozaki
+https://login-strimer.vercel.app/Animes/BottomTier_Character_Tomozaki.m3u
+#EXTINF:-1 type="playlist" tvg-id="Girlfriend Girlfriend" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hVxmYEeWkVwJLTHV1nN7oU4UGjm.jpg" description="",Girlfriend, Girlfriend
+https://login-strimer.vercel.app/Animes/Girlfriend_Girlfriend.m3u
+#EXTINF:-1 type="playlist" tvg-id="Captain Tsubasa" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//5ebcN4fDDk9QdGTvVrD7TIa18za.jpg" description="",Captain Tsubasa
+https://login-strimer.vercel.app/Animes/Captain_Tsubasa.m3u
+#EXTINF:-1 type="playlist" tvg-id="KONOSUBA -An Explosion On This Wonderful World!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//xcPT8KuiYAKvhCRaYa9SOtiEWSO.jpg" description="",KONOSUBA -An Explosion On This Wonderful World!
+https://login-strimer.vercel.app/Animes/KONOSUBA_An_Explosion_On_This_Wonderful_World.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sidonia No Kishi" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//kzdYpEzyvDbxSLSaCxJhZQgksfJ.jpg" description="",Sidonia No Kishi
+https://login-strimer.vercel.app/Animes/Sidonia_No_Kishi.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Ilha Das Sombras" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//urusDr7Cfv2QZ6rNzzMB0rGJPci.jpg" description="",A Ilha Das Sombras
+https://login-strimer.vercel.app/Animes/A_Ilha_Das_Sombras.m3u
+#EXTINF:-1 type="playlist" tvg-id="BLUE LOCK" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//2cmEkoiUbktAhV1Rw9GgZEDpOOA.jpg" description="",BLUE LOCK
+https://login-strimer.vercel.app/Animes/BLUE_LOCK.m3u
+#EXTINF:-1 type="playlist" tvg-id="Plunderer" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg" description="",Plunderer
+https://login-strimer.vercel.app/Animes/Plunderer.m3u
+#EXTINF:-1 type="playlist" tvg-id="Gods Game We Play" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//uBVxIofgBq2Tp36F1ggcNUfy6VG.jpg" description="",Gods' Game We Play
+https://login-strimer.vercel.app/Animes/Gods_Game_We_Play.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hokuto No Ken - Legends Of The Dark King" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//p4Jimz8z4d1RJwaHFfA8TtFWOMB.jpg" description="",Hokuto No Ken - Legends Of The Dark King
+https://login-strimer.vercel.app/Animes/Hokuto_No_Ken_Legends_Of_The_Dark_King.m3u
+#EXTINF:-1 type="playlist" tvg-id="Me Apaixonei Pela Vilã!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//tQNMsjH2YtRZfgb8zTXtA21vxud.jpg" description="",Me Apaixonei Pela Vilã!
+https://login-strimer.vercel.app/Animes/Me_Apaixonei_Pela_Vila.m3u
+#EXTINF:-1 type="playlist" tvg-id="Como Raeliana Foi Parar Na Mansão Do Duque" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//tj1CA3jzpIrd8NG7mDObRcLKQJ5.jpg" description="",Como Raeliana Foi Parar Na Mansão Do Duque
+https://login-strimer.vercel.app/Animes/Como_Raeliana_Foi_Parar_Na_Mansao_Do_Duque.m3u
+#EXTINF:-1 type="playlist" tvg-id="Keep Your Hands Off Eizouken!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//6sZdzYquPK3DNdyKqTia9uappIM.jpg" description="",Keep Your Hands Off Eizouken!
+https://login-strimer.vercel.app/Animes/Keep_Your_Hands_Off_Eizouken.m3u
+#EXTINF:-1 type="playlist" tvg-id="MegaMan NT Warrior" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//jHJlz3T6LjpiTMsYASWdYPfzMT9.jpg" description="",MegaMan NT Warrior
+https://login-strimer.vercel.app/Animes/MegaMan_NT_Warrior.m3u
+#EXTINF:-1 type="playlist" tvg-id="Mobile Suit Gundam: The Witch From Mercury" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//h1qliYBRsnQdxCbFWQxcnBRW3pm.jpg" description="",Mobile Suit Gundam: The Witch From Mercury
+https://login-strimer.vercel.app/Animes/Mobile_Suit_Gundam_The_Witch_From_Mercury.m3u
+#EXTINF:-1 type="playlist" tvg-id="Monster Rancher" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//lzh49cRWKSjNm98Cov0bBDvBww7.jpg" description="",Monster Rancher
+https://login-strimer.vercel.app/Animes/Monster_Rancher.m3u
+#EXTINF:-1 type="playlist" tvg-id="Crônicas De Um Aristocrata Em Outro Mundo" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//zPuT9PlTQ8gympp72OzjBM80pgp.jpg" description="",Crônicas De Um Aristocrata Em Outro Mundo
+https://login-strimer.vercel.app/Animes/Cronicas_De_Um_Aristocrata_Em_Outro_Mundo.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ranking Of Kings: The Treasure Chest Of Courage" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//wAtODapry9fYXhvqYvSOdmExvDc.jpg" description="",Ranking Of Kings: The Treasure Chest Of Courage
+https://login-strimer.vercel.app/Animes/Ranking_Of_Kings_The_Treasure_Chest_Of_Courage.m3u
+#EXTINF:-1 type="playlist" tvg-id="Re:Monster" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//hos9sChhPb8FWUJUGkDBlzgLdx1.jpg" description="",Re:Monster
+https://login-strimer.vercel.app/Animes/ReMonster.m3u
+#EXTINF:-1 type="playlist" tvg-id="Laid-Back Camp" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//AuKoz8qBqQ3gPuKNdzEfi0kBAIZ.jpg" description="",Laid-Back Camp
+https://login-strimer.vercel.app/Animes/LaidBack_Camp.m3u
+#EXTINF:-1 type="playlist" tvg-id="Lv2 Kara Cheat Datta Motoyuusha Kouho No Mattari Isekai Life" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg" description="",Lv2 Kara Cheat Datta Motoyuusha Kouho No Mattari Isekai Life
+https://login-strimer.vercel.app/Animes/Lv2_Kara_Cheat_Datta_Motoyuusha_Kouho_No_Mattari_Isekai_Life.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hunter X Hunter" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//9WxfAQquTun9ATkV6iAeFHMkqxv.jpg" description="",Hunter X Hunter
+https://login-strimer.vercel.app/Animes/Hunter_X_Hunter.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kirby: Right Back At Ya!" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//sauBMU7ruhpHL3bobEz1nlniaCg.jpg" description="",Kirby: Right Back At Ya!
+https://login-strimer.vercel.app/Animes/Kirby_Right_Back_At_Ya.m3u
+#EXTINF:-1 type="playlist" tvg-id="B-Daman Crossfire" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//3VxTQ12nPsjQUezedSUjd4yn71D.jpg" description="",B-Daman Crossfire
+https://login-strimer.vercel.app/Animes/BDaman_Crossfire.m3u
+#EXTINF:-1 type="playlist" tvg-id="Make My Day" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//74qmlWDOVB2YXN5Cr1PclL808kG.jpg" description="",Make My Day
+https://login-strimer.vercel.app/Animes/Make_My_Day.m3u
+#EXTINF:-1 type="playlist" tvg-id="SHADOWS HOUSE" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//qZHsA3mIrWmwsQ5xOhjhjrPl7NH.jpg" description="",SHADOWS HOUSE
+https://login-strimer.vercel.app/Animes/SHADOWS_HOUSE.m3u
+#EXTINF:-1 type="playlist" tvg-id="Rikei Ga Koi Ni Ochita No De Shoumei Shitemita" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//pokU2f5EgD5E6EJoK9jhfbkQNXe.jpg" description="",Rikei Ga Koi Ni Ochita No De Shoumei Shitemita
+https://login-strimer.vercel.app/Animes/Rikei_Ga_Koi_Ni_Ochita_No_De_Shoumei_Shitemita.m3u
+#EXTINF:-1 type="playlist" tvg-id="100 Coisas Para Fazer Antes De Virar Zumbi" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//wUgE1ceORQzsZnGrASVKjEaGkzO.jpg" description="",100 Coisas Para Fazer Antes De Virar Zumbi
+https://login-strimer.vercel.app/Animes/100_Coisas_Para_Fazer_Antes_De_Virar_Zumbi.m3u
+#EXTINF:-1 type="playlist" tvg-id="Akashic Records Of Bastard Magic Instructor" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//drBuXuI6D7d7n0YntzTmLafQPJf.jpg" description="",Akashic Records Of Bastard Magic Instructor
+https://login-strimer.vercel.app/Animes/Akashic_Records_Of_Bastard_Magic_Instructor.m3u
+#EXTINF:-1 type="playlist" tvg-id="SAND LAND: THE SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttjlPYnxLQ48pEFGVFFmz4ukcM8.jpg" description="",SAND LAND: THE SERIES
+https://login-strimer.vercel.app/Animes/SAND_LAND_THE_SERIES.m3u
+#EXTINF:-1 type="playlist" tvg-id="Yamishibai: Japanese Ghost Stories" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQJiBekYYqFhYwDnpJPrtYaoo27.jpg" description="",Yamishibai: Japanese Ghost Stories
+https://login-strimer.vercel.app/Animes/Yamishibai_Japanese_Ghost_Stories.m3u
+#EXTINF:-1 type="playlist" tvg-id="Yu-Gi-Oh! GX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veMmM3STfZo0IsexmtDZW9zB1RF.jpg" description="",Yu-Gi-Oh! GX
+https://login-strimer.vercel.app/Animes/YuGiOh_GX.m3u
+#EXTINF:-1 type="playlist" tvg-id="Shingeki No Kyojin OVA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyFtcneTysf7dd3ZqFnDPL0EZYN.jpg" description="",Shingeki No Kyojin OVA
+https://login-strimer.vercel.app/Animes/Shingeki_No_Kyojin_OVA.m3u
+#EXTINF:-1 type="playlist" tvg-id="Chillin In Another World With Level 2 Super Cheat Powers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg" description="",Chillin' In Another World With Level 2 Super Cheat Powers
+https://login-strimer.vercel.app/Animes/Chillin_In_Another_World_With_Level_2_Super_Cheat_Powers.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Promessa Do Golfe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLTMmwV13Pb4UBo0YRrh2ihTLxE.jpg" description="",A Promessa Do Golfe
+https://login-strimer.vercel.app/Animes/A_Promessa_Do_Golfe.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Iceblade Sorcerer Shall Rule The World" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiJd0oGkBhf98uEH3F3yC7O48vr.jpg" description="",The Iceblade Sorcerer Shall Rule The World
+https://login-strimer.vercel.app/Animes/The_Iceblade_Sorcerer_Shall_Rule_The_World.m3u
+#EXTINF:-1 type="playlist" tvg-id="KONOSUBA -God's Blessing On This Wonderful World!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg" description="",KONOSUBA -God's Blessing On This Wonderful World!
+https://login-strimer.vercel.app/Animes/KONOSUBA_Gods_Blessing_On_This_Wonderful_World.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Seven Deadly Sins: Os Quatro Cavaleiros Do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJnmS9S3m6BsSnzMNEnF0KPl9PC.jpg" description="",The Seven Deadly Sins: Os Quatro Cavaleiros Do Apocalipse
+https://login-strimer.vercel.app/Animes/The_Seven_Deadly_Sins_Os_Quatro_Cavaleiros_Do_Apocalipse.m3u
+#EXTINF:-1 type="playlist" tvg-id="Muv-Luv Alternative: Total Eclipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCcUT9hJAjQN0gRPVC8lzeXobci.jpg" description="",Muv-Luv Alternative: Total Eclipse
+https://login-strimer.vercel.app/Animes/MuvLuv_Alternative_Total_Eclipse.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Sign Of Affection" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRHlM1Gs4Ws9QNXyYrZGdQ0V45F.jpg" description="",A Sign Of Affection
+https://login-strimer.vercel.app/Animes/A_Sign_Of_Affection.m3u
+#EXTINF:-1 type="playlist" tvg-id="REBORN!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg" description="",REBORN!
+https://login-strimer.vercel.app/Animes/REBORN.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kaiju No 8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK1GWa7W9DUu6tuySM2AtLVTpxE.jpg" description="",Kaiju No 8
+https://login-strimer.vercel.app/Animes/Kaiju_No_8.m3u
+#EXTINF:-1 type="playlist" tvg-id="Minha Habilidade Única Me Deixa Invencível No Nível 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUzd55GHiOogGiFAgTlW4aWsC2O.jpg" description="",Minha Habilidade Única Me Deixa Invencível No Nível 1
+https://login-strimer.vercel.app/Animes/Minha_Habilidade_Unica_Me_Deixa_Invencivel_No_Nivel_1.m3u
+#EXTINF:-1 type="playlist" tvg-id="Digimon Data Squad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf0ByV62axMjsVPH24TqIokQkgF.jpg" description="",Digimon Data Squad
+https://login-strimer.vercel.app/Animes/Digimon_Data_Squad.m3u
+#EXTINF:-1 type="playlist" tvg-id="Fruits Basket" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVe8vcSqpJjLib5TWer6kgkGjjM.jpg" description="",Fruits Basket
+https://login-strimer.vercel.app/Animes/Fruits_Basket.m3u
+#EXTINF:-1 type="playlist" tvg-id="DARLING In The FRANXX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR8HgnD9tqFaSiJ69FpruHo9Gm9.jpg" description="",DARLING In The FRANXX
+https://login-strimer.vercel.app/Animes/DARLING_In_The_FRANXX.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kemono Jihen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ON3UrcmyECZAMug7htkszoNoMC.jpg" description="",Kemono Jihen
+https://login-strimer.vercel.app/Animes/Kemono_Jihen.m3u
+#EXTINF:-1 type="playlist" tvg-id="DanMachi: É Errado Tentar Pegar Garotas Em Uma Masmorra?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eanhJgkvsqGPf5Bot77kjuuZVco.jpg" description="",DanMachi: É Errado Tentar Pegar Garotas Em Uma Masmorra?
+https://login-strimer.vercel.app/Animes/DanMachi_E_Errado_Tentar_Pegar_Garotas_Em_Uma_Masmorra.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Tio De Outro Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U2M2xRZ1TAMIvDXvJxU8MxLoaw.jpg" description="",O Tio De Outro Mundo
+https://login-strimer.vercel.app/Animes/O_Tio_De_Outro_Mundo.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Duke Of Death And His Maid" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l61yXOVHyGhhB8LIxwjawy5Zbxg.jpg" description="",The Duke Of Death And His Maid
+https://login-strimer.vercel.app/Animes/The_Duke_Of_Death_And_His_Maid.m3u
+#EXTINF:-1 type="playlist" tvg-id="WIND BREAKER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg" description="",WIND BREAKER
+https://login-strimer.vercel.app/Animes/WIND_BREAKER.m3u
+#EXTINF:-1 type="playlist" tvg-id="Healin Good Precure" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR6dXqzrvmSR2bjCAdq08R5pKBZ.jpg" description="",Healin' Good Precure
+https://login-strimer.vercel.app/Animes/Healin_Good_Precure.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ōoku: Por Dentro Do Castelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G1xzjLfI9ZMNb3gSPm89fnEl3o.jpg" description="",Ōoku: Por Dentro Do Castelo
+https://login-strimer.vercel.app/Animes/Ooku_Por_Dentro_Do_Castelo.m3u
+#EXTINF:-1 type="playlist" tvg-id="Yu☆Gi☆Oh! VRAINS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f05J9joLN57YAKMlorFVtzlTOYN.jpg" description="",Yu☆Gi☆Oh! VRAINS
+https://login-strimer.vercel.app/Animes/YuGiOh_VRAINS.m3u
+#EXTINF:-1 type="playlist" tvg-id="Noblesse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czcrMXV7oCwg0gRfTAHcphmSnVl.jpg" description="",Noblesse
+https://login-strimer.vercel.app/Animes/Noblesse.m3u
+#EXTINF:-1 type="playlist" tvg-id="Gantz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spyDQ1Cv8m4L8EaXS6iXSpbLWA.jpg" description="",Gantz
+https://login-strimer.vercel.app/Animes/Gantz.m3u
+#EXTINF:-1 type="playlist" tvg-id="Gekkan Shoujo Nozaki-kun" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maPv22inKIcyfOCil3wrWiyJ7gC.jpg" description="",Gekkan Shoujo Nozaki-kun
+https://login-strimer.vercel.app/Animes/Gekkan_Shoujo_Nozakikun.m3u
+#EXTINF:-1 type="playlist" tvg-id="Go-Tōbun No Hanayome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN8ojNNtQvl5XGtKOBX8iRbhswo.jpg" description="",Go-Tōbun No Hanayome
+https://login-strimer.vercel.app/Animes/GoTobun_No_Hanayome.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hellsing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdSi1q7WNLNvxvmjrI4F93zzqQO.jpg" description="",Hellsing
+https://login-strimer.vercel.app/Animes/Hellsing.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hero Mask" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kVbyri0H40h6VYnu1o44qDlIEy.jpg" description="",Hero Mask
+https://login-strimer.vercel.app/Animes/Hero_Mask.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kakkou No Iinazuke" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK5ZZ9BdA3xcaNmnJIvf4FBA8xT.jpg" description="",Kakkou No Iinazuke
+https://login-strimer.vercel.app/Animes/Kakkou_No_Iinazuke.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kawaii Dake Ja Nai Shikimori-san" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SpLKmsbPqmXchS2XkBhaJWaXMk.jpg" description="",Kawaii Dake Ja Nai Shikimori-san
+https://login-strimer.vercel.app/Animes/Kawaii_Dake_Ja_Nai_Shikimorisan.m3u
+#EXTINF:-1 type="playlist" tvg-id="Parasyte -the Maxim-" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg" description="",Parasyte -the Maxim-
+https://login-strimer.vercel.app/Animes/Parasyte_the_Maxim.m3u
+#EXTINF:-1 type="playlist" tvg-id="Marvel Anime: Homem De Ferro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlKrH2U6RT01z9CgJa5ZnOFcfeK.jpg" description="",Marvel Anime: Homem De Ferro
+https://login-strimer.vercel.app/Animes/Marvel_Anime_Homem_De_Ferro.m3u
+#EXTINF:-1 type="playlist" tvg-id="Mazinger Z" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ8OCR6u2kQOZvtHAOnuDlPq7oA.jpg" description="",Mazinger Z
+https://login-strimer.vercel.app/Animes/Mazinger_Z.m3u
+#EXTINF:-1 type="playlist" tvg-id="Noir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3aYZBH1EdNPokstwvU5shCsNdp.jpg" description="",Noir
+https://login-strimer.vercel.app/Animes/Noir.m3u
+#EXTINF:-1 type="playlist" tvg-id="Saikano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5A7EjZkt6UXo0QRV0StPbqudBlG.jpg" description="",Saikano
+https://login-strimer.vercel.app/Animes/Saikano.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sasaki And Miyano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5reFhj3kxcYTB0UFuI6xHhHijgX.jpg" description="",Sasaki And Miyano
+https://login-strimer.vercel.app/Animes/Sasaki_And_Miyano.m3u
+#EXTINF:-1 type="playlist" tvg-id="Serial Experiments Lain" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej3tcxv2YYVWy6WoOeWZTcrkiI8.jpg" description="",Serial Experiments Lain
+https://login-strimer.vercel.app/Animes/Serial_Experiments_Lain.m3u
+#EXTINF:-1 type="playlist" tvg-id="Takt Op Destiny" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1sJZonLyL0EG25qNc99Ml5DLlu.jpg" description="",Takt Op Destiny
+https://login-strimer.vercel.app/Animes/Takt_Op_Destiny.m3u
+#EXTINF:-1 type="playlist" tvg-id="Trigun" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7ErceKdCrAy7JIZg0e1KpD95ra.jpg" description="",Trigun
+https://login-strimer.vercel.app/Animes/Trigun.m3u
+#EXTINF:-1 type="playlist" tvg-id="Uzaki-chan Wants To Hang Out!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUU2BTMXaX5g09lDP6pAbsN8EG5.jpg" description="",Uzaki-chan Wants To Hang Out!
+https://login-strimer.vercel.app/Animes/Uzakichan_Wants_To_Hang_Out.m3u
+#EXTINF:-1 type="playlist" tvg-id="Vandread" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzweSSRADVBgi7A2NbR18OnEaRK.jpg" description="",Vandread
+https://login-strimer.vercel.app/Animes/Vandread.m3u
+#EXTINF:-1 type="playlist" tvg-id="CODE GEASS: Rozé Da Reconquista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4e3BethUwm6Q9uyzXKuhieRdAf2.jpg" description="",CODE GEASS: Rozé Da Reconquista
+https://login-strimer.vercel.app/Animes/CODE_GEASS_Roze_Da_Reconquista.m3u
+#EXTINF:-1 type="playlist" tvg-id="The God Of High School" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfMBnUVzWTlal8Hr0RfgnVe6kHW.jpg" description="",The God Of High School
+https://login-strimer.vercel.app/Animes/The_God_Of_High_School.m3u
+#EXTINF:-1 type="playlist" tvg-id="Tower Of God" tvg-logo="http://fenix7.com:80/images/jWDcDuHJVfcAuWRJNzJ3mriFo98_big.jpg" description="",Tower Of God
+https://login-strimer.vercel.app/Animes/Tower_Of_God.m3u
+#EXTINF:-1 type="playlist" tvg-id="RE-MAIN" tvg-logo="http://fenix7.com:80/images/qA86K7u72cPtUvI0yZ91TcfFx9Q_big.jpg" description="",RE-MAIN
+https://login-strimer.vercel.app/Animes/REMAIN.m3u
+#EXTINF:-1 type="playlist" tvg-id="Rick And Morty: The Anime" tvg-logo="http://fenix7.com:80/images/7D8imzmWsua7Plk5TRDX6q8M97u_big.jpg" description="",Rick And Morty: The Anime
+https://login-strimer.vercel.app/Animes/Rick_And_Morty_The_Anime.m3u
+#EXTINF:-1 type="playlist" tvg-id="Sala De Aula Dos Heróis" tvg-logo="http://fenix7.com:80/images/v6g67rHGQZ8HeCpYAaIRQ3VGp8j_big.jpg" description="",Sala De Aula Dos Heróis
+https://login-strimer.vercel.app/Animes/Sala_De_Aula_Dos_Herois.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Detective Is Already Dead" tvg-logo="http://fenix7.com:80/images/5NXO5acrIa2hkDxIqFyKcVW6vca_big.jpg" description="",The Detective Is Already Dead
+https://login-strimer.vercel.app/Animes/The_Detective_Is_Already_Dead.m3u
+#EXTINF:-1 type="playlist" tvg-id="Wandering Witch: The Journey Of Elaina" tvg-logo="http://fenix7.com:80/images/4DlztdILPzMn4gOWCX4WdWa1Ur8_big.jpg" description="",Wandering Witch: The Journey Of Elaina
+https://login-strimer.vercel.app/Animes/Wandering_Witch_The_Journey_Of_Elaina.m3u
+#EXTINF:-1 type="playlist" tvg-id="Viewtiful Joe" tvg-logo="http://fenix7.com:80/images/A5qfZOO5VXao6IT3kLHi4835pp2_big.jpg" description="",Viewtiful Joe
+https://login-strimer.vercel.app/Animes/Viewtiful_Joe.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ganbare Doukichan" tvg-logo="http://fenix7.com:80/images/phjhDDopklmnlu1uhl4qF7MSpQ4_big.jpg" description="",Ganbare Doukichan
+https://login-strimer.vercel.app/Animes/Ganbare_Doukichan.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Fruit Of Evolution: Before I Knew It, My Life Had It Made" tvg-logo="http://fenix7.com:80/images/eSfh7eFwdgcdbHDKDv2jDAYS71A_big.jpg" description="",The Fruit Of Evolution: Before I Knew It, My Life Had It Made
+https://login-strimer.vercel.app/Animes/_My_Life_Had_It_Made_tvglogohttpfenix7com80imageseSfh7eFwdgcdbHDKDv2jDAYS71Abigjpg_descriptionThe_Fruit_Of_Evolution_Before_I_Knew_It_My_Life_Had_It_Made.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Vampire Dies In No Time" tvg-logo="http://fenix7.com:80/images/4RHvDoMU3DSkxt13I3wLGql3DE8_big.jpg" description="",The Vampire Dies In No Time
+https://login-strimer.vercel.app/Animes/The_Vampire_Dies_In_No_Time.m3u
+#EXTINF:-1 type="playlist" tvg-id="Demi-chan wa Kataritai" tvg-logo="http://fenix7.com:80/images/eupiPrergE2WXxkRrIV3XAc8h0q_big.jpg" description="",Demi-chan wa Kataritai
+https://login-strimer.vercel.app/Animes/Demichan_wa_Kataritai.m3u
+#EXTINF:-1 type="playlist" tvg-id="Get Backers" tvg-logo="http://fenix7.com:80/images/rU0plBxW0FkB5zYmuUvZcqH7HY2_big.jpg" description="",Get Backers
+https://login-strimer.vercel.app/Animes/Get_Backers.m3u
+#EXTINF:-1 type="playlist" tvg-id="Isekai Maou to Shoukan Shoujo no Dorei Majutsu" tvg-logo="http://fenix7.com:80/images/aU5hzy2jximD87WvBrVOzUBxAUH_big.jpg" description="",Isekai Maou to Shoukan Shoujo no Dorei Majutsu
+https://login-strimer.vercel.app/Animes/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu.m3u
+#EXTINF:-1 type="playlist" tvg-id="Joran: The Princess of Snow and Blood" tvg-logo="http://fenix7.com:80/images/tvM2DRD7QXMb15VM5HTcPj81o2C_big.jpg" description="",Joran: The Princess of Snow and Blood
+https://login-strimer.vercel.app/Animes/Joran_The_Princess_of_Snow_and_Blood.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara" tvg-logo="http://fenix7.com:80/images/cfcYACAPhL9fcPboZR1ctEqJrKQ_big.jpg" description="",Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara
+https://login-strimer.vercel.app/Animes/Kyuukyoku_Shinka_shita_Full_Dive_RPG_ga_Genjitsu_yori_mo_Kusoge_Dattara.m3u
+#EXTINF:-1 type="playlist" tvg-id="Seijo no Maryoku wa Bannou Desu" tvg-logo="http://fenix7.com:80/images/2TYcmIWX0z3SFPECBKJ8uWt3Nr7_big.jpg" description="",Seijo no Maryoku wa Bannou Desu
+https://login-strimer.vercel.app/Animes/Seijo_no_Maryoku_wa_Bannou_Desu.m3u
+#EXTINF:-1 type="playlist" tvg-id="Tonikaku Kawaii" tvg-logo="http://fenix7.com:80/images/fy0mtGho6qwjcNZOkTGeQZe93NP_big.jpg" description="",Tonikaku Kawaii
+https://login-strimer.vercel.app/Animes/Tonikaku_Kawaii.m3u
+#EXTINF:-1 type="playlist" tvg-id="009-1" tvg-logo="http://fenix7.com:80/images/r1zbGhkKXmzZR8h5y7LQxiE8yW9_big.jpg" description="",009-1
+https://login-strimer.vercel.app/Animes/0091.m3u
+#EXTINF:-1 type="playlist" tvg-id="BlazBlue Alter Memory" tvg-logo="http://fenix7.com:80/images/z7c0u3685hh5ESCTrZZNkATqYm5_big.jpg" description="",BlazBlue Alter Memory
+https://login-strimer.vercel.app/Animes/BlazBlue_Alter_Memory.m3u
+#EXTINF:-1 type="playlist" tvg-id="Deca-Dence" tvg-logo="http://fenix7.com:80/images/i0XUehTP9Brtmb8YevpJYMNEWZT_big.jpg" description="",Deca-Dence
+https://login-strimer.vercel.app/Animes/DecaDence.m3u
+#EXTINF:-1 type="playlist" tvg-id="El-Hazard: The Wanderers" tvg-logo="http://fenix7.com:80/images/lhuAhPYnP32bJBaaARG7Rax2b8E_big.jpg" description="",El-Hazard: The Wanderers
+https://login-strimer.vercel.app/Animes/ElHazard_The_Wanderers.m3u
+#EXTINF:-1 type="playlist" tvg-id="Bicrossers" tvg-logo="http://fenix7.com:80/images/xUqk8bDcDdDlE7UDMeKflw7u56L_big.jpg" description="",Bicrossers
+https://login-strimer.vercel.app/Animes/Bicrossers.m3u
+#EXTINF:-1 type="playlist" tvg-id="O Exterminador do Futuro Zero" tvg-logo="http://fenix7.com:80/images/tK9uDDtuqI2ydM63vMj80psbLSD_big.jpg" description="",O Exterminador do Futuro Zero
+https://login-strimer.vercel.app/Animes/O_Exterminador_do_Futuro_Zero.m3u
+#EXTINF:-1 type="playlist" tvg-id="Corrector Yui" tvg-logo="http://fenix7.com:80/images/aKqZI1Oz20UyDtcaJIHdyRT7Cgb_big.jpg" description="",Corrector Yui
+https://login-strimer.vercel.app/Animes/Corrector_Yui.m3u
+#EXTINF:-1 type="playlist" tvg-id="Hell's Paradise" tvg-logo="http://fenix7.com:80/images/bbTgS7R6lor3j6YRAHnQj3dVlPa_big.jpg" description="",Hell's Paradise
+https://login-strimer.vercel.app/Animes/Hells_Paradise.m3u
+#EXTINF:-1 type="playlist" tvg-id="Tomo-chan Is a Girl!" tvg-logo="http://fenix7.com:80/images/554QpBr323KeYYYKQ3S9zKb3JnF_big.jpg" description="",Tomo-chan Is a Girl!
+https://login-strimer.vercel.app/Animes/Tomochan_Is_a_Girl.m3u
+#EXTINF:-1 type="playlist" tvg-id="Smile Precure!" tvg-logo="http://fenix7.com:80/images/eGDyBl7jLyiQYSB5hwjrrkdeZkh_big.jpg" description="",Smile Precure!
+https://login-strimer.vercel.app/Animes/Smile_Precure.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible" tvg-logo="http://fenix7.com:80/images/9GXof80hNE4RRhdZIFjTCa5kW6C_big.jpg" description="",The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+https://login-strimer.vercel.app/Animes/_Trained_to_Death_by_the_Most_Powerful_Party_Became_Invincible_tvglogohttpfenix7com80images9GXof80hNE4RRhdZIFjTCa5kW6Cbigjpg_descriptionThe_Ossan_Newbie_Adventurer_Trained_to_Death_by_the_Most_Powerful_Party_Became_Invincible.m3u
+#EXTINF:-1 type="playlist" tvg-id="Wistoria: Wand and Sword" tvg-logo="http://fenix7.com:80/images/iwKgHwuzru7MaSVdFr3RaRdCd9L_big.jpg" description="",Wistoria: Wand and Sword
+https://login-strimer.vercel.app/Animes/Wistoria_Wand_and_Sword.m3u
+#EXTINF:-1 type="playlist" tvg-id="Digimon 1999" tvg-logo="http://fenix7.com:80/images/AlPYAJYkSfvVYAXK1a3gZqpWwda_big.jpg" description="",Digimon 1999
+https://login-strimer.vercel.app/Animes/Digimon_1999.m3u
+#EXTINF:-1 type="playlist" tvg-id="Minha Amiga Nokotan é um Cervo" tvg-logo="http://fenix7.com:80/images/qxuxdQuIf8RqXmBNNaeteXgiMVf_big.jpg" description="",Minha Amiga Nokotan é um Cervo
+https://login-strimer.vercel.app/Animes/Minha_Amiga_Nokotan_e_um_Cervo.m3u
+#EXTINF:-1 type="playlist" tvg-id="Slime Taoshite 300" tvg-logo="http://fenix7.com:80/images/l1I63ZAwUmCOH6PS7EfUb9DwoMz_big.jpg" description="",Slime Taoshite 300
+https://login-strimer.vercel.app/Animes/Slime_Taoshite_300.m3u
+#EXTINF:-1 type="playlist" tvg-id="Barom One" tvg-logo="http://fenix7.com:80/images/taakVsSr2OtTve0Ke0vmyiSNlFb_big.jpg" description="",Barom One
+https://login-strimer.vercel.app/Animes/Barom_One.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Slime Diaries" tvg-logo="http://fenix7.com:80/images/tei5WNmvLkhMUkl4RiIibNLen01_big.jpg" description="",The Slime Diaries
+https://login-strimer.vercel.app/Animes/The_Slime_Diaries.m3u
+#EXTINF:-1 type="playlist" tvg-id="Babel II: Beyond Infinity" tvg-logo="http://fenix7.com:80/images/qnBm0spH00iMUzdr1rFBGCgbjdn_big.jpg" description="",Babel II: Beyond Infinity
+https://login-strimer.vercel.app/Animes/Babel_II_Beyond_Infinity.m3u
+#EXTINF:-1 type="playlist" tvg-id="Garouden: O Lobo Solitário" tvg-logo="http://fenix7.com:80/images/88x3gylxQ86wJlwql33g4S6IdQu_big.jpg" description="",Garouden: O Lobo Solitário
+https://login-strimer.vercel.app/Animes/Garouden_O_Lobo_Solitario.m3u
+#EXTINF:-1 type="playlist" tvg-id="Miss Kobayashi's Dragon Maid" tvg-logo="http://fenix7.com:80/images/pJQNdoWG8WPUkPCwkIifc9zy5q9_big.jpg" description="",Miss Kobayashi's Dragon Maid
+https://login-strimer.vercel.app/Animes/Miss_Kobayashis_Dragon_Maid.m3u
+#EXTINF:-1 type="playlist" tvg-id="DNA²" tvg-logo="http://fenix7.com:80/images/6JFx2Tzio2BId8ZUBdFlQpZUY2w_big.jpg" description="",DNA²
+https://login-strimer.vercel.app/Animes/DNA.m3u
+#EXTINF:-1 type="playlist" tvg-id="Nurarihyon no Mago" tvg-logo="http://fenix7.com:80/images/krFVaIPQlN49Avx5VZ2rhb4aNFi_big.jpg" description="",Nurarihyon no Mago
+https://login-strimer.vercel.app/Animes/Nurarihyon_no_Mago.m3u
+#EXTINF:-1 type="playlist" tvg-id="A Journey Through Another World: Raising Kids While Adventuring" tvg-logo="http://fenix7.com:80/images/1uAbyIVfe1LQQnLCX0dlAiUx1yP_big.jpg" description="",A Journey Through Another World: Raising Kids While Adventuring
+https://login-strimer.vercel.app/Animes/A_Journey_Through_Another_World_Raising_Kids_While_Adventuring.m3u
+#EXTINF:-1 type="playlist" tvg-id="BLUE DRAGON" tvg-logo="http://fenix7.com:80/images/fI5npStCAoL34YO67h3oATYj2EF_big.jpg" description="",BLUE DRAGON
+https://login-strimer.vercel.app/Animes/BLUE_DRAGON.m3u
+#EXTINF:-1 type="playlist" tvg-id="TENGOKU-DAIMAKYO: ILUSÃO CELESTIAL" tvg-logo="http://fenix7.com:80/images/jygWkvETR9TXtQsp26Hr14EzFiD_big.jpg" description="",TENGOKU-DAIMAKYO: ILUSÃO CELESTIAL
+https://login-strimer.vercel.app/Animes/TENGOKUDAIMAKYO_ILUSAO_CELESTIAL.m3u
+#EXTINF:-1 type="playlist" tvg-id="D.Gray-man" tvg-logo="http://fenix7.com:80/images/sCud9dr6nxsY1Oza5SCCb83qNwY_big.jpg" description="",D.Gray-man
+https://login-strimer.vercel.app/Animes/DGrayman.m3u
+#EXTINF:-1 type="playlist" tvg-id="Tensei Kizoku no Isekai Boukenroku" tvg-logo="http://fenix7.com:80/images/zPuT9PlTQ8gympp72OzjBM80pgp_big.jpg" description="",Tensei Kizoku no Isekai Boukenroku
+https://login-strimer.vercel.app/Animes/Tensei_Kizoku_no_Isekai_Boukenroku.m3u
+#EXTINF:-1 type="playlist" tvg-id="TRIGUN STAMPEDE" tvg-logo="http://fenix7.com:80/images/8mqvaj0a74JZkvCc4w1J2ePchl_big.jpg" description="",TRIGUN STAMPEDE
+https://login-strimer.vercel.app/Animes/TRIGUN_STAMPEDE.m3u
+#EXTINF:-1 type="playlist" tvg-id="Burst Angel" tvg-logo="http://fenix7.com:80/images/cd6N5qbLblkTE2Xy1m0CwkFCNxf_big.jpg" description="",Burst Angel
+https://login-strimer.vercel.app/Animes/Burst_Angel.m3u
+#EXTINF:-1 type="playlist" tvg-id="By the Grace of the Gods" tvg-logo="http://fenix7.com:80/images/436ZoVzOmKuWKRRKDsI6crc5Tuj_big.jpg" description="",By the Grace of the Gods
+https://login-strimer.vercel.app/Animes/By_the_Grace_of_the_Gods.m3u
+#EXTINF:-1 type="playlist" tvg-id="Akatsuki no Yona" tvg-logo="http://fenix7.com:80/images/uF11jqAUCXJzG5aLihc8My4IIgc_big.jpg" description="",Akatsuki no Yona
+https://login-strimer.vercel.app/Animes/Akatsuki_no_Yona.m3u
+#EXTINF:-1 type="playlist" tvg-id="Kuroko no Basket" tvg-logo="http://fenix7.com:80/images/ftT1qtT6yWO5rfs237a466N8QRr_big.jpg" description="",Kuroko no Basket
+https://login-strimer.vercel.app/Animes/Kuroko_no_Basket.m3u
+#EXTINF:-1 type="playlist" tvg-id="Boa Noite, Mundo" tvg-logo="http://fenix7.com:80/images/xoRwMPvORrZKqAvWKA0wm7vR250_big.jpg" description="",Boa Noite, Mundo
+https://login-strimer.vercel.app/Animes/_Mundo_tvglogohttpfenix7com80imagesxoRwMPvORrZKqAvWKA0wm7vR250bigjpg_descriptionBoa_Noite_Mundo.m3u
+#EXTINF:-1 type="playlist" tvg-id="Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu [L]" tvg-logo="http://fenix7.com:80/images/eW7WipQUnl4zFEqGyoZxDvhgMYK_big.jpg" description="",Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu [L]
+https://login-strimer.vercel.app/Animes/Rougo_ni_Sonaete_Isekai_de_8manmai_no_Kinka_wo_Tamemasu_L.m3u
+#EXTINF:-1 type="playlist" tvg-id="Re:ZERO -Starting Life in Another World- Director's Cut" tvg-logo="http://fenix7.com:80/images/cWOXSpeweBfafEZUrd22X9ZuT0F_big.jpg" description="",Re:ZERO -Starting Life in Another World- Director's Cut
+https://login-strimer.vercel.app/Animes/ReZERO_Starting_Life_in_Another_World_Directors_Cut.m3u
+#EXTINF:-1 type="playlist" tvg-id="Super Campeões: Road to" tvg-logo="http://fenix7.com:80/images/2MAz5ZYSHme3AI4m0XaaB7m3d9L_big.jpg" description="",Super Campeões: Road to
+https://login-strimer.vercel.app/Animes/Super_Campeoes_Road_to.m3u
+#EXTINF:-1 type="playlist" tvg-id="Go! Go! Loser Ranger!" tvg-logo="http://fenix7.com:80/images/4Rob4WUlT9RqybEPRTAeR0fijc0_big.jpg" description="",Go! Go! Loser Ranger!
+https://login-strimer.vercel.app/Animes/Go_Go_Loser_Ranger.m3u
+#EXTINF:-1 type="playlist" tvg-id="Ranma ½" tvg-logo="http://fenix7.com:80/images/tQ2iE3yhQbaPhDHkIObgubsCp9t_big.jpg" description="",Ranma ½
+https://login-strimer.vercel.app/Animes/Ranma_.m3u
+#EXTINF:-1 type="playlist" tvg-id="NieR:Automata Ver1.1a" tvg-logo="http://fenix7.com:80/images/tTldK0S5b6ICerha6oK0TF7p1gY_big.jpg" description="",NieR:Automata Ver1.1a
+https://login-strimer.vercel.app/Animes/NieRAutomata_Ver11a.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Eminence in Shadow" tvg-logo="http://fenix7.com:80/images/r3IHw82QFkLmggTG9QpBFpYArVM_big.jpg" description="",The Eminence in Shadow
+https://login-strimer.vercel.app/Animes/The_Eminence_in_Shadow.m3u
+#EXTINF:-1 type="playlist" tvg-id="11eyes" tvg-logo="http://fenix7.com:80/images/o0UnWewTlZbtkRQDQGrKMGzruVI_big.jpg" description="",11eyes
+https://login-strimer.vercel.app/Animes/11eyes.m3u
+#EXTINF:-1 type="playlist" tvg-id="VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream" tvg-logo="http://fenix7.com:80/images/4s97rYWqJAsAOeDn8Is09fkLcsc_big.jpg" description="",VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream
+https://login-strimer.vercel.app/Animes/VTuber_Legend_How_I_Went_Viral_after_Forgetting_to_Turn_Off_My_Stream.m3u
+#EXTINF:-1 type="playlist" tvg-id="Os Cavaleiros do Zodíaco: Saga de Hades" tvg-logo="http://fenix7.com:80/images/8nCfBKaGVftgH65FpKoGFIUNOob_big.jpg" description="",Os Cavaleiros do Zodíaco: Saga de Hades
+https://login-strimer.vercel.app/Animes/Os_Cavaleiros_do_Zodiaco_Saga_de_Hades.m3u
