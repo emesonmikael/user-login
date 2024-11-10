@@ -38,7 +38,7 @@ https://login-strimer.vercel.app/Series/Series_Brasil_Paralelo.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Programas de TV
 https://login-strimer.vercel.app/Series/Programas_de_TV.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Novelas
-https://login-strimer.vercel.app/Series/Novelas.m3u
+https://login-strimer.vercel.app/Novelas.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series | Paramount
 https://login-strimer.vercel.app/Series/Series_Paramount.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES | Ação
