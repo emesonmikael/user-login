@@ -5,6 +5,6 @@ https://strimer-mutimidia.vercel.app/App/playlist.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/nqyYtD3/file-Jk7-Ddw-Iy75-Ej-DTbd-YOK4-R8an-2.webp",FILMES
 #EXTBG:https://i.imgur.com/vnPmfhz.png
 https://strimer-mutimidia.vercel.app/App/Filmes/listaFilmes.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series
+#EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/hMnkM5J/file-4j-VM9-Kr-Nd02l-M8-Serrq-BCBvp.webp",Series
 #EXTBG:https://i.imgur.com/vJD9S1U.png
 https://login-strimer.vercel.app/seriestaiger.m3u
