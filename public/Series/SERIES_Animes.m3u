@@ -195,8 +195,8 @@ https://login-strimer.vercel.app/Animes/Wandering_Witch_The_Journey_Of_Elaina.m3
 https://login-strimer.vercel.app/Animes/Viewtiful_Joe.m3u
 #EXTINF:-1 type="playlist" tvg-id="Ganbare Doukichan" tvg-logo="http://fenix7.com:80/images/phjhDDopklmnlu1uhl4qF7MSpQ4_big.jpg" description="",Ganbare Doukichan
 https://login-strimer.vercel.app/Animes/Ganbare_Doukichan.m3u
-#EXTINF:-1 type="playlist" tvg-id="The Fruit Of Evolution: Before I Knew It, My Life Had It Made" tvg-logo="http://fenix7.com:80/images/eSfh7eFwdgcdbHDKDv2jDAYS71A_big.jpg" description="",The Fruit Of Evolution: Before I Knew It, My Life Had It Made
-https://login-strimer.vercel.app/Animes/_My_Life_Had_It_Made_tvglogohttpfenix7com80imageseSfh7eFwdgcdbHDKDv2jDAYS71Abigjpg_descriptionThe_Fruit_Of_Evolution_Before_I_Knew_It_My_Life_Had_It_Made.m3u
+#EXTINF:-1 type="playlist" tvg-id="The Fruit Of Evolution: Before I Knew It My Life Had It Made" tvg-logo="http://fenix7.com:80/images/eSfh7eFwdgcdbHDKDv2jDAYS71A_big.jpg" description="",The Fruit Of Evolution: Before I Knew It, My Life Had It Made
+https://login-strimer.vercel.app/Animes/The_Fruit_Of_Evolution_Before_I_Knew_It_My_Life_Had_It_Made.m3u
 #EXTINF:-1 type="playlist" tvg-id="The Vampire Dies In No Time" tvg-logo="http://fenix7.com:80/images/4RHvDoMU3DSkxt13I3wLGql3DE8_big.jpg" description="",The Vampire Dies In No Time
 https://login-strimer.vercel.app/Animes/The_Vampire_Dies_In_No_Time.m3u
 #EXTINF:-1 type="playlist" tvg-id="Demi-chan wa Kataritai" tvg-logo="http://fenix7.com:80/images/eupiPrergE2WXxkRrIV3XAc8h0q_big.jpg" description="",Demi-chan wa Kataritai
@@ -233,7 +233,7 @@ https://login-strimer.vercel.app/Animes/Hells_Paradise.m3u
 https://login-strimer.vercel.app/Animes/Tomochan_Is_a_Girl.m3u
 #EXTINF:-1 type="playlist" tvg-id="Smile Precure!" tvg-logo="http://fenix7.com:80/images/eGDyBl7jLyiQYSB5hwjrrkdeZkh_big.jpg" description="",Smile Precure!
 https://login-strimer.vercel.app/Animes/Smile_Precure.m3u
-#EXTINF:-1 type="playlist" tvg-id="The Ossan Newbie Adventurer Trained to Death by the Most Powerful Party, Became Invincible" tvg-logo="http://fenix7.com:80/images/9GXof80hNE4RRhdZIFjTCa5kW6C_big.jpg" description="",The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+#EXTINF:-1 type="playlist" tvg-id="The Ossan Newbie Adventurer Trained to Death by the Most Powerful Party Became Invincible" tvg-logo="http://fenix7.com:80/images/9GXof80hNE4RRhdZIFjTCa5kW6C_big.jpg" description="",The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
 https://login-strimer.vercel.app/Animes/_Became_Invincible_tvglogohttpfenix7com80images9GXof80hNE4RRhdZIFjTCa5kW6Cbigjpg_descriptionThe_Ossan_Newbie_Adventurer_Trained_to_Death_by_the_Most_Powerful_Party_Became_Invincible.m3u
 #EXTINF:-1 type="playlist" tvg-id="Wistoria: Wand and Sword" tvg-logo="http://fenix7.com:80/images/iwKgHwuzru7MaSVdFr3RaRdCd9L_big.jpg" description="",Wistoria: Wand and Sword
 https://login-strimer.vercel.app/Animes/Wistoria_Wand_and_Sword.m3u
