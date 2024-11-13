@@ -1,10 +1,10 @@
 #EXTM3U size="Big"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
+#EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/NZS3GHR/file-Ugw8vl-F7q-Odzw-QYkf8-NXTyl5-2.webp",CANAIS
 #EXTBG:https://i.imgur.com/JCcgEeo.png
 https://strimer-mutimidia.vercel.app/App/playlist.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
+#EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/nqyYtD3/file-Jk7-Ddw-Iy75-Ej-DTbd-YOK4-R8an-2.webp",FILMES
 #EXTBG:https://i.imgur.com/vnPmfhz.png
 https://strimer-mutimidia.vercel.app/App/Filmes/listaFilmes.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Series
+#EXTINF:0 type="playlist" tvg-logo="https://i.ibb.co/hMnkM5J/file-4j-VM9-Kr-Nd02l-M8-Serrq-BCBvp.webp",Series
 #EXTBG:https://i.imgur.com/vJD9S1U.png
 https://login-strimer.vercel.app/seriestaiger.m3u
