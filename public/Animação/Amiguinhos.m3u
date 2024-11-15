@@ -1,0 +1,33 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S01.E001" group-title="" description="T1E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/6408698.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S01.E002" group-title="" description="T1E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/6408699.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S01.E003" group-title="" description="T1E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/6408700.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S01.E004" group-title="" description="T1E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/6408701.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S01.E005" group-title="" description="T1E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/6408702.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S01.E006" group-title="" description="T1E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/6408703.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S01.E007" group-title="" description="T1E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/6408704.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S01.E008" group-title="" description="T1E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/6408705.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S02.E001" group-title="" description="T2E1" tvg-logo="",Episódio 1
+http://cmrt.in/series/978460358/473005646/6408706.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S02.E002" group-title="" description="T2E2" tvg-logo="",Episódio 2
+http://cmrt.in/series/978460358/473005646/6408707.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S02.E003" group-title="" description="T2E3" tvg-logo="",Episódio 3
+http://cmrt.in/series/978460358/473005646/6408708.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S02.E004" group-title="" description="T2E4" tvg-logo="",Episódio 4
+http://cmrt.in/series/978460358/473005646/6408709.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S02.E005" group-title="" description="T2E5" tvg-logo="",Episódio 5
+http://cmrt.in/series/978460358/473005646/6408710.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S02.E006" group-title="" description="T2E6" tvg-logo="",Episódio 6
+http://cmrt.in/series/978460358/473005646/6408711.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S02.E007" group-title="" description="T2E7" tvg-logo="",Episódio 7
+http://cmrt.in/series/978460358/473005646/6408712.mp4
+#EXTINF:-1 type="video" tvg-id="Amiguinhos.S02.E008" group-title="" description="T2E8" tvg-logo="",Episódio 8
+http://cmrt.in/series/978460358/473005646/6408713.mp4
