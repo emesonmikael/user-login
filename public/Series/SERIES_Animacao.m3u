@@ -609,9 +609,9 @@ https://login-strimer.vercel.app/Animacao/O_Laboratorio_De_Dexter.m3u
 https://login-strimer.vercel.app/Animacao/Super_Galo.m3u
 #EXTINF:-1 type="playlist" tvg-id="Batman: Cruzado Encapuzado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyB0p30uzaYDpCrpoMUAApxdiow.jpg" description="",Batman: Cruzado Encapuzado
 https://login-strimer.vercel.app/Animacao/Batman_Cruzado_Encapuzado.m3u
-#EXTINF:-1 type="playlist" tvg-id="Plic, Ploc E Chuvisco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZumU878KJndWedQICQAKz6kCf4.jpg" description="",Plic, Ploc E Chuvisco
+#EXTINF:-1 type="playlist" tvg-id="Plic Ploc E Chuvisco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZumU878KJndWedQICQAKz6kCf4.jpg" description="",Plic, Ploc E Chuvisco
 https://login-strimer.vercel.app/Animacao/_Ploc_E_Chuvisco_tvglogohttpsimagetmdborgtpw600andh900bestv25ZumU878KJndWedQICQAKz6kCf4jpg_descriptionPlic_Ploc_E_Chuvisco.m3u
-#EXTINF:-1 type="playlist" tvg-id="Du, Dudu E Edu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" description="",Du, Dudu E Edu
+#EXTINF:-1 type="playlist" tvg-id="Du Dudu E Edu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" description="",Du, Dudu E Edu
 https://login-strimer.vercel.app/Animacao/_Dudu_E_Edu_tvglogohttpsimagetmdborgtpw600andh900bestv2ipLfSfDrRRRzoPSa2VT6pCpW3B6jpg_descriptionDu_Dudu_E_Edu.m3u
 #EXTINF:-1 type="playlist" tvg-id="Fancy Nancy Clancy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibqrYkgtrGeFiCrQi9RezDeenoi.jpg" description="",Fancy Nancy Clancy
 https://login-strimer.vercel.app/Animacao/Fancy_Nancy_Clancy.m3u
@@ -663,7 +663,7 @@ https://login-strimer.vercel.app/Animacao/Jornada_Nas_Estrelas_A_Serie_Animada.m
 https://login-strimer.vercel.app/Animacao/Mickey_Aventuras_Sobre_Rodas.m3u
 #EXTINF:-1 type="playlist" tvg-id="Mickey Mouse Funhouse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt1iAwUyGmWpAbgnGXqWImLjiPY.jpg" description="",Mickey Mouse Funhouse
 https://login-strimer.vercel.app/Animacao/Mickey_Mouse_Funhouse.m3u
-#EXTINF:-1 type="playlist" tvg-id="Patati-Patatá, O Melhor Da Pré-Escola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lc0efQx6ABqEN57Ne0Z1Ugn3TRh.jpg" description="",Patati-Patatá, O Melhor Da Pré-Escola
+#EXTINF:-1 type="playlist" tvg-id="Patati-Patatá O Melhor Da Pré-Escola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lc0efQx6ABqEN57Ne0Z1Ugn3TRh.jpg" description="",Patati-Patatá, O Melhor Da Pré-Escola
 https://login-strimer.vercel.app/Animacao/_O_Melhor_Da_PreEscola_tvglogohttpsimagetmdborgtpw600andh900bestv2lc0efQx6ABqEN57Ne0Z1Ugn3TRhjpg_descriptionPatatiPatata_O_Melhor_Da_PreEscola.m3u
 #EXTINF:-1 type="playlist" tvg-id="Peppa Pig" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVaiv0S34JnRKHnYkEiObOI15k5.jpg" description="",Peppa Pig
 https://login-strimer.vercel.app/Animacao/Peppa_Pig.m3u
@@ -687,7 +687,7 @@ https://login-strimer.vercel.app/Animacao/BraveStarr.m3u
 https://login-strimer.vercel.app/Animacao/Coelho_Ricochete_E_Blau_Blau.m3u
 #EXTINF:-1 type="playlist" tvg-id="Gárgulas" tvg-logo="http://fenix7.com:80/images/wFiJUiZA6RRDAZA2KJFhemdicv_big.jpg" description="",Gárgulas
 https://login-strimer.vercel.app/Animacao/Gargulas.m3u
-#EXTINF:-1 type="playlist" tvg-id="Harvey, O Advogado" tvg-logo="http://fenix7.com:80/images/u2RV9Vghv5bTXvJkoDasQphqZqF_big.jpg" description="",Harvey, O Advogado
+#EXTINF:-1 type="playlist" tvg-id="Harvey O Advogado" tvg-logo="http://fenix7.com:80/images/u2RV9Vghv5bTXvJkoDasQphqZqF_big.jpg" description="",Harvey, O Advogado
 https://login-strimer.vercel.app/Animacao/_O_Advogado_tvglogohttpfenix7com80imagesu2RV9Vghv5bTXvJkoDasQphqZqFbigjpg_descriptionHarvey_O_Advogado.m3u
 #EXTINF:-1 type="playlist" tvg-id="Tutubarão" tvg-logo="http://fenix7.com:80/images/6WiaPCZMMVKGpGlJYHsFnyQn1x1_big.jpg" description="",Tutubarão
 https://login-strimer.vercel.app/Animacao/Tutubarao.m3u
@@ -713,7 +713,7 @@ https://login-strimer.vercel.app/Animacao/A_Mumia.m3u
 https://login-strimer.vercel.app/Animacao/As_Novas_Aventuras_do_Batman.m3u
 #EXTINF:-1 type="playlist" tvg-id="Bakugan" tvg-logo="http://fenix7.com:80/images/go2IfyqSK7YJ403tvugctEQgjxQ_big.jpg" description="",Bakugan
 https://login-strimer.vercel.app/Animacao/Bakugan.m3u
-#EXTINF:-1 type="playlist" tvg-id="Krypto, O Supercão" tvg-logo="http://fenix7.com:80/images/6qFgs1Zw6AUxI2L86aaIa7IrsnK_big.jpg" description="",Krypto, O Supercão
+#EXTINF:-1 type="playlist" tvg-id="Krypto O Supercão" tvg-logo="http://fenix7.com:80/images/6qFgs1Zw6AUxI2L86aaIa7IrsnK_big.jpg" description="",Krypto, O Supercão
 https://login-strimer.vercel.app/Animacao/_O_Supercao_tvglogohttpfenix7com80images6qFgs1Zw6AUxI2L86aaIa7IrsnKbigjpg_descriptionKrypto_O_Supercao.m3u
 #EXTINF:-1 type="playlist" tvg-id="Marcelino Pão e Vinho" tvg-logo="http://fenix7.com:80/images/aiGIjewzrhslai1CjFOHnOVDWJD_big.jpg" description="",Marcelino Pão e Vinho
 https://login-strimer.vercel.app/Animacao/Marcelino_Pao_e_Vinho.m3u
@@ -767,7 +767,7 @@ https://login-strimer.vercel.app/Animacao/Oban_StarRacers.m3u
 https://login-strimer.vercel.app/Animacao/O_Mundo_Colorido_do_Charlie.m3u
 #EXTINF:-1 type="playlist" tvg-id="Ho-Ho-Límpicos" tvg-logo="http://fenix7.com:80/images/_big.jpg" description="",Ho-Ho-Límpicos
 https://login-strimer.vercel.app/Animacao/HoHoLimpicos.m3u
-#EXTINF:-1 type="playlist" tvg-id="Que Legal, Scooby Doo!" tvg-logo="http://fenix7.com:80/images/f3BcfmJdmPWJ6PrdKIe9GosjAQ1_big.jpg" description="",Que Legal, Scooby Doo!
+#EXTINF:-1 type="playlist" tvg-id="Que Legal Scooby Doo!" tvg-logo="http://fenix7.com:80/images/f3BcfmJdmPWJ6PrdKIe9GosjAQ1_big.jpg" description="",Que Legal, Scooby Doo!
 https://login-strimer.vercel.app/Animacao/_Scooby_Doo_tvglogohttpfenix7com80imagesf3BcfmJdmPWJ6PrdKIe9GosjAQ1bigjpg_descriptionQue_Legal_Scooby_Doo.m3u
 #EXTINF:-1 type="playlist" tvg-id="Transformers: Rescue Bots" tvg-logo="http://fenix7.com:80/images/wtugHPxksnORftAs7EOGK3Oy0I5_big.jpg" description="",Transformers: Rescue Bots
 https://login-strimer.vercel.app/Animacao/Transformers_Rescue_Bots.m3u
@@ -819,7 +819,7 @@ https://login-strimer.vercel.app/Animacao/Disney_Junior_Ariel.m3u
 https://login-strimer.vercel.app/Animacao/Todo_Mundo_Ainda_Odeia_o_Chris.m3u
 #EXTINF:-1 type="playlist" tvg-id="Sob o Mar" tvg-logo="http://fenix7.com:80/images/cJe053A9SB3oMbjd4IBndjePvQT_big.jpg" description="",Sob o Mar
 https://login-strimer.vercel.app/Animacao/Sob_o_Mar.m3u
-#EXTINF:-1 type="playlist" tvg-id="Bob, o Construtor" tvg-logo="http://fenix7.com:80/images/6JdTZ7OlXeTjYirkb4pBWytRXtK_big.jpg" description="",Bob, o Construtor
+#EXTINF:-1 type="playlist" tvg-id="Bob o Construtor" tvg-logo="http://fenix7.com:80/images/6JdTZ7OlXeTjYirkb4pBWytRXtK_big.jpg" description="",Bob, o Construtor
 https://login-strimer.vercel.app/Animacao/_o_Construtor_tvglogohttpfenix7com80images6JdTZ7OlXeTjYirkb4pBWytRXtKbigjpg_descriptionBob_o_Construtor.m3u
 #EXTINF:-1 type="playlist" tvg-id="Buba: Aventuras na Cozinha" tvg-logo="http://fenix7.com:80/images/9JVNxqKeoe1gwqDKlC93lYliltt_big.jpg" description="",Buba: Aventuras na Cozinha
 https://login-strimer.vercel.app/Animacao/Buba_Aventuras_na_Cozinha.m3u
