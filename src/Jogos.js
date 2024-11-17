@@ -30,7 +30,7 @@ function PSPEmulator() {
       </button>
       <iframe
         ref={iframeRef}
-        src="/path-to-ppsspp-web/index.html"
+        src="/pcsxjs-master/pcsx_ww.html"
         title="PSP Emulator"
         width="800"
         height="600"
