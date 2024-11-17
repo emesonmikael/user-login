@@ -50,6 +50,7 @@ import M3UPlayerRomance from './Romance';
 import M3UPlayerSuspense from './Suspense';
 import M3UPlayerDocumentarios from './Documentarios';
 import M3UPlayerReligiosos from './Religiosos';
+import PSPEmulator from './Jogos';
 
 function App() {
     return (
@@ -74,7 +75,7 @@ function App() {
                     <Route path="/Series" element={ <PrivateRoute ><App2/></PrivateRoute>} />
                     <Route path="/OiPlay" element={<PrivateRoute ><M3UPlayerOiPlay /></PrivateRoute>} />
                     <Route path="/VERTUDO" element={<PrivateRoute ><M3UApp /></PrivateRoute>} />
-                    
+                    <Route path="/Jogos" element={ <PrivateRoute ><PSPEmulator/></PrivateRoute>} />
         
         <Route path="/HBOMax" element={<M3UPlayerHbo />} />
         <Route path="/Globoplay" element={<M3UPlayerGloboplay />} />
