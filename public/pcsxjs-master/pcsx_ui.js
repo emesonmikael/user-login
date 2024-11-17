@@ -205,7 +205,7 @@ var check_controller = function () {
 
 var file_list;
 var pcsx_readfile = function (controller) {
-  document.getElementById('iso_opener').disabled=false;  
+  document.getElementById('iso_opener').disabled=true;  
   cout_print("pcsx_readfile\n");
   file_list = controller.files;
   pcsx_worker.postMessage({ cmd: "loadfile", file: controller.files[0] });
