@@ -23,7 +23,8 @@ const Login = () => {
         try {
             const response = await loginUser(usernameInput, passwordInput);
             if (response.success) {
-                if (response.isActive) {
+                if (response.success)//response.isActive) 
+                    {
                     login(usernameInput);
                     navigate('/home');
                 } else {
