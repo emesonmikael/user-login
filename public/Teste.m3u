@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgx.com.br/uploads/img_683ab1a50d9514.32081639.jpg" size="Medium",Rede TV FHD H264
+#EXTBG:
+http://paineliptvbr.ddns.net/live/220789/989122/724
+#EXTINF:-1 tvg-logo="https://imgx.com.br/uploads/img_683ab1a50d9514.32081639.jpg" size="Medium",Rede TV FHD H265
+#EXTBG:
+http://paineliptvbr.ddns.net/live/220789/989122/725
+#EXTINF:-1 tvg-logo="https://imgx.com.br/uploads/img_683ab1a50d9514.32081639.jpg" size="Medium",Rede TV HD
+#EXTBG:
+http://paineliptvbr.ddns.net/live/220789/989122/726
+#EXTINF:-1 tvg-logo="https://imgx.com.br/uploads/img_683ab1a50d9514.32081639.jpg" size="Médio",Rede TV Nacional
+#EXTBG:
+http://paineliptvbr.ddns.net/live/220789/989122/727
+#EXTINF:-1 tvg-logo="https://imgx.com.br/uploads/img_683ab1a50d9514.32081639.jpg" size="Médio",Rede TV Paraná HD
+#EXTBG:
+http://paineliptvbr.ddns.net/live/220789/989122/728
