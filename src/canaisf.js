@@ -8,6 +8,25 @@ import axios from 'axios';
 function Canais() {
   const [streams, setStreams] = useState([]); // Lista de streams
   const [currentStream, setCurrentStream] = useState(''); // Stream selecionado
+  const originalM3uUrl = 'http://paineliptvbr.ddns.net/get.php?username=220789&password=989122&type=m3u_plus&output=ts';
+        const proxyBase = 'https://proxy-server-eight-omega.vercel.app/proxy/';
+        
+
+  // Função para aplicar proxy a uma URL
+        function applyProxy(url) {
+            if (url.includes(proxyBase)) {
+                return url;
+            }
+            
+            try {
+                const urlObj = new URL(url);
+                const pathWithParams = urlObj.pathname + urlObj.search;
+                return `${proxyBase}${pathWithParams.substring(1)}`;
+            } catch (e) {
+                console.error('Erro ao processar URL:', url, e);
+                return url;
+            }
+        }
 
   // URL do arquivo M3U
   const m3uUrl = 'https://proxy-server-eight-omega.vercel.app/proxy/get.php?username=220789&password=989122&type=m3u_plus&output=m3u8'; // URL do arquivo M3U
@@ -50,6 +69,7 @@ function Canais() {
           }
 
           const url = lines[i + 1] || '';
+          url = applyProxy(url);
 
           streamsList.push({
             name: name,
