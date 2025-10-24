@@ -1,13 +1,13 @@
 #EXTM3U size="Medium"
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1NQYiimXdMnSKPE5x8D1c7bSDr.jpg" size="Medium",A Avaliação (2025)
 #EXTBG:
-http://paineliptvbr.ddns.net/movie/136874/461145/14851
+https://proxy-server-eight-omega.vercel.app/proxy/movie/136874/461145/14851
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moYXQwN4Snyv6cpvA3FChPOJGXc.jpg" size="Medium",A Família Khumalo (2025)
 #EXTBG:
-http://paineliptvbr.ddns.net/movie/136874/461145/14852
+https://proxy-server-eight-omega.vercel.app/proxy/movie/136874/461145/14852
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cfibtbTGjeEwHsyi5jenL8Q5GB.jpg" size="Medium",A Grande Corrida (2023)
 #EXTBG:
-http://paineliptvbr.ddns.net/movie/136874/461145/14853
+https://proxy-server-eight-omega.vercel.app/proxy/movie/136874/461145/14853
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXFAQ5fM3BkFb1y6Gz85m4UmwfP.jpg" size="Medium",Ameaça no Ar (2025)
 #EXTBG:
 http://paineliptvbr.ddns.net/movie/136874/461145/14854
